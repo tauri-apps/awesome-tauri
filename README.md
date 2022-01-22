@@ -6,7 +6,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 ## APPS
 | App Name | Repo | Website | Description |
 | - | - | - | - |
-| | | |
+| UsTaxes | [github][ustaxes-repo] | [UsTaxes.org][ustaxes-site] | Free, private, open-source US tax filings
 
 ## PLUGINS
 | Plugin Name | Repo | Description |
@@ -31,3 +31,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 
 # License
 All content in this repo is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+
+[ustaxes-repo]: //github.com/ustaxes/ustaxes
+[ustaxes-site]: //ustaxes.org
