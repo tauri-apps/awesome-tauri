@@ -10,7 +10,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 
 ## PLUGINS
 | Plugin Name | Repo | Description |
-| - | - | - |
+| tauri-plugin-positioner | https://github.com/JonasKruckenberg/tauri-plugin-positioner | Helps positioning Tauri windows at known locations |
 | | |
 
 ## TEMPLATES
