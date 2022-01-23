@@ -20,7 +20,7 @@ Thank you for your suggestion!
 
 ## Apps
 
-Apps give the opportunity to showcase the awesome things we can build with Tauri. When submitting your app, make sure your submission adheres to the following:
+Apps give the opportunity to showcase the awesome things we can build with Tauri. When submitting your app, make sure to adhere to the following:
 
 - The app is using Tauri.
 - The app is original and not too simple.
