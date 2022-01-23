@@ -1,0 +1,22 @@
+{
+  "name": "awesome-tauri",
+  "version": "1.0.0",
+  "description": "<!-- <p align=\"center\">   <br>   <img width=\"400\" src=\"./assets/logo.svg\" alt=\"logo of awesome-vite repository\">   <br>   <br> </p> -->",
+  "main": "index.js",
+  "scripts": {
+    "lint": "awesome-lint README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tauri-apps/awesome-tauri.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tauri-apps/awesome-tauri/issues"
+  },
+  "homepage": "https://github.com/tauri-apps/awesome-tauri#readme",
+  "devDependencies": {
+    "awesome-lint": "^0.18.0"
+  }
+}
