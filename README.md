@@ -11,20 +11,12 @@ This is where we collect all of the best stuff from the ecosystem and community.
 </a>
 </p>
 
-## Resources
-
-- [Homepage](https://tauri.studio)
-- [GitHub Repo](https://github.com/tauri-apps/tauri)
-
 ## Get Started
 
+- [Introduction](https://tauri.studio/docs/development/intro) - Official introduction to Tauri.
 - [create-tauri-app](https://github.com/tauri-apps/tauri/tree/next/tooling/create-tauri-app) - Rapidly scaffold your Tauri app.
 
 ### Templates
-
-### Tutorials
-
-### Blog Articles
 
 ## Plugins
 
@@ -48,3 +40,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source US tax filings.
 
 ### Closed Source
+
+## Tutorials
+
+## Articles
