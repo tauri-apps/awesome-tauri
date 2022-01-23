@@ -11,6 +11,15 @@ This is where we collect all of the best stuff from the ecosystem and community.
 </a>
 </p>
 
+## Contents
+
+- [Contents](#contents)
+- [Get Started](#get-started)
+- [Plugins](#plugins)
+- [Apps](#apps)
+- [Tutorials](#tutorials)
+- [Articles](#articles)
+
 ## Get Started
 
 - [Introduction](https://tauri.studio/docs/development/intro) - Official introduction to Tauri.
