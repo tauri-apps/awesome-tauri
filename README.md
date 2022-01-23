@@ -42,5 +42,3 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
 
 ## Apps
-
-- [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source US tax filings.
