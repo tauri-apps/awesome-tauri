@@ -9,7 +9,7 @@
 - [ ] The description doesn't start with `A` or `An`.
 - [ ] No unnecessary words already provided in the context (e.g. `for Tauri`, `a Tauri plugin`).
 - [ ] Uses proper case for terms (e.g. `GitHub`, `TypeScript`, `ESLint`, etc.)
-- [ ] When mentioning tools, omits versions whenever possible (e.g. use `TypeScript` instead of `TypeScript 4.x`, but keep `Vue 2` and `Vue 3` as they're incompatible).
+- [ ] When mentioning tools, omits versions whenever possible (e.g. use `TypeScript` instead of `TypeScript 4.x`.
 - [ ] When mentioning package names, uses quotes whenever possible.
 
 ### Plugins/Tools
