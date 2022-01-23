@@ -11,9 +11,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 </a>
 </p>
 
-## Contents
-
-- [Contents](#contents)
+## Table of Contents
 - [Get Started](#get-started)
 - [Plugins](#plugins)
 - [Apps](#apps)
