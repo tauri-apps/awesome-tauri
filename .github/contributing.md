@@ -25,6 +25,7 @@ Apps gives he opportunity to showcase the awesome things we can build with Tauri
 - The app is using Tauri.
 - The app is original and not too simple.
 - Tauri goes to great lengths to enable fast, lightweight and secure apps. Therefore we expect featured apps to make a (reasonable) effort to be fast, lightweight and secure.
+- If you're submitting a closed source app, include evidence of it being built with Tauri.
 
 ## Violations
 
