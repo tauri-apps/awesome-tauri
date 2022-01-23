@@ -3,28 +3,28 @@
 This is where we collect all of the best stuff from the ecosystem and community. To contribute, just make a PR.
 
 
-## APPS
+## Apps
 | App Name (Repo Link) | Website | Description |
 | - | - | - |
 | | |
 
-## PLUGINS
+## Plugins
 | Plugin Name (Repo Link) | Description |
 |-|-|
 | [tauri-plugin-positioner][tauri-plugin-positioner-repo] | Helps positioning Tauri windows at known locations |
 | | |
 
-## TEMPLATES
+## Templates
 | Template Name (Repo Link) | Description |
 | - | - |
 | |
 
-## TUTORIALS
+## Tutorials
 | Tutorial Name (Link) | Description |
 | - | - |
 | | |
 
-## BLOG ARTICLES
+## Blog Articles
 | Article Name (Link) | Description |
 | - | - |
 | | |
