@@ -22,16 +22,16 @@ This is where we collect all of the best stuff from the ecosystem and community.
 
 ### Official Plugins
 
-- [authenticator](https://github.com/tauri-apps/tauri-plugin-authenticator) - Interface with hardware security keys.
-- [log](https://github.com/tauri-apps/tauri-plugin-log) - Configurable logging.
-- [sql](https://github.com/tauri-apps/tauri-plugin-sql) - Interface with SQL databases.
-- [store](https://github.com/tauri-apps/tauri-plugin-store) - Persistent key value storage.
-- [stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold) - Encrypted, secure, p2p database.
-- [window-state](https://github.com/tauri-apps/tauri-plugin-window-state) - Persist window sizes and positions.
+- [tauri-plugin-authenticator](https://github.com/tauri-apps/tauri-plugin-authenticator) - Interface with hardware security keys.
+- [tauri-plugin-log](https://github.com/tauri-apps/tauri-plugin-log) - Configurable logging.
+- [tauri-plugin-sql](https://github.com/tauri-apps/tauri-plugin-sql) - Interface with SQL databases.
+- [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) - Persistent key value storage.
+- [tauri-plugin-stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold) - Encrypted, secure, p2p database.
+- [tauri-plugin-window-state](https://github.com/tauri-apps/tauri-plugin-window-state) - Persist window sizes and positions.
 
 ### Community Plugins 
 
-- [positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
+- [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
 
 ## Apps
 
