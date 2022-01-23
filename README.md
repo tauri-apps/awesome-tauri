@@ -36,7 +36,10 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [tauri-plugin-vibrancy](https://github.com/tauri-apps/tauri-plugin-vibrancy) ![official](https://img.shields.io/badge/-official-FFC131) - Make your Tauri/TAO windows vibrant.
 - [tauri-plugin-shadows](https://github.com/tauri-apps/tauri-plugin-shadows) ![official](https://img.shields.io/badge/-official-FFC131) -  Add native shadows to your Tauri/TAO windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
+ ## Integrations
 
+- [vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) ![official](https://img.shields.io/badge/-official-FFC131) - Turn your Vue SPA into a lightweight cross-platform desktop app.
+- [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 ## Apps
 
 ### Open Source
