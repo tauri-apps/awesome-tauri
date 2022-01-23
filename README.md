@@ -1,33 +1,44 @@
-# AWESOME TAURI
+<!--lint disable awesome-heading awesome-github awesome-toc double-link -->
 
-This is where we collect all of the best stuff from the ecosystem and community. To contribute, just make a PR.
+<h2 align='center'>Awesome Tauri</h2>
 
+<p align='center'>
+This is where we collect all of the best stuff from the ecosystem and community.
+<br><br>
 
-## Apps
-| App Name | Repo | Website | Description |
-| - | - | - | - |
-| | | |
+<a href='https://awesome.re'>
+<img src='https://awesome.re/badge-flat.svg' alt='Awesome'>
+</a>
+</p>
+
+## Resources
+
+- [Homepage](https://tauri.studio)
+- [GitHub Repo](https://github.com/tauri-apps/tauri)
+
+## Get Started
+
+- [create-tauri-app](https://github.com/tauri-apps/tauri/tree/next/tooling/create-tauri-app) - Rapidly scaffold your Tauri app.
+
+### Templates
+
+### Tutorials
+
+### Blog Articles
 
 ## Plugins
-| Plugin Name | Repo | Description |
-|-|-|-|
-| tauri-plugin-positioner | https://github.com/JonasKruckenberg/tauri-plugin-positioner | Helps positioning Tauri windows at known locations |
-| | |
 
-## Templates
-| Template Name | Repo | Description |
-| - | - | - |
-| | |
+### Official Plugins
 
-## Tutorials
-| Tutorial Name | Link | Description |
-| - | - | - |
-| | |
+- [authenticator](https://github.com/tauri-apps/tauri-plugin-authenticator) - Interface with hardware security keys.
+- [log](https://github.com/tauri-apps/tauri-plugin-log) - Configurable logging.
+- [sql](https://github.com/tauri-apps/tauri-plugin-sql) - Interface with SQL databases.
+- [store](https://github.com/tauri-apps/tauri-plugin-store) - Persistent key value storage.
+- [stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold) - Encrypted, secure, p2p database.
+- [window-state](https://github.com/tauri-apps/tauri-plugin-window-state) - Persist window sizes and positions.
 
-## Blog Articles
-| Article Name | Link | Description |
-| - | - | - |
-| | |
+### Community Plugins 
 
-# License
-All content in this repo is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
+
+## Apps
