@@ -35,6 +35,8 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) ![official](https://img.shields.io/badge/-official-FFC131) - Persistent key value storage.
 - [tauri-plugin-stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold) ![official](https://img.shields.io/badge/-official-FFC131) - Encrypted, secure, p2p database.
 - [tauri-plugin-window-state](https://github.com/tauri-apps/tauri-plugin-window-state) ![official](https://img.shields.io/badge/-official-FFC131) - Persist window sizes and positions.
+- [tauri-plugin-vibrancy](https://github.com/tauri-apps/tauri-plugin-vibrancy) ![official](https://img.shields.io/badge/-official-FFC131) - Make your Tauri/TAO windows vibrant.
+- [tauri-plugin-shadows](https://github.com/tauri-apps/tauri-plugin-shadows) ![official](https://img.shields.io/badge/-official-FFC131) -  Add native shadows to your Tauri/TAO windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
 
 ## Apps
