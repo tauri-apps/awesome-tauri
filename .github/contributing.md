@@ -20,11 +20,11 @@ Thank you for your suggestion!
 
 ## Apps
 
-Apps gives the opportunity to showcase the awesome things we can build with Tauri. When submitting your app, make sure it also adheres to the following:
+The Apps section gives the opportunity to showcase the awesome things that can be built with Tauri. When submitting your app, make sure to adhere to the following:
 
 - The app is using Tauri.
 - The app is original and not too simple.
-- Tauri goes to great lengths to enable fast, lightweight and secure apps. Therefore we expect featured apps to make a (reasonable) effort to be fast, lightweight and secure.
+- Tauri strives to enable fast, lightweight and secure apps. Therefore we expect featured apps to make a (reasonable) effort to be fast, lightweight and secure.
 - If you're submitting a closed source app, include evidence of it being built with Tauri.
 
 ## Violations
