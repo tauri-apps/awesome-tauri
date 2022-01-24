@@ -48,6 +48,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 ### Open Source
 
 - [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source US tax filings.
+- [Xplorer](https://github.com/kimlimjustin/xplorer) - Aa customizable, modern and cross-platform File Explorer.
 
 ### Closed Source
 
