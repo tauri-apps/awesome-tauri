@@ -1,43 +1,42 @@
-- [ ] **I have read the [contributing guidelines](contributing.md).**
+- [ ] Use the following format: `[Title](link) - Description.`
+- [ ] Add entries to the bottom of the correct category.
+- [ ] No unnecessary words like `for Tauri`, `a Tauri plugin` and `Super-Fast`.
+- [ ] Description does not start with `A` or `An`.
+- [ ] Description is under 24 words.
+- [ ] Description has no links or parenthesis.
+- [ ] Use `backticks` when mentioning package names.
+- [ ] Double-check spelling and grammar.
+- [ ] No trailing whitespace is added to the end of any file.
+- [ ] One suggestion per pull request.
+- [ ] I understand that entries can be removed if they do not follow the guidelines.
 
-- [ ] Title as described.
-- [ ] Added to the right category.
-- [ ] Added to the end of a list.
-- [ ] The description of your item is a sentence with less than 24 words.
-- [ ] No links and parentheses in description. 
-- [ ] The description starts with a capital and ends with a full stop/period.
-- [ ] The description doesn't start with `A` or `An`.
-- [ ] No unnecessary words already provided in the context (e.g. `for Tauri`, `a Tauri plugin`).
-- [ ] Uses proper case for terms (e.g. `GitHub`, `TypeScript`, `ESLint`, etc.)
-- [ ] When mentioning tools, omits versions whenever possible (e.g. use `TypeScript` instead of `TypeScript 4.x`.
-- [ ] When mentioning package names, uses quotes whenever possible.
+### Plugins/Integrations
 
-### Plugins/Tools
+<!-- Ignore unless you're contributing to Plugins/Integrations -->
 
-<!-- Ignore if you are not contributing to Plugins/Tools -->
+- [ ] Works with **Tauri 1.x and onward**.
+- [ ] The project is open source and accepts contributions.
+- [ ] The repo is at least 30 days old.
+- [ ] Documentation is in English.
+- [ ] The project is active and maintained.
 
-- [ ] The plugin/tool is working with **Tauri 1.x and onward**.
-- [ ] The project is Open Source.
-- [ ] The repo should be at least 30 days old.
-- [ ] The documentation is in English.
-- [ ] The project is active and maintained (inactive projects for longer 6 months will be removed without further notice).
-- [ ] The project accepts contributions.
-- [ ] Not a commercial product.
+### Templates
 
-### Starter Templates
+<!-- Ignore unless you're contributing to Templates -->
 
-<!-- Ignore if you are not contributing to Starter Templates -->
-
-- [ ] The starter template is working with **Tauri 1.x and onward**.
-- [ ] The documentation is in English.
-- [ ] The starter template most provide enough instructions / documentation about how to start up and what's is included.
-- [ ] The repo should be at least 30 days old.
-- [ ] Should be differentiable from the existing starter templates.
+- [ ] Works with **Tauri 1.x and onward**.
+- [ ] The repo is at least 30 days old.
+- [ ] Documentation is in English.
+- [ ] The template provides enough information about how to get started and what's included.
+- [ ] The template is pretty different from the existing templates.
 
 ### Apps
 
-<!-- Ignore if you are not contributing to Apps/Websites -->
+<!-- Ignore unless you're contributing to Apps -->
 
-- [ ] The project is Open Source.
-- [ ] The readme is in English.
 - [ ] The app is original and not too simple.
+- [ ] The README is in English.
+- [ ] The app makes a reasonable effort to be fast, lightweight and secure.
+- [ ] If the app closed source, evidence of it being built with Tauri is included.
+
+### Additional Context

@@ -1,9 +1,9 @@
 <!--lint disable awesome-heading awesome-github awesome-toc double-link -->
 
-<h2 align='center'>Awesome Tauri</h2>
+<h1 align='center'>Awesome Tauri</h1>
 
 <p align='center'>
-This is where we collect all of the best stuff from the ecosystem and community.
+A curated collection of the best stuff from the Tauri ecosystem and community.
 <br><br>
 
 <a href='https://awesome.re'>
@@ -11,11 +11,14 @@ This is where we collect all of the best stuff from the ecosystem and community.
 </a>
 </p>
 
-## Table of Contents
+### Contents
 - [Get Started](#get-started)
+  - [Templates](#templates)
 - [Plugins](#plugins)
 - [Integrations](#integrations)
 - [Apps](#apps)
+  - [Open Source](#open-source)
+  - [Closed Source](#closed-source)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 
@@ -37,7 +40,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [tauri-plugin-vibrancy](https://github.com/tauri-apps/tauri-plugin-vibrancy) ![official](https://img.shields.io/badge/-official-FFC131) - Make your Tauri/TAO windows vibrant.
 - [tauri-plugin-shadows](https://github.com/tauri-apps/tauri-plugin-shadows) ![official](https://img.shields.io/badge/-official-FFC131) -  Add native shadows to your Tauri/TAO windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
- 
+
 ## Integrations
 
 - [vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) ![official](https://img.shields.io/badge/-official-FFC131) - Turn your Vue SPA into a lightweight cross-platform desktop app.
