@@ -43,6 +43,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) ![official](https://img.shields.io/badge/-official-FFC131) - Turn your Vue SPA into a lightweight cross-platform desktop app.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
+- [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
 
 ## Apps
 
