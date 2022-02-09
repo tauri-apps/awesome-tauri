@@ -52,6 +52,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [Xplorer](https://github.com/kimlimjustin/xplorer) - Customizable, modern and cross-platform File Explorer.
 - [Clash Verge](https://github.com/zzzgydi/clash-verge) - Rule based proxy for Mac and Windows based on `clash`.
 - [Authme Lite](https://github.com/Levminer/authme-lite) - Two-factor (2FA) authentication app for desktop.
+- [Kadium](https://github.com/probablykasper/kadium) - App for staying ontop of YouTube channel uploads.
 
 ### Closed Source
 
