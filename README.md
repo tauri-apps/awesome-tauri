@@ -12,14 +12,10 @@ This is where we collect all of the best stuff from the ecosystem and community.
 </p>
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Get Started](#get-started)
-  - [Templates](#templates)
 - [Plugins](#plugins)
 - [Integrations](#integrations)
 - [Apps](#apps)
-  - [Open Source](#open-source)
-  - [Closed Source](#closed-source)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 
