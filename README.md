@@ -25,6 +25,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [create-tauri-app](https://github.com/tauri-apps/tauri/tree/next/tooling/create-tauri-app) - Rapidly scaffold your Tauri app.
 
 ### Templates
+- [tauri-svelte-template](https://github.com/probablykasper/tauri-svelte-template) - Svelte template with cross-platform GitHub action builds, macOS 10.13+ support, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
 
 ## Plugins
 
@@ -43,6 +44,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) ![official](https://img.shields.io/badge/-official-FFC131) - Turn your Vue SPA into a lightweight cross-platform desktop app.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
+- [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
 
 ## Apps
 
@@ -52,6 +54,8 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [Xplorer](https://github.com/kimlimjustin/xplorer) - Customizable, modern and cross-platform File Explorer.
 - [Clash Verge](https://github.com/zzzgydi/clash-verge) - Rule based proxy for Mac and Windows based on `clash`.
 - [Authme Lite](https://github.com/Levminer/authme-lite) - Two-factor (2FA) authentication app for desktop.
+- [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) - The Best Surprise Redis Desktop Client.
+- [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's taking up your Time Machine backup space.
 - [Kadium](https://github.com/probablykasper/kadium) - App for staying ontop of YouTube channel uploads.
 
 ### Closed Source
