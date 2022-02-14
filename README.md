@@ -59,6 +59,7 @@ This is where we collect all of the best stuff from the ecosystem and community.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's taking up your Time Machine backup space.
 - [Identia](https://github.com/iohzrd/identia) - Decentralized social media on IPFS.
+- [Calciumdibromid](https://codeberg.org/Calciumdibromid/CaBr2) - Generate "experiment wise safety sheets" in compliance to European law.
 
 ### Closed Source
 
