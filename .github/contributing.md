@@ -15,7 +15,7 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
-- You have to [sign your commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
+- You have to [sign your commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 
 
 Thank you for your suggestion!
