@@ -3,7 +3,7 @@
 <h1 align='center'>Awesome Tauri</h1>
 
 <p align='center'>
-This is where we collect all of the best stuff from the ecosystem and community.
+A curated collection of the best stuff from the Tauri ecosystem and community.
 <br><br>
 
 <a href='https://awesome.re'>
