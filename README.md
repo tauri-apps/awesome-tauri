@@ -24,7 +24,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Get Started
 
-- [Introduction](https://tauri.studio/docs/development/intro) - Official introduction to Tauri.
+- [Introduction](https://tauri.studio/docs/about/intro) - Official introduction to Tauri.
 - [create-tauri-app](https://github.com/tauri-apps/tauri/tree/next/tooling/create-tauri-app) - Rapidly scaffold your Tauri app.
 
 ### Templates
