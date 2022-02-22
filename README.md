@@ -28,7 +28,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [create-tauri-app](https://github.com/tauri-apps/tauri/tree/next/tooling/create-tauri-app) - Rapidly scaffold your Tauri app.
 
 ### Templates
-- [tauri-svelte-template](https://github.com/probablykasper/tauri-svelte-template) - Svelte template with cross-platform GitHub action builds, macOS 10.13+ support, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
+- [tauri-svelte-template](https://github.com/probablykasper/tauri-svelte-template) - Svelte template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
 
 ## Plugins
 
