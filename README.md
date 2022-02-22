@@ -64,6 +64,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Identia](https://github.com/iohzrd/identia) - Decentralized social media on IPFS.
 - [Calciumdibromid](https://codeberg.org/Calciumdibromid/CaBr2) - Generate "experiment wise safety sheets" in compliance to European law.
 - [Watcher](https://github.com/windht/watcher) - API manager built for a easier use to manage and collaborate.
+- [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 
 ### Closed Source
 
