@@ -67,6 +67,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 - [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
+- [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 
 ### Closed Source
 
