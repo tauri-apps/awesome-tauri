@@ -66,7 +66,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Watcher](https://github.com/windht/watcher) - API manager built for a easier use to manage and collaborate.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 - [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
-- [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text on apps that don't support the bidirectional text.
+- [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 
 ### Closed Source
 
