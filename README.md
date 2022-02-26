@@ -32,19 +32,19 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Plugins
 
-- [tauri-plugin-authenticator](https://github.com/tauri-apps/tauri-plugin-authenticator) ![official](https://img.shields.io/badge/-official-FFC131) - Interface with hardware security keys.
-- [tauri-plugin-log](https://github.com/tauri-apps/tauri-plugin-log) ![official](https://img.shields.io/badge/-official-FFC131) - Configurable logging.
-- [tauri-plugin-sql](https://github.com/tauri-apps/tauri-plugin-sql) ![official](https://img.shields.io/badge/-official-FFC131) - Interface with SQL databases.
-- [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) ![official](https://img.shields.io/badge/-official-FFC131) - Persistent key value storage.
-- [tauri-plugin-stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold) ![official](https://img.shields.io/badge/-official-FFC131) - Encrypted, secure, p2p database.
-- [tauri-plugin-window-state](https://github.com/tauri-apps/tauri-plugin-window-state) ![official](https://img.shields.io/badge/-official-FFC131) - Persist window sizes and positions.
-- [tauri-plugin-vibrancy](https://github.com/tauri-apps/tauri-plugin-vibrancy) ![official](https://img.shields.io/badge/-official-FFC131) - Make your Tauri/TAO windows vibrant.
-- [tauri-plugin-shadows](https://github.com/tauri-apps/tauri-plugin-shadows) ![official](https://img.shields.io/badge/-official-FFC131) -  Add native shadows to your Tauri/TAO windows.
+- [tauri-plugin-authenticator](https://github.com/tauri-apps/tauri-plugin-authenticator) ![officially maintained] - Interface with hardware security keys.
+- [tauri-plugin-log](https://github.com/tauri-apps/tauri-plugin-log) ![officially maintained] - Configurable logging.
+- [tauri-plugin-sql](https://github.com/tauri-apps/tauri-plugin-sql) ![officially maintained] - Interface with SQL databases.
+- [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) ![officially maintained] - Persistent key value storage.
+- [tauri-plugin-stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold) ![officially maintained] - Encrypted, secure, p2p database.
+- [tauri-plugin-window-state](https://github.com/tauri-apps/tauri-plugin-window-state) ![officially maintained] - Persist window sizes and positions.
+- [tauri-plugin-vibrancy](https://github.com/tauri-apps/tauri-plugin-vibrancy) ![officially maintained] - Make your Tauri/TAO windows vibrant.
+- [tauri-plugin-shadows](https://github.com/tauri-apps/tauri-plugin-shadows) ![officially maintained] -  Add native shadows to your Tauri/TAO windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
 
 ## Integrations
 
-- [vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) ![official](https://img.shields.io/badge/-official-FFC131) - Turn your Vue SPA into a lightweight cross-platform desktop app.
+- [vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) ![officially maintained] - Turn your Vue SPA into a lightweight cross-platform desktop app.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
@@ -72,3 +72,5 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ## Tutorials
 
 ## Articles
+
+[officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
