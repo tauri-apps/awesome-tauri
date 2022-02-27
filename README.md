@@ -68,6 +68,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
+- [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows
 
 ### Closed Source
 
