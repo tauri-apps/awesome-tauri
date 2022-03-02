@@ -69,6 +69,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows
+- [mediarepo](https://github.com/Trivernis/mediarepo) - A tag-based media management application
 
 ### Closed Source
 
