@@ -12,8 +12,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 </p>
 
 ### Contents
-- [Get Started](#get-started)
-  - [Templates](#templates)
+- [Getting Started](#getting-started)
+- [Templates](#templates)
 - [Plugins](#plugins)
 - [Integrations](#integrations)
 - [Apps](#apps)
@@ -22,12 +22,13 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 
-## Get Started
+## Getting Started
 
 - [Introduction](https://tauri.studio/docs/about/intro) - Official introduction to Tauri.
-- [create-tauri-app](https://github.com/tauri-apps/tauri/tree/next/tooling/create-tauri-app) - Rapidly scaffold your Tauri app.
+- [Getting Started](https://tauri.studio/docs/getting-started/prerequisites) - Official getting started with Tauri docs.
+- [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold your Tauri app.
 
-### Templates
+## Templates
 - [tauri-svelte-template](https://github.com/probablykasper/tauri-svelte-template) - Svelte template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
 
 ## Plugins
@@ -38,8 +39,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) ![official](https://img.shields.io/badge/-official-FFC131) - Persistent key value storage.
 - [tauri-plugin-stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold) ![official](https://img.shields.io/badge/-official-FFC131) - Encrypted, secure, p2p database.
 - [tauri-plugin-window-state](https://github.com/tauri-apps/tauri-plugin-window-state) ![official](https://img.shields.io/badge/-official-FFC131) - Persist window sizes and positions.
-- [tauri-plugin-vibrancy](https://github.com/tauri-apps/tauri-plugin-vibrancy) ![official](https://img.shields.io/badge/-official-FFC131) - Make your Tauri/TAO windows vibrant.
-- [tauri-plugin-shadows](https://github.com/tauri-apps/tauri-plugin-shadows) ![official](https://img.shields.io/badge/-official-FFC131) -  Add native shadows to your Tauri/TAO windows.
+- [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ![official](https://img.shields.io/badge/-official-FFC131) - Make your windows vibrant.
+- [window-shadows](https://github.com/tauri-apps/window-shadows) ![official](https://img.shields.io/badge/-official-FFC131) -  Add native shadows to your windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
 
 ## Integrations
