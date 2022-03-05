@@ -71,6 +71,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows
 - [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
+- [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 
 ### Closed Source
 
