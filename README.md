@@ -50,6 +50,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
+- [Astrodon](https://github.com/astrodon/astrodon) - Make desktop apps with Deno 🦕
 
 ## Apps
 
