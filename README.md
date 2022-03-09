@@ -76,6 +76,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Closed Source
 
+- [TimeChunks](https://danielulrich.com/en/timechunks/) - Time tracking for freelancers without timers and HH:MM:SS inputs.
+
 ## Tutorials
 
 ## Articles
