@@ -28,11 +28,11 @@ Make sure your pull request follows the guidelines/checklists in this document. 
 
 <!-- Ignore unless you're contributing to Templates -->
 
-- [ ] Works with **Tauri 1.x and onward**.
-- [ ] The repo is at least 30 days old.
-- [ ] Documentation is in English.
-- [ ] The template provides enough information about how to get started and what's included.
-- [ ] The template is pretty different from the existing templates.
+- Works with **Tauri 1.x and onward**.
+- The repo is at least 30 days old.
+- Documentation is in English.
+- The template provides enough information about how to get started and what's included.
+- The template is pretty different from the existing templates.
 
 ## Apps
 
