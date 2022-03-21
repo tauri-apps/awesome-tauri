@@ -38,7 +38,7 @@ Make sure your pull request follows the guidelines/checklists in this document. 
 
 <!-- Ignore unless you're contributing to Apps -->
 
-- [ ] The app is original and not too simple.
-- [ ] The README is in English.
-- [ ] The app makes a reasonable effort to be fast, lightweight and secure.
-- [ ] If the app closed source, evidence of it being built with Tauri is included.
+- The app is original and not too simple.
+- The README is in English.
+- The app makes a reasonable effort to be fast, lightweight and secure.
+- If the app is closed source, evidence of it being built with Tauri is included.
