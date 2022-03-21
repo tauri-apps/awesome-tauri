@@ -12,11 +12,10 @@ Make sure your pull request follows the guidelines/checklists in this document. 
 - Double-check spelling and grammar.
 - No trailing whitespace is added to the end of any file.
 - One suggestion per pull request.
-- I understand that entries can be removed if they do not follow the guidelines.
+- Entries that repeatedly violate guidelines will be removed!
+- You have to [sign your commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 
 ## Plugins/Integrations
-
-<!-- Ignore unless you're contributing to Plugins/Integrations -->
 
 - Works with **Tauri 1.x and onward**.
 - The project is open source and accepts contributions.
@@ -26,8 +25,6 @@ Make sure your pull request follows the guidelines/checklists in this document. 
 
 ## Templates
 
-<!-- Ignore unless you're contributing to Templates -->
-
 - Works with **Tauri 1.x and onward**.
 - The repo is at least 30 days old.
 - Documentation is in English.
@@ -35,8 +32,6 @@ Make sure your pull request follows the guidelines/checklists in this document. 
 - The template is pretty different from the existing templates.
 
 ## Apps
-
-<!-- Ignore unless you're contributing to Apps -->
 
 - The app is original and not too simple.
 - The README is in English.
