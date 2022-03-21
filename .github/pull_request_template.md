@@ -1,5 +1,3 @@
-This is the link to the project: [TITLE](URL)
-
 - [ ] Use the following format: `[Title](link) - Description.`
 - [ ] Add entries to the bottom of the correct category.
 - [ ] No unnecessary words like `for Tauri`, `a Tauri plugin` and `Super-Fast`.
