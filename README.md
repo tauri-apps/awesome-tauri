@@ -63,6 +63,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows
 - [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
+- [mdSilo Desktop](https://github.com/danloh/mdSilo-app) - Tiny zettelkasten note-taking and knowledge silo application.
 
 ### Closed Source
 
