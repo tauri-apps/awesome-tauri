@@ -11,17 +11,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 </a>
 </p>
 
-### Contents
-- [Getting Started](#getting-started)
-- [Templates](#templates)
-- [Plugins](#plugins)
-- [Integrations](#integrations)
-- [Apps](#apps)
-  - [Open Source](#open-source)
-  - [Closed Source](#closed-source)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
-
 ## Getting Started
 
 - [Introduction](https://tauri.studio/docs/about/intro) - Official introduction to Tauri.
