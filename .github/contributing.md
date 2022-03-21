@@ -2,17 +2,17 @@
 
 Make sure your pull request follows the guidelines/checklists in this document. Please note that entries can be removed if they do not follow the guidelines. Thank you for your suggestion!
 
-- [ ] Use the following format: `[Title](link) - Description.`
-- [ ] Add entries to the bottom of the correct category.
-- [ ] No unnecessary words like `for Tauri`, `a Tauri plugin` and `Super-Fast`.
-- [ ] Description does not start with `A` or `An`.
-- [ ] Description is under 24 words.
-- [ ] Description has no links or parenthesis.
-- [ ] Use `backticks` when mentioning package names.
-- [ ] Double-check spelling and grammar.
-- [ ] No trailing whitespace is added to the end of any file.
-- [ ] One suggestion per pull request.
-- [ ] I understand that entries can be removed if they do not follow the guidelines.
+- Use the following format: `[Title](link) - Description.`
+- Add entries to the bottom of the correct category.
+- No unnecessary words like `for Tauri`, `a Tauri plugin` and `Super-Fast`.
+- Description does not start with `A` or `An`.
+- Description is under 24 words.
+- Description has no links or parenthesis.
+- Use `backticks` when mentioning package names.
+- Double-check spelling and grammar.
+- No trailing whitespace is added to the end of any file.
+- One suggestion per pull request.
+- I understand that entries can be removed if they do not follow the guidelines.
 
 ## Plugins/Integrations
 
