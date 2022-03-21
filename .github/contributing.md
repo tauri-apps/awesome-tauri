@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Make sure your pull request follows the guidelines/checklists in this document. Please note that entries can be removed if they do not follow the guidelines. Thank you for your suggestion!
+Make sure your pull request follows the guidelines/checklists in this document. Thank you for your suggestion!
 
 - Use the following format: `[Title](link) - Description.`
 - Add entries to the bottom of the correct category.
@@ -12,8 +12,8 @@ Make sure your pull request follows the guidelines/checklists in this document. 
 - Double-check spelling and grammar.
 - No trailing whitespace is added to the end of any file.
 - One suggestion per pull request.
-- Entries that repeatedly violate guidelines will be removed!
-- You have to [sign your commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
+- I understand that my entry will be removed if it violates the guidelines.
+- Commits are [signed](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 
 ## Plugins/Integrations
 
