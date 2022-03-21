@@ -18,11 +18,11 @@ Make sure your pull request follows the guidelines/checklists in this document. 
 
 <!-- Ignore unless you're contributing to Plugins/Integrations -->
 
-- [ ] Works with **Tauri 1.x and onward**.
-- [ ] The project is open source and accepts contributions.
-- [ ] The repo is at least 30 days old.
-- [ ] Documentation is in English.
-- [ ] The project is active and maintained.
+- Works with **Tauri 1.x and onward**.
+- The project is open source and accepts contributions.
+- The repo is at least 30 days old.
+- Documentation is in English.
+- The project is active and maintained.
 
 ## Templates
 
