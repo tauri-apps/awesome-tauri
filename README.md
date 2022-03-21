@@ -40,6 +40,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
 - [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno 🦕
+- [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap arround functions from tauri modules, to integrate easier with Angular.
 
 ## Apps
 
