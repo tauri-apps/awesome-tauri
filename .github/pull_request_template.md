@@ -1,3 +1,6 @@
+This is the link to the project: [TITLE](URL)
+
+- [ ] **I have read the [contributing guidelines](contributing.md).**
 - [ ] Use the following format: `[Title](link) - Description.`
 - [ ] Add entries to the bottom of the correct category.
 - [ ] No unnecessary words like `for Tauri`, `a Tauri plugin` and `Super-Fast`.
@@ -8,7 +11,8 @@
 - [ ] Double-check spelling and grammar.
 - [ ] No trailing whitespace is added to the end of any file.
 - [ ] One suggestion per pull request.
-- [ ] I understand that entries can be removed if they do not follow the guidelines.
+- [ ] I understand that my entry will be removed if it violates the guidelines.
+- [ ] I have [signed my commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 
 ### Plugins/Integrations
 
