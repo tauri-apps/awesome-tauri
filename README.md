@@ -66,6 +66,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities
 - [mdSilo Desktop](https://github.com/danloh/mdSilo-app) - Tiny zettelkasten note-taking and knowledge silo application.
+- [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 
 ### Closed Source
 
