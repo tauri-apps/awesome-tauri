@@ -67,6 +67,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities
 - [mdSilo Desktop](https://github.com/danloh/mdSilo-app) - Tiny zettelkasten note-taking and knowledge silo application.
 - [Aleph](https://github.com/chezhe/aleph) - Aleph is an RSS reader & podcast client.
+- [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 
 ### Closed Source
 
