@@ -32,6 +32,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ![officially maintained] - Make your windows vibrant.
 - [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] -  Add native shadows to your windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
+- [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
 
 ## Integrations
 
