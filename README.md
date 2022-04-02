@@ -18,8 +18,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold your Tauri app.
 
 ## Templates
+
 - [tauri-svelte-template](https://github.com/probablykasper/tauri-svelte-template) - Svelte template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
-- [tauri-react-template](https://github.com/oSethoum/tauri-react-template) - React template with Vite, TypeScript, hot module replacement. 
+- [tauri-react-template](https://github.com/oSethoum/tauri-react-template) - React template with Vite, TypeScript, hot module replacement.
 
 ## Plugins
 
@@ -30,7 +31,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold) ![officially maintained] - Encrypted, secure, p2p database.
 - [tauri-plugin-window-state](https://github.com/tauri-apps/tauri-plugin-window-state) ![officially maintained] - Persist window sizes and positions.
 - [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ![officially maintained] - Make your windows vibrant.
-- [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] -  Add native shadows to your windows.
+- [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] - Add native shadows to your windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
 
 ## Integrations
@@ -41,6 +42,10 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
 - [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno 🦕
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap arround functions from tauri modules, to integrate easier with Angular.
+
+## Tools
+
+- [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare
 
 ## Apps
 
