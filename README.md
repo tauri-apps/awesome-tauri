@@ -11,17 +11,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 </a>
 </p>
 
-### Contents
-- [Getting Started](#getting-started)
-- [Templates](#templates)
-- [Plugins](#plugins)
-- [Integrations](#integrations)
-- [Apps](#apps)
-  - [Open Source](#open-source)
-  - [Closed Source](#closed-source)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
-
 ## Getting Started
 
 - [Introduction](https://tauri.studio/docs/about/intro) - Official introduction to Tauri.
@@ -50,6 +39,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
+- [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno 🦕
+- [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap arround functions from tauri modules, to integrate easier with Angular.
 
 ## Apps
 
@@ -73,11 +64,19 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows
 - [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
+- [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities
+- [mdSilo Desktop](https://github.com/danloh/mdSilo-app) - Tiny zettelkasten note-taking and knowledge silo application.
+- [Aleph](https://github.com/chezhe/aleph) - Aleph is an RSS reader & podcast client.
+- [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 
 ### Closed Source
 
+- [TimeChunks](https://danielulrich.com/en/timechunks/) - Time tracking for freelancers without timers and HH:MM:SS inputs.
+
 ## Tutorials
+
+- [Create Tauri App with React](https://www.youtube.com/watch?v=zawhqLA7N9Y&ab_channel=chrisbiscardi) - Chris Biscardi shows how easy it is to wire up a Rust crate with a JS module and communicate between them.
 
 ## Articles
 
