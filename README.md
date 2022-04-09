@@ -34,7 +34,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] - Add native shadows to your windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
 
-## Integrations
+## Tools and Integrations
 
 - [vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) ![officially maintained] - Turn your Vue SPA into a lightweight cross-platform desktop app.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
@@ -42,10 +42,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
 - [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno 🦕
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap arround functions from tauri modules, to integrate easier with Angular.
-
-## Tools
-
 - [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare
+
 
 ## Apps
 
