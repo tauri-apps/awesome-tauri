@@ -70,6 +70,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 - [Request](https://github.com/aiocat/request) - Cross-platform restful HTTP-API client.
+- [Tauri Wallet](https://github.com/tauri-wallet/tauri-wallet) - Cross-platform multi-chains EVM compatible smart contract read/write wallet.
 
 ### Closed Source
 
