@@ -70,7 +70,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 - [Request](https://github.com/aiocat/request) - Cross-platform restful HTTP-API client.
-- [Stockman](https://github.com/awkj/stockman) - An display stock info on mac menubar application.
+- [Stockman](https://github.com/awkj/stockman) - Display stock info on mac menubar.
 
 ### Closed Source
 
