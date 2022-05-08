@@ -71,7 +71,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 - [Request](https://github.com/aiocat/request) - Cross-platform restful HTTP-API client.
-- [Pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas.
+- [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas
 
 ### Closed Source
 
