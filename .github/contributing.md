@@ -14,6 +14,7 @@ Make sure your pull request follows the guidelines/checklists in this document. 
 - One suggestion per pull request.
 - Entries that repeatedly violate guidelines will be removed!
 - You have to [sign your commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
+- NO PHP!
 
 ## Plugins/Integrations
 
