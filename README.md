@@ -73,6 +73,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Request](https://github.com/aiocat/request) - Cross-platform restful HTTP-API client.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas
+- [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 
 ### Closed Source
 
