@@ -14,12 +14,13 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ## Getting Started
 
 - [Introduction](https://tauri.studio/docs/about/intro) - Official introduction to Tauri.
-- [Getting Started](https://tauri.studio/docs/getting-started/prerequisites) - Official getting started with Tauri docs.
+- [Getting Started](https://tauri.studio/guides/getting-started/prerequisites) - Official getting started with Tauri docs.
 - [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold your Tauri app.
 
 ## Templates
 - [tauri-svelte-template](https://github.com/probablykasper/tauri-svelte-template) - Svelte template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
 - [tauri-react-template](https://github.com/oSethoum/tauri-react-template) - React template with Vite, TypeScript, hot module replacement. 
+- [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno. 
 - [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
 
 ## Plugins
@@ -33,6 +34,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ![officially maintained] - Make your windows vibrant.
 - [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] -  Add native shadows to your windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
+- [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
 
 ## Integrations
 
@@ -71,6 +73,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 - [Request](https://github.com/aiocat/request) - Cross-platform restful HTTP-API client.
+- [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
+- [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas
+- [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 
 ### Closed Source
 
