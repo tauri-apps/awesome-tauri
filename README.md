@@ -35,7 +35,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] -  Add native shadows to your windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
 - [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
-- [sentry-tauri](https://github.com/timfish/awesome-tauri.git) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry
+- [sentry-tauri](https://github.com/timfish/sentry-tauri) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry
 
 ## Integrations
 
