@@ -76,6 +76,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
+- [Compotes](https://github.com/Orbitale/Compotes) - Local bank account operations storage to vizualize them as graphs and customize them with rules and tags for better filtering.
 
 ### Closed Source
 
