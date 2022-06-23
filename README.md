@@ -83,7 +83,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Closed Source
 
 - [TimeChunks](https://danielulrich.com/en/timechunks/) - Time tracking for freelancers without timers and HH:MM:SS inputs.
-- [DevBox](https://www.dev-box.app/) - A lot of usefull tools for developers like generators, viewers, converters etc...
+- [DevBox](https://www.dev-box.app/) - A lot of useful tools for developers like generators, viewers, converters etc...
 
 ## Tutorials
 
