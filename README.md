@@ -13,8 +13,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Getting Started
 
-- [Introduction](https://tauri.studio/docs/about/intro) - Official introduction to Tauri.
-- [Getting Started](https://tauri.studio/guides/getting-started/prerequisites) - Official getting started with Tauri docs.
+- [Introduction](https://tauri.app/about/intro/) - Official introduction to Tauri.
+- [Getting Started](https://tauri.app/v1/guides/getting-started/prerequisites/) - Official getting started with Tauri docs.
 - [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold your Tauri app.
 
 ## Templates
