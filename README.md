@@ -85,6 +85,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
 - [Stockman](https://github.com/awkj/stockman) - Display stock info on mac menubar.
+- [CryptoBal](https://github.com/Rabbit-Company/CryptoBal-Desktop) - Desktop application for monitoring your crypto assets.
 
 ### Closed Source
 
