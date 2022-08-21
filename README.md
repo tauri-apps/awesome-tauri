@@ -92,6 +92,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) - Time tracking for freelancers without timers and HH:MM:SS inputs.
 - [DevBox](https://www.dev-box.app/) - Many useful tools for developers, like generators, viewers, converters, etc...
 - [Payload](https://payload.app/) - Drag & drop file transfers over local networks
+- [Aptakube](https://aptakube.com/) - Multi-cluster Kubernetes UI
 
 ## Tutorials
 
