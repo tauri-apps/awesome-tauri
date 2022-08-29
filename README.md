@@ -88,6 +88,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Stockman](https://github.com/awkj/stockman) - Display stock info on mac menubar.
 - [CryptoBal](https://github.com/Rabbit-Company/CryptoBal-Desktop) - Desktop application for monitoring your crypto assets.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A file explorer from the future.
+- [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
 
 ### Closed Source
 
