@@ -89,6 +89,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CryptoBal](https://github.com/Rabbit-Company/CryptoBal-Desktop) - Desktop application for monitoring your crypto assets.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A file explorer from the future.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
+- [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
 
 ### Closed Source
 
@@ -96,7 +97,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [DevBox](https://www.dev-box.app/) - Many useful tools for developers, like generators, viewers, converters, etc...
 - [Payload](https://payload.app/) - Drag & drop file transfers over local networks
 - [Aptakube](https://aptakube.com/) - Multi-cluster Kubernetes UI
-- [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
 
 ## Tutorials
 
