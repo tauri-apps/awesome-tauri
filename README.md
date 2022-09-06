@@ -49,6 +49,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno 🦕
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
 - [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare
+- [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module. 
 
 ## Apps
 
