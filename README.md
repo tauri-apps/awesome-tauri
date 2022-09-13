@@ -49,7 +49,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno 🦕
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
 - [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare
-- [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module. 
+- [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
 
 ## Apps
 
@@ -91,6 +91,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A file explorer from the future.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
 - [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
+- [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 
 ### Closed Source
 
