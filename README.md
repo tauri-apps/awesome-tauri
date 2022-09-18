@@ -92,6 +92,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
 - [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
+- [Noteup](https://github.com/elementsinteractive/Noteup) - A markup note-taking app for the Web, Mac, Linux and Windows.
 
 ### Closed Source
 
