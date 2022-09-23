@@ -93,6 +93,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [Clipborad Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content, using react-ts+sqlite+tauri
+
 ### Closed Source
 
 - [TimeChunks](https://danielulrich.com/en/timechunks/) - Time tracking for freelancers without timers and HH:MM:SS inputs.
