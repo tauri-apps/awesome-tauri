@@ -95,6 +95,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 
+
 ### Closed Source
 
 - [TimeChunks](https://danielulrich.com/en/timechunks/) - Time tracking for freelancers without timers and HH:MM:SS inputs.
