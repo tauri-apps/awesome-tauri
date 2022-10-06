@@ -93,6 +93,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
+- [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
+
 
 ### Closed Source
 
