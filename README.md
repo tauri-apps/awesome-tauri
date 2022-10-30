@@ -94,7 +94,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
-- [Scraper Instagram GUI Desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop) - Desktop alternative front-end for Instagram.
+- [Scraper Instagram GUI Desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop) - Alternative Instagram front-end for desktop.
 
 
 ### Closed Source
