@@ -24,6 +24,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
 - [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
 - [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
+- [tauri-react-parcel-template](https://github.com/henrhie/tauri-react-parcel-template) - React template with Parcel as build tool, TypeScript and hot module replacement.
 
 ## Plugins
 
@@ -92,6 +93,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
 - [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
+- [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
+- [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Noteup](https://github.com/elementsinteractive/Noteup) - Markup note-taking app for the Web, Mac, Linux and Windows.
 
 ### Closed Source
