@@ -97,6 +97,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Scraper Instagram GUI Desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop) - Alternative Instagram front-end for desktop.
 - [CyberAPI](https://github.com/vicanso/cyberapi) - API tool client for developer.
+- [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
 
 ### Closed Source
 
