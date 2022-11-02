@@ -96,7 +96,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Scraper Instagram GUI Desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop) - Alternative Instagram front-end for desktop.
-
+- [CyberAPI](https://github.com/vicanso/cyberapi) - API tool client for developer.
 
 ### Closed Source
 
