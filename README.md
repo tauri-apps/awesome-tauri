@@ -24,6 +24,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
 - [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
 - [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
+- [tauri-react-parcel-template](https://github.com/henrhie/tauri-react-parcel-template) - React template with Parcel as build tool, TypeScript and hot module replacement.
 
 ## Plugins
 
@@ -94,8 +95,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
+- [Scraper Instagram GUI Desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop) - Alternative Instagram front-end for desktop.
+- [CyberAPI](https://github.com/vicanso/cyberapi) - API tool client for developer.
 - [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
-
 
 ### Closed Source
 
