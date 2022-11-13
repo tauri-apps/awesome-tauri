@@ -99,6 +99,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CyberAPI](https://github.com/vicanso/cyberapi) - API tool client for developer.
 - [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
+- [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
 
 ### Closed Source
 
