@@ -26,6 +26,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
 - [tauri-react-parcel-template](https://github.com/henrhie/tauri-react-parcel-template) - React template with Parcel as build tool, TypeScript and hot module replacement.
 - [tauri-rescript-template](https://github.com/JonasKruckenberg/tauri-rescript-template) - Tauri, ReScript, and React template.
+- [tauri-sycamore-template](https://github.com/JonasKruckenberg/tauri-sycamore-template) - Tauri and Sycamore template.
 
 ## Plugins
 
@@ -97,7 +98,10 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Scraper Instagram GUI Desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop) - Alternative Instagram front-end for desktop.
-
+- [CyberAPI](https://github.com/vicanso/cyberapi) - API tool client for developer.
+- [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
+- [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
+- [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
 
 ### Closed Source
 
