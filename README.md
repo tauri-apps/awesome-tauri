@@ -102,6 +102,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
+- [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 
 ### Closed Source
 
