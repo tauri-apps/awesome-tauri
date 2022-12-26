@@ -113,6 +113,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Payload](https://payload.app/) - Drag & drop file transfers over local networks
 - [Aptakube](https://aptakube.com/) - Multi-cluster Kubernetes UI
 - [Hypetrigger](https://hypetrigger.io/) - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU
+- [Semanmeter](https://yibiao.fun/) - OCR and document conversion software.
 
 ## Tutorials
 
