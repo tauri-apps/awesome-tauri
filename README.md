@@ -105,7 +105,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Wirefish](https://github.com/stefanodevenuto/wirefish) - Cross-platform packet sniffer and analyzer.
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
-- [Winget GUI](https://github.com/codextde/winget-gui) - Open-source winget gui
+- [Winget GUI](https://github.com/codextde/winget-gui) - Open-source winget GUI.
 
 ### Closed Source
 
