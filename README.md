@@ -105,7 +105,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Wirefish](https://github.com/stefanodevenuto/wirefish) - Cross-platform packet sniffer and analyzer.
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
-
 ### Closed Source
 
 - [TimeChunks](https://danielulrich.com/en/timechunks/) - Time tracking for freelancers without timers and HH:MM:SS inputs.
@@ -114,6 +113,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Aptakube](https://aptakube.com/) - Multi-cluster Kubernetes UI
 - [Hypetrigger](https://hypetrigger.io/) - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU
 - [Semanmeter](https://yibiao.fun/) - OCR and document conversion software.
+- [BULKUS](https://mailvalidator.online/) - Emails validations software.
 
 ## Tutorials
 
