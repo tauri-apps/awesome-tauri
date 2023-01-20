@@ -107,6 +107,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
 - [Jexpe](https://github.com/jexpe-apps/jexpe) - Cross-platform, open source SSH and SFTP client that makes connecting to your remote servers easy.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
+- [Regard](https://github.com/AmineZouitine/regard.rs) - Aelf-hosted tool that tracks the time you spend working on specific projects.
 
 ### Closed Source
 
