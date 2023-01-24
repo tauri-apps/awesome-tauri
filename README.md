@@ -107,6 +107,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
 - [Jexpe](https://github.com/jexpe-apps/jexpe) - Cross-platform, open source SSH and SFTP client that makes connecting to your remote servers easy.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
+- [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
 
 ### Closed Source
 
