@@ -115,6 +115,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Manjaro Starter](https://github.com/oguzkaganeren/manjaro-starter) - Documentation and support app for new Manjaro users.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 - [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
+- [Spyglass](https://github.com/a5huynh/spyglass) - Personal search engine that indexes your files/folders, cloud accounts, and whatever interests you on the internet.
 
 ### Closed Source
 
