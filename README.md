@@ -126,6 +126,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Aptakube](https://aptakube.com/) - Multi-cluster Kubernetes UI.
 - [Hypetrigger](https://hypetrigger.io/) - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
 - [Semanmeter](https://yibiao.fun/) - OCR and document conversion software.
+- [BULKUS](https://mailvalidator.online/) - Email validation software.
 - [Ensō](https://enso.sonnet.io) - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
 
 ## Tutorials
