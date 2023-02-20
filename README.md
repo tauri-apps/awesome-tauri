@@ -113,6 +113,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server for RustDesk, an open source remote desktop.
 - [Manjaro Starter](https://github.com/oguzkaganeren/manjaro-starter) - Documentation and support app for new Manjaro users.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
+- [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
 
 ### Closed Source
 
