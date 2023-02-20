@@ -116,6 +116,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 - [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
 - [Spyglass](https://github.com/a5huynh/spyglass) - Personal search engine that indexes your files/folders, cloud accounts, and whatever interests you on the internet.
+- [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
 
 ### Closed Source
 
