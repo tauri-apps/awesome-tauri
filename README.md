@@ -49,9 +49,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
-- [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno 🦕
+- [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno.
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
-- [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare
+- [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare.
 - [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
 
 ## Apps
@@ -73,17 +73,17 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
-- [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows
+- [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
 - [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
-- [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities
+- [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
 - [mdSilo Desktop](https://github.com/danloh/mdSilo-app) - Tiny zettelkasten note-taking and knowledge silo application.
 - [Aleph](https://github.com/chezhe/aleph) - Aleph is an RSS reader & podcast client.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 - [Request](https://github.com/aiocat/request) - Cross-platform restful HTTP-API client.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
-- [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas
+- [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [Compotes](https://github.com/Orbitale/Compotes) - Local bank account operations storage to vizualize them as graphs and customize them with rules and tags for better filtering.
 - [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Practice piano chords, scales, and more using your MIDI keyboard.
@@ -111,11 +111,11 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Closed Source
 
 - [TimeChunks](https://danielulrich.com/en/timechunks/) - Time tracking for freelancers without timers and HH:MM:SS inputs.
-- [DevBox](https://www.dev-box.app/) - Many useful tools for developers, like generators, viewers, converters, etc...
-- [Payload](https://payload.app/) - Drag & drop file transfers over local networks
-- [Aptakube](https://aptakube.com/) - Multi-cluster Kubernetes UI
-- [Hypetrigger](https://hypetrigger.io/) - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU
-- [Semanmeter](https://yibiao.fun/) - OCR and document conversion software
+- [DevBox](https://www.dev-box.app/) - Many useful tools for developers, like generators, viewers, converters, etc.
+- [Payload](https://payload.app/) - Drag & drop file transfers over local networks.
+- [Aptakube](https://aptakube.com/) - Multi-cluster Kubernetes UI.
+- [Hypetrigger](https://hypetrigger.io/) - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
+- [Semanmeter](https://yibiao.fun/) - OCR and document conversion software.
 - [Ensō](https://enso.sonnet.io) - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
 
 ## Tutorials
