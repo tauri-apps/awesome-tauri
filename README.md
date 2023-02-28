@@ -79,7 +79,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
-- [mdSilo Desktop](https://github.com/danloh/mdSilo-app) - Tiny zettelkasten note-taking and knowledge silo application.
+- [mdsilo Desktop](https://github.com/mdSilo/mdSilo-app) - feed reader and knowledge base.
 - [Aleph](https://github.com/chezhe/aleph) - Aleph is an RSS reader & podcast client.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
