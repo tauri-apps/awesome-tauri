@@ -82,8 +82,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [mdsilo Desktop](https://github.com/mdSilo/mdSilo-app) - feed reader and knowledge base.
 - [Aleph](https://github.com/chezhe/aleph) - Aleph is an RSS reader & podcast client.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
-- [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
-- [Request](https://github.com/aiocat/request) - Cross-platform restful HTTP-API client.
+- [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client. 
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
