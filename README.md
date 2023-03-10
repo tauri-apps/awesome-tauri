@@ -134,5 +134,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Create Tauri App with React](https://www.youtube.com/watch?v=zawhqLA7N9Y&ab_channel=chrisbiscardi) - Chris Biscardi shows how easy it is to wire up a Rust crate with a JS module and communicate between them.
 
 ## Articles
+- [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) - Rob Donnelly dives deep into Async with Tauri
+
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
