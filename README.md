@@ -118,6 +118,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
 - [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop application.
+- [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 
 ### Closed Source
 
