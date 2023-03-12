@@ -118,6 +118,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
 - [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop application.
+- [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
 
 ### Closed Source
 
