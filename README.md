@@ -133,7 +133,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Semanmeter](https://yibiao.fun/) - OCR and document conversion software.
 - [BULKUS](https://mailvalidator.online/) - Email validation software.
 - [Ensō](https://enso.sonnet.io) - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
-- [Cider](https://cider.sh) - A 3rd Party Client for Apple Music, Complete with Audio Lab.
+- [Cider](https://cider.sh) - 3rd Party Client for Apple Music, Complete with Audio Lab.
 
 ## Tutorials
 
