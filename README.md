@@ -122,6 +122,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
 - [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
+- [enassi](https://github.com/enassi/enassi) - An encryption assistant that encrypts and stores your notes and files.
 
 ### Closed Source
 
