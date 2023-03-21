@@ -123,7 +123,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
 - [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
 - [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
-- [chatbox](https://github.com/Bin-Huang/chatbox) - A cross-platform desktop application for ChatGPT API (OpenAI API), also a prompt debugging and management tool.
+- [chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform desktop application for ChatGPT API (OpenAI API), also a prompt debugging and management tool.
 
 ### Closed Source
 
