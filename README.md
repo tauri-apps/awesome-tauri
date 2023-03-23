@@ -124,6 +124,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
 - [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
 - [chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform desktop application for ChatGPT API (OpenAI API), also a prompt debugging and management tool.
+- [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 
 ### Closed Source
 
