@@ -126,7 +126,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
 - [chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform desktop application for ChatGPT API (OpenAI API), also a prompt debugging and management tool.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
-- [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Productivity ChatGPT assistant launcher for cross-platforms.
+- [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Cross-platform productivity ChatGPT assistant launcher.
 
 ### Closed Source
 
