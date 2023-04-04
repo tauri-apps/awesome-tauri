@@ -44,6 +44,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
 - [tauri-plugin-sqlite](https://github.com/lzdyes/tauri-plugin-sqlite) - Interface to SQLite.
 - [sentry-tauri](https://github.com/timfish/sentry-tauri) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
+- [tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase) - Privacy-first and minimalist analytics for desktop and mobile apps.
 
 ## Integrations
 
