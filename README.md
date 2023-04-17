@@ -131,6 +131,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Cross-platform productivity ChatGPT assistant launcher.
 - [EzUp](https://github.com/HuakunShen/ezup) - File and Image uploader. Designed for blog writing and note taking.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
+- [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 
 ### Closed Source
 
