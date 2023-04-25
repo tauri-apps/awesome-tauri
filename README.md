@@ -132,6 +132,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [EzUp](https://github.com/HuakunShen/ezup) - File and Image uploader. Designed for blog writing and note taking.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
+- [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
 
 ### Closed Source
 
@@ -144,7 +145,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [BULKUS](https://mailvalidator.online/) - Email validation software.
 - [Ensō](https://enso.sonnet.io) - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
 - [Cider](https://cider.sh) - 3rd Party Client for Apple Music, Complete with Audio Lab.
-- [QuickGPT](https://dubisdev.gumroad.com/l/QuickGPT) - Lightweight AI assistant for Windows.
 
 ## Tutorials
 
