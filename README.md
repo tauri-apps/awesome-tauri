@@ -133,6 +133,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
+- [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 
 ### Closed Source
 
