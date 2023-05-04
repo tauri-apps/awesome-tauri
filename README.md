@@ -134,6 +134,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
+- [ChatGPT App](https://github.com/Poordeveloper/chatgpt-app) - Cross-platform ChatGPT App and more.
 
 ### Closed Source
 
