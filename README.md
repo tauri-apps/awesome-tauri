@@ -135,6 +135,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 - [ChatGPT App](https://github.com/Poordeveloper/chatgpt-app) - Cross-platform ChatGPT App and more.
+- [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 
 ### Closed Source
 
@@ -156,6 +157,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Articles
 - [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) - Rob Donnelly dives deep into Async with Tauri
+- [Getting Started Using Tauri Mobile](https://medium.com/@erutherford_nullreturn) - Ed Rutherford outlines how to create a mobile app with Tauri
 
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
