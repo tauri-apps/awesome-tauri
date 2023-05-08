@@ -20,7 +20,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Development](#development)
   - [Plugins](#plugins)
   - [Integrations](#integrations)
-- [Further Reading](#further-reading)
   - [Articles](#articles)
 - [Applications](#applications)
   - [Audio & Video](#audio--video)
@@ -101,10 +100,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Articles
 
 - [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) - Rob Donnelly dives deep into Async with Tauri
-
-[officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
-[closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
-[paid]: https://img.shields.io/badge/paid-FFC131?&logoColor=black
 
 ## Applications
 
@@ -236,3 +231,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
+
+[officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
+[closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
+[paid]: https://img.shields.io/badge/paid-FFC131?&logoColor=black
