@@ -2,6 +2,8 @@ This is the link to the project: [TITLE](URL)
 
 - [ ] **I have read the [contributing guidelines](contributing.md).**
 - [ ] Use the following format: `[Title](link) - Description.`
+- [ ] If the project is closed source add the `![closed source]` badge after the `(link)` but before the `-`.
+- [ ] If the project/article is non-free or paywalled add the `![paid]` badge after the `(link)` but before the `-`.
 - [ ] Add entries to the bottom of the correct category.
 - [ ] No unnecessary words like `for Tauri`, `a Tauri plugin` and `Super-Fast`.
 - [ ] Description does not start with `A` or `An`.
