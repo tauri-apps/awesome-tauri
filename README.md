@@ -211,6 +211,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Authme](https://github.com/Levminer/authme) - Two-factor (2FA) authentication app for desktop.
 - [Calciumdibromid](https://codeberg.org/Calciumdibromid/CaBr2) - Generate "experiment wise safety sheets" in compliance to European law.
+- [OneKeePass](https://github.com/OneKeePass/desktop) - Secure, modern, cross-platform and KeePass compatible password manager.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 
