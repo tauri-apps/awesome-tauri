@@ -101,6 +101,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Articles
 
 - [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) - Rob Donnelly dives deep into Async with Tauri
+- [Getting Started Using Tauri Mobile](https://medium.com/@erutherford_nullreturn) ![paid] - Ed Rutherford outlines how to create a mobile app with Tauri
 
 ## Applications
 
@@ -133,6 +134,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
+- [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 
 ### Email & Feeds
 
