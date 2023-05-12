@@ -100,7 +100,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Articles
 
-- [Getting Started Using Tauri Mobile](https://medium.com/@erutherford_nullreturn) ![paid] - Ed Rutherford outlines how to create a mobile app with Tauri
+- [Getting Started Using Tauri Mobile](https://medium.com/p/6f90de5b098) ![paid] - Ed Rutherford outlines how to create a mobile app with Tauri
 - [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) - Rob Donnelly dives deep into Async with Tauri
 
 ## Applications
