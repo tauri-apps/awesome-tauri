@@ -197,7 +197,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
-- [Notedown](https://github.com/ruralad/notedown) - A minimal, local-first cross-platform note taking app.
+- [Notedown](https://github.com/ruralad/notedown) - Minimal, local-first cross-platform note taking app.
 - [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
 
 ### Productivity
