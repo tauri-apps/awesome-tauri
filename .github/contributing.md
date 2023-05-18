@@ -2,8 +2,12 @@
 
 Make sure your pull request follows the guidelines/checklists in this document. Please note that entries can be removed if they do not follow the guidelines. Thank you for your suggestion!
 
+All projects are assumed to be free and open source unless otherwise specified using the appropriate badges to indicate otherwise.
+
 - Use the following format: `[Title](link) - Description.`
-- Add entries to the bottom of the correct category.
+- If the project is closed source add the `![closed source]` badge after the `(link)` but before the `-`.
+- If the project/article is non-free or paywalled add the `![paid]` badge after the `(link)` but before the `-`.
+- Add entries alphabetically to the most appropriate category.
 - No unnecessary words like `for Tauri`, `a Tauri plugin` and `Super-Fast`.
 - Description does not start with `A` or `An`.
 - Description is under 24 words.
