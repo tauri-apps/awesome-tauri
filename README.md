@@ -60,7 +60,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
 - [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
 - [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
-- [tauri-react-mantine-vite-template](https://github.com/elibroftw/modern-desktop-app-template) - React Mantine template featuring custom titlebar for Windows, auto publish action, auto update, and more 
+- [tauri-react-mantine-vite-template](https://github.com/elibroftw/modern-desktop-app-template) - React Mantine template featuring custom titlebar for Windows, auto publish action, auto update, and more
 - [tauri-react-parcel-template](https://github.com/henrhie/tauri-react-parcel-template) - React template with Parcel as build tool, TypeScript and hot module replacement.
 - [tauri-rescript-template](https://github.com/JonasKruckenberg/tauri-rescript-template) - Tauri, ReScript, and React template.
 - [tauri-sycamore-template](https://github.com/JonasKruckenberg/tauri-sycamore-template) - Tauri and Sycamore template.
@@ -197,6 +197,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
+- [Notedown](https://github.com/ruralad/notedown) - Minimal, local-first cross-platform note taking app.
 - [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
 
 ### Productivity
