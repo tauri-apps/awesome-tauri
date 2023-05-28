@@ -125,6 +125,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Data
 
 - [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) - The Best Surprise Redis Desktop Client.
+- [pgMagic🪄](https://pgmagic.app/?ref=awesometauri) ![closed source] - GUI client to talk to Postgres in SQL or with natural language. `TAURIRULES` for 20% off.
 
 ### Developer tools
 
