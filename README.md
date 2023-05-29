@@ -120,6 +120,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop application.
 - [ChatGPT App](https://github.com/Poordeveloper/chatgpt-app) - Cross-platform ChatGPT App and more.
 - [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Cross-platform productivity ChatGPT assistant launcher.
+- [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
 
 ### Data
