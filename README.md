@@ -239,12 +239,12 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
+- [Pot](https://github.com/pot-app/pot-desktop) - Cross-platform Translation Software.
 - [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
-- [Pot](https://github.com/pot-app/pot-desktop) - Cross-platform Translation Software.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
