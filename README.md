@@ -238,6 +238,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
+- [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
 - [Pot](https://github.com/pot-app/pot-desktop) - Cross-platform Translation Software.
