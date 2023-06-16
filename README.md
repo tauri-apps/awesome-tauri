@@ -148,7 +148,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Aleph](https://github.com/chezhe/aleph) - Aleph is an RSS reader & podcast client.
 - [BULKUS](https://mailvalidator.online/) ![closed source] - Email validation software.
 - [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
-- [mdsilo Desktop](https://github.com/mdSilo/mdSilo-app) - feed reader and knowledge base.
+- [mdsilo Desktop](https://github.com/mdSilo/mdSilo-app) - Feed reader and knowledge base.
 
 ### File management
 
@@ -247,6 +247,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
+- [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for Transmission torrent daemon.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
