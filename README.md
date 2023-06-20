@@ -208,6 +208,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [LineByLine](https://github.com/linebyline-group/linebyline) - Modern markdown editor application with built-in ChatGPT extension.
 - [Notedown](https://github.com/ruralad/notedown) - Minimal, local-first cross-platform note taking app.
 - [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
+- [tauri-notepad](https://github.com/tywil04/tauri-notepad) - Minimal notepad with markdown support.
 
 ### Productivity
 
