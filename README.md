@@ -252,7 +252,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
 - [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for Transmission torrent daemon.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
-- [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri/tree/master) - Simple wallpaper changer app.
+- [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
