@@ -197,6 +197,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
 - [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server for RustDesk, an open source remote desktop.
 - [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
+- [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for Linux, macOS, and Windows.
 - [Watcher](https://github.com/windht/watcher) - API manager built for a easier use to manage and collaborate.
 - [Wirefish](https://github.com/stefanodevenuto/wirefish) - Cross-platform packet sniffer and analyzer.
 
