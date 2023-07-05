@@ -242,6 +242,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
+- [Clippy](https://github.com/Don-Cryptus/clippy) - Modern & Fast Clipboard Manager.
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
