@@ -244,6 +244,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Clippy](https://github.com/Don-Cryptus/clippy) - Modern & Fast Clipboard Manager.
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
+- [Imagefly](https://www.imagefly.dev/?ref=awesometauri) ![closed source] ![paid] - Powerful offline image processing toolkit for macOS
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
