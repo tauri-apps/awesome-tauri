@@ -60,7 +60,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
 - [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
 - [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
-- [tauri-react-mantine-vite-template](https://github.com/elibroftw/modern-desktop-app-template) - React Mantine template featuring custom titlebar for Windows, auto publish action, auto update, and more
+- [tauri-react-mantine-vite-template](https://github.com/elibroftw/modern-desktop-app-template) - React Mantine template featuring custom titlebar for Windows, auto publish action, auto update, and more.
 - [tauri-react-parcel-template](https://github.com/henrhie/tauri-react-parcel-template) - React template with Parcel as build tool, TypeScript and hot module replacement.
 - [tauri-rescript-template](https://github.com/JonasKruckenberg/tauri-rescript-template) - Tauri, ReScript, and React template.
 - [tauri-sycamore-template](https://github.com/JonasKruckenberg/tauri-sycamore-template) - Tauri and Sycamore template.
@@ -101,11 +101,11 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Articles
 
-- [Getting Started Using Tauri Mobile](https://medium.com/p/6f90de5b098) ![paid] - Ed Rutherford outlines how to create a mobile app with Tauri
+- [Getting Started Using Tauri Mobile](https://medium.com/p/6f90de5b098) ![paid] - Ed Rutherford outlines how to create a mobile app with Tauri.
 - [How to use local SQLite database with Tauri and Rust](https://blog.moonguard.dev/how-to-use-local-sqlite-database-with-tauri) - Guide to setup and use SQLite database with Tauri and Rust.
 - [Managing State in Desktop Applications with Rust and Tauri](https://blog.moonguard.dev/manage-state-with-tauri) - How to share and manage any kind of state globally in Tauri apps.
 - [Setting up Actix Web in a Tauri App](https://blog.moonguard.dev/setting-up-actix-in-tauri) - How to setup a HTTP server with Tauri and Actix Web.
-- [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) - Rob Donnelly dives deep into Async with Tauri
+- [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) - Rob Donnelly dives deep into Async with Tauri.
 
 ## Applications
 
@@ -174,7 +174,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Gaming
 
-- [9Launcher](https://github.com/wearrrrr/9Launcher) - Modern Cross-platform launcher for Touhou Project Games!
+- [9Launcher](https://github.com/wearrrrr/9Launcher) - Modern Cross-platform launcher for Touhou Project Games.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
@@ -219,6 +219,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
+- [Kianalol](https://github.com/zxh3/kianalol) - Spotlight-like efficiency tool for swift website access.
 - [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
 - [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies meets Pomodoro.
 - [Pomodoro](https://github.com/g07cha/pomodoro) - Time management tool based on Pomodoro technique.
