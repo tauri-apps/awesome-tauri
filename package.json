@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tauri-apps/awesome-tauri#readme",
   "devDependencies": {
-    "awesome-lint": "^0.18.3"
+    "awesome-lint": "^0.18.0"
   }
 }
