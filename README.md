@@ -253,6 +253,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
 - [Pot](https://github.com/pot-app/pot-desktop) - Cross-platform Translation Software.
+- [Rounded Corners](https://github.com/RoundedCorners/app) - Rounded Corners app for Windows.
 - [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
