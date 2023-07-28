@@ -179,6 +179,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
+- [BestCraft](https://github.com/Tnze/ffxiv-best-craft) - A crafting simulator with solving algorithms for Final Fantasy XIV(FF14).
 
 ### Information
 
