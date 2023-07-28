@@ -175,11 +175,11 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Gaming
 
 - [9Launcher](https://github.com/wearrrrr/9Launcher) - Modern Cross-platform launcher for Touhou Project Games.
+- [BestCraft](https://github.com/Tnze/ffxiv-best-craft) - Crafting simulator with solver algorithms for Final Fantasy XIV(FF14).
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
-- [BestCraft](https://github.com/Tnze/ffxiv-best-craft) - A crafting simulator with solving algorithms for Final Fantasy XIV(FF14).
 
 ### Information
 
