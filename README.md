@@ -135,6 +135,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Developer tools
 
+- [AHQ Store](https://github.com/ahqsoftwares/tauri-ahq-store) - Publish, Update and Install apps to the Windows-specific AHQ Store.
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
 - [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for developers, like generators, viewers, converters, etc.
