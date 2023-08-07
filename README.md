@@ -59,7 +59,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-react-template](https://github.com/oSethoum/tauri-react-template) - React template with Vite, TypeScript, hot module replacement.
 - [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
 - [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
-- [tauri-vue-template-2](https://github.com/skymen/tauri-vue-template) - Another vue template with Javascript, Vite, Pinia, Vue Router and Github Actions for releasing with support for the Tauri Updater
+- [tauri-vue-template-2](https://github.com/skymen/tauri-vue-template) - Another vue template with Javascript, Vite, Pinia, Vue Router and Github Actions.
 - [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
 - [tauri-react-mantine-vite-template](https://github.com/elibroftw/modern-desktop-app-template) - React Mantine template featuring custom titlebar for Windows, auto publish action, auto update, and more.
 - [tauri-react-parcel-template](https://github.com/henrhie/tauri-react-parcel-template) - React template with Parcel as build tool, TypeScript and hot module replacement.
