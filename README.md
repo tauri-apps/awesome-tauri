@@ -68,7 +68,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-solid-ts-tailwind-vite-template](https://github.com/AR10Dev/tauri-solid-ts-tailwind-vite) - SolidJS Template preconfigured to use Vite, TypeScript, Tailwind CSS, ESLint and Prettier.
 - [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
 - [tauri-nuxt-template](https://github.com/HuakunShen/tauri-nuxt-template) - Nuxt3 template
-- [tauri-alpha-mobile-android-react-template](https://github.com/JohannesMerkt/tauri-alpha-mobile-android-react-template) - try out the alpha for mobile android development with Vite + React + Typescript
+- [tauri-alpha-mobile-android-react-template](https://github.com/JohannesMerkt/tauri-alpha-mobile-android-react-template) - Try out the alpha for mobile android development with Vite + React + Typescript
 
 
 ## Development
