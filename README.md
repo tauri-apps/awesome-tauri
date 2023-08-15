@@ -150,6 +150,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Email & Feeds
 
+- [Alduin](https://alduin.stouder.io/) - Alduin is a free and open source RSS, Atom and JSON feed reader that allows you to keep track of your favorite websites.
 - [Aleph](https://github.com/chezhe/aleph) - Aleph is an RSS reader & podcast client.
 - [BULKUS](https://mailvalidator.online/) ![closed source] - Email validation software.
 - [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
