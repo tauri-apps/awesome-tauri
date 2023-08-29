@@ -223,6 +223,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Banban](https://github.com/HubertK05/banban) - Kanban board with tags, categories and markdown support.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
+- [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for Windows and macOS.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
