@@ -90,6 +90,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) - Detailed system information.
+
 ### Integrations
 
 - [vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) ![officially maintained] - Turn your Vue SPA into a lightweight cross-platform desktop app.
