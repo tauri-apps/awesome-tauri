@@ -237,6 +237,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Security
 
+- [Gluhny](https://github.com/angeldollface/gluhny) A graphical interface to validate IMEI numbers. :iphone: :lock: :crab:
 - [Authme](https://github.com/Levminer/authme) - Two-factor (2FA) authentication app for desktop.
 - [Calciumdibromid](https://codeberg.org/Calciumdibromid/CaBr2) - Generate "experiment wise safety sheets" in compliance to European law.
 - [OneKeePass](https://github.com/OneKeePass/desktop) - Secure, modern, cross-platform and KeePass compatible password manager.
@@ -251,6 +252,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Utilities
 
+- [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images. :camera: :crab:
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Clippy](https://github.com/Don-Cryptus/clippy) - Modern & Fast Clipboard Manager.
