@@ -143,6 +143,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [AHQ Store](https://github.com/ahqsoftwares/tauri-ahq-store) - Publish, Update and Install apps to the Windows-specific AHQ Store.
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
+- [claws](https://clawsapp.com/) ![closed source] - A visual interface for the AWS CLI.
 - [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for developers, like generators, viewers, converters, etc.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
