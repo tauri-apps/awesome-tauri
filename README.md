@@ -89,6 +89,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - Clipboard plugin for reading/writing clipboard text/image, and monitoring clipboard update.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
+- [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) - Detailed system information.
 
 ### Integrations
@@ -240,6 +241,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Authme](https://github.com/Levminer/authme) - Two-factor (2FA) authentication app for desktop.
 - [Calciumdibromid](https://codeberg.org/Calciumdibromid/CaBr2) - Generate "experiment wise safety sheets" in compliance to European law.
+- [Gluhny](https://github.com/angeldollface/gluhny) A graphical interface to validate IMEI numbers.
 - [OneKeePass](https://github.com/OneKeePass/desktop) - Secure, modern, cross-platform and KeePass compatible password manager.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
@@ -262,6 +264,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
+- [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
 - [Pot](https://github.com/pot-app/pot-desktop) - Cross-platform Translation Software.
 - [Rounded Corners](https://github.com/RoundedCorners/Application) - Rounded Corners app for Windows.
