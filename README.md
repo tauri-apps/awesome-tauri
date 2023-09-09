@@ -141,7 +141,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Developer tools
 
-- [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey
 - [AHQ Store](https://github.com/ahqsoftwares/tauri-ahq-store) - Publish, Update and Install apps to the Windows-specific AHQ Store.
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
@@ -154,6 +153,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source code from an IDL.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
+- [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey
 
 ### Email & Feeds
 
