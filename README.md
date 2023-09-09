@@ -141,6 +141,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Developer tools
 
+- [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey
 - [AHQ Store](https://github.com/ahqsoftwares/tauri-ahq-store) - Publish, Update and Install apps to the Windows-specific AHQ Store.
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
