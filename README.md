@@ -68,6 +68,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-solid-ts-tailwind-vite-template](https://github.com/AR10Dev/tauri-solid-ts-tailwind-vite) - SolidJS Template preconfigured to use Vite, TypeScript, Tailwind CSS, ESLint and Prettier.
 - [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
 - [tauri-nuxt-template](https://github.com/HuakunShen/tauri-nuxt-template) - Nuxt3 template
+- [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
 
 ## Development
 
