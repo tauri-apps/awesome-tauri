@@ -195,6 +195,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
 
+### Graphics and 3D
+- [KittyCAD](https://github.com/KittyCAD/modeling-app) - Modern 3D mechanical/hardware design. Build 3D models with both code and WYSIWYG editors.
+
 ### Information
 
 - [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
