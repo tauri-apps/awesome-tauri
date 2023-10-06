@@ -287,6 +287,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for Transmission torrent daemon.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
+- [Traffic Wave](https://codecanyon.net/item/traffic-wave-advanced-crossplatform-web-traffic-generation/48354619) ![closed source] ![paid] - Advanced Cross-Platform Web Traffic Generation.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
