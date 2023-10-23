@@ -285,8 +285,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [Stacks](https://github.com/cablehead/stacks) - Modern and capable clipboard manager for macOS. Seeking Linux and Windows contributions.
 - [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
-- [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for Transmission torrent daemon.
 - [Toolcat](https://toolcat.app) ![closed source] - All-in-one toolkit for developers and creators.
+- [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for Transmission torrent daemon.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
 
