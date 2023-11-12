@@ -233,7 +233,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Productivity
 
-- [AgeTimer](https://github.com/dhextras/age-timer-tauri) - Desktop utility that counts your age in real-time.
 - [Banban](https://github.com/HubertK05/banban) - Kanban board with tags, categories and markdown support.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
 - [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for Windows and macOS.
@@ -265,6 +264,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Utilities
 
+- [AgeTimer](https://github.com/dhextras/age-timer-tauri) - Desktop utility that counts your age in real-time.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Clippy](https://github.com/Don-Cryptus/clippy) - Modern & Fast Clipboard Manager.
