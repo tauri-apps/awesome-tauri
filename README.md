@@ -206,6 +206,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Manjaro Starter](https://github.com/oguzkaganeren/manjaro-starter) - Documentation and support app for new Manjaro users.
 - [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Practice piano chords, scales, and more using your MIDI keyboard.
+- [Solars](https://github.com/hiltontj/solars) - Visualize the planets of our solar system.
 
 ### Networking
 
