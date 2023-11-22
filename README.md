@@ -56,6 +56,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Templates
 
 - [tauri-svelte-template](https://github.com/probablykasper/tauri-svelte-template) - Svelte template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
+- [tauri-sveltekit-template](https://github.com/deid84/tauri-sveltekit-admin-template) - SvelteKit Admin template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
 - [tauri-react-template](https://github.com/oSethoum/tauri-react-template) - React template with Vite, TypeScript, hot module replacement.
 - [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
 - [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
