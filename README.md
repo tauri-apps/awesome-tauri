@@ -158,6 +158,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey
+- [KFtray]([https://clawsapp.com/](https://github.com/hcavarsan/kftray)) - A tray application that manages port forwarding in Kubernetes.
 
 ### Email & Feeds
 
