@@ -264,10 +264,10 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Social media
 
+- [Dorion](https://github.com/SpikeHD/Dorion) - Light weight third-party Discord client with support for plugins.
 - [Identia](https://github.com/iohzrd/identia) - Decentralized social media on IPFS.
 - [Kadium](https://github.com/probablykasper/kadium) - App for staying on top of YouTube channel uploads.
 - [Scraper Instagram GUI Desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop) - Alternative Instagram front-end for desktop.
-- [Dorion](https://github.com/SpikeHD/Dorion) - Light weight third-party Discord client with support for plugins.
 
 ### Utilities
 
