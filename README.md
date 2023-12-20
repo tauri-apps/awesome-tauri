@@ -70,7 +70,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
 - [tauri-nuxt-template](https://github.com/HuakunShen/tauri-nuxt-template) - Nuxt3 template
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
-- [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular (Typescript + SASS + Hot Reload) template.
+- [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular with Typescript, SASS, and Hot Reload.
 
 ## Development
 
