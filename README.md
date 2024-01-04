@@ -292,6 +292,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [Stacks](https://github.com/cablehead/stacks) - Modern and capable clipboard manager for macOS. Seeking Linux and Windows contributions.
+- [Tauview](https://github.com/sprout2000/tauview) - Minimalist image viewer for macOS and Linux based on Leaflet.js.
 - [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
 - [Toolcat](https://toolcat.app) ![closed source] - All-in-one toolkit for developers and creators.
 - [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for Transmission torrent daemon.
