@@ -261,8 +261,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Gluhny](https://github.com/angeldollface/gluhny) A graphical interface to validate IMEI numbers.
 - [OneKeePass](https://github.com/OneKeePass/desktop) - Secure, modern, cross-platform and KeePass compatible password manager.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
-- [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 - [Secops](https://github.com/kunalsin9h/secops) - Ubuntu Operating System security made easy.
+- [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 
 ### Social media
 
