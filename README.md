@@ -195,9 +195,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
 
-### Graphics and 3D
-- [KittyCAD](https://github.com/KittyCAD/modeling-app) - Modern 3D mechanical/hardware design. Build 3D models with both code and WYSIWYG editors.
-
 ### Information
 
 - [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
@@ -272,6 +269,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Clippy](https://github.com/Don-Cryptus/clippy) - Modern & Fast Clipboard Manager.
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
 - [Imagefly](https://www.imagefly.dev/?ref=awesometauri) ![closed source] - Powerful offline image processing toolkit for Windows, Linux and macOS
+- [KittyCAD](https://github.com/KittyCAD/modeling-app) - Modern 3D mechanical/hardware design. Build 3D models with both code and WYSIWYG editors.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
 - [Linka!](https://github.com/linka-app/linka) - AI powered, easy to use, cross-platform bookmark management tool.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
