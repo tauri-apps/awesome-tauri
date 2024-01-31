@@ -285,7 +285,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [AgeTimer](https://github.com/dhextras/age-timer-tauri) - Desktop utility that counts your age in real-time.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
-- [Clippy](https://github.com/Don-Cryptus/clippy) - Modern & Fast Clipboard Manager.
+- [Clippy](https://github.com/0-don/clippy) - Modern & Fast Clipboard Manager.
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
 - [Imagefly](https://www.imagefly.dev/?ref=awesometauri) ![closed source] - Powerful offline image processing toolkit for Windows, Linux and macOS
 - [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
