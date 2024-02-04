@@ -55,9 +55,11 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Templates
 
+- [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular with Typescript, SASS, and Hot Reload.
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
 - [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
 - [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
+- [tauri-leptos-template](https://gitlab.com/cristofa/tauri-leptos-template) - Leptos template
 - [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
 - [tauri-nuxt-template](https://github.com/HuakunShen/tauri-nuxt-template) - Nuxt3 template.
 - [tauri-preact-rsbuild-template](https://github.com/Alfredoes234/tauri-preact-rsbuild-template) - Preact template that uses rsbuild, rather than vite.
@@ -95,10 +97,11 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) - Cross-compatible serialport communication tool.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) - Detailed system information.
 - [tauri-plugin-theme](https://github.com/wyhaya/tauri-plugin-theme) - Dynamically change Tauri App theme.
+- [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system that leverages WebSocket.
+- [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window to panel.
 
 ### Integrations
 
-- [vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) ![officially maintained] - Turn your Vue SPA into a lightweight cross-platform desktop app.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
@@ -107,6 +110,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare.
 - [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
 - [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) - Automatically interface the Tauri updater with git repository releases.
+- [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) - Example macOS Spotlight app project.
 
 ### Articles
 
@@ -159,6 +163,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source code from an IDL.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
+- [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey
 - [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs
@@ -199,7 +204,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
+- [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered PC ports of the Jak and Daxter series.
 - [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
+- [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
 - [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
 
@@ -213,7 +220,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Manjaro Starter](https://github.com/oguzkaganeren/manjaro-starter) - Documentation and support app for new Manjaro users.
 - [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Practice piano chords, scales, and more using your MIDI keyboard.
 - [Solars](https://github.com/hiltontj/solars) - Visualize the planets of our solar system.
-- [Thot](https://github.com/thot-data/thot) - Scientific data assistant.
+- [Syre](https://github.com/syre-data/syre) - Scientific data assistant.
 
 ### Networking
 
@@ -251,11 +258,13 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
 - [Kianalol](https://github.com/zxh3/kianalol) - Spotlight-like efficiency tool for swift website access.
 - [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
+- [MacroGraph](https://github.com/Brendonovich/macrograph) - Visual programming for content creators.
 - [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies meets Pomodoro.
 - [Pomodoro](https://github.com/g07cha/pomodoro) - Time management tool based on Pomodoro technique.
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
 - [WindowPet](https://github.com/SeakMengs/WindowPet) - Overlay app that lets you have adorable companions such as pets and anime characters on your screen.
+- [Zawee](https://zawee.net) ![closed source] - Experience the synergy of Kanban boards, note-taking, file sharing, and more, seamlessly integrated into one powerful application.
 
 ### Security
 
@@ -279,15 +288,17 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [AgeTimer](https://github.com/dhextras/age-timer-tauri) - Desktop utility that counts your age in real-time.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
-- [Clippy](https://github.com/Don-Cryptus/clippy) - Modern & Fast Clipboard Manager.
+- [Clippy](https://github.com/0-don/clippy) - Modern & Fast Clipboard Manager.
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
 - [Imagefly](https://www.imagefly.dev/?ref=awesometauri) ![closed source] - Powerful offline image processing toolkit for Windows, Linux and macOS
 - [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
+- [KittyCAD](https://github.com/KittyCAD/modeling-app) - Modern 3D mechanical/hardware design. Build 3D models with both code and WYSIWYG editors.
 - [KoS - Key on Screen](https://github.com/dubisdev/key-on-screen) - Show in your screen the keys you are pressing.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
 - [Linka!](https://github.com/linka-app/linka) - AI powered, easy to use, cross-platform bookmark management tool.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
+- [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
