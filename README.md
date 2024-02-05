@@ -224,6 +224,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Networking
 
+- [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge, a rule-based proxy.
 - [CyberAPI](https://github.com/vicanso/cyberapi) - API tool client for developer.
 - [Jexpe](https://github.com/jexpe-apps/jexpe) - Cross-platform, open source SSH and SFTP client that makes connecting to your remote servers easy.
 - [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
