@@ -233,6 +233,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for Linux, macOS, and Windows.
 - [Watcher](https://github.com/windht/watcher) - API manager built for a easier use to manage and collaborate.
 - [Wirefish](https://github.com/stefanodevenuto/wirefish) - Cross-platform packet sniffer and analyzer.
+- [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge.
 
 ### Office & Writing
 
