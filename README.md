@@ -130,6 +130,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
+- [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - GUI client for a Jellyfin server based on Vue.js and Tauri.
 
 ### ChatGPT clients
 
