@@ -111,6 +111,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
 - [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) - Automatically interface the Tauri updater with git repository releases.
 - [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) - Example macOS Spotlight app project.
+- [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) - Example macOS Menubar app project.
 
 ### Articles
 
