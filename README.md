@@ -102,16 +102,16 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Integrations
 
-- [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
-- [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
-- [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
 - [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno.
-- [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
-- [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare.
+- [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
 - [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
-- [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) - Automatically interface the Tauri updater with git repository releases.
-- [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) - Example macOS Spotlight app project.
+- [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
+- [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
 - [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) - Example macOS Menubar app project.
+- [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) - Example macOS Spotlight app project.
+- [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare.
+- [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) - Automatically interface the Tauri updater with git repository releases.
+- [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ### Articles
 
