@@ -35,6 +35,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
   - [Networking](#networking)
   - [Office & Writing](#office--writing)
   - [Productivity](#productivity)
+  - [Search](#search)
   - [Security](#security)
   - [Social media](#social-media)
   - [Utilities](#utilities)
@@ -185,7 +186,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
 - [Payload](https://payload.app/) ![closed source] - Drag & drop file transfers over local networks.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A file explorer from the future.
-- [Spyglass](https://github.com/a5huynh/spyglass) - Personal search engine that indexes your files/folders, cloud accounts, and whatever interests you on the internet.
 - [SquirrelDisk](https://github.com/adileo/squirreldisk) - Beautiful cross-platform disk usage analysis tool.
 - [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's taking up your Time Machine backup space.
 - [Xplorer](https://github.com/kimlimjustin/xplorer) - Customizable, modern and cross-platform File Explorer.
@@ -269,6 +269,11 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
 - [WindowPet](https://github.com/SeakMengs/WindowPet) - Overlay app that lets you have adorable companions such as pets and anime characters on your screen.
 - [Zawee](https://zawee.net) ![closed source] - Experience the synergy of Kanban boards, note-taking, file sharing, and more, seamlessly integrated into one powerful application.
+
+### Search
+
+- [Harana](https://github.com/harana/search) - Search your desktop and 300+ cloud apps, instantly.
+- [Spyglass](https://github.com/a5huynh/spyglass) - Personal search engine that indexes your files/folders, cloud accounts, and whatever interests you on the internet.
 
 ### Security
 
