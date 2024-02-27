@@ -157,6 +157,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
 - [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
 - [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for developers, like generators, viewers, converters, etc.
+- [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities. 
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
 - [GitButler](https://gitbutler.com) ![closed source] - GitButler is a new Source Code Management system.
