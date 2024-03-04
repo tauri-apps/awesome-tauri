@@ -151,6 +151,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) - The Best Surprise Redis Desktop Client.
 - [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
 - [Mason](https://mason.app) ![closed source] - Seamlessly query, visualize and share data with your team.
+- [Noir](https://noirdb.dev) - Keyboard-driven database management client.
 - [pgMagic🪄](https://pgmagic.app/?ref=awesometauri) ![closed source] ![paid] - GUI client to talk to Postgres in SQL or with natural language.
 
 ### Developer tools
