@@ -153,7 +153,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Mason](https://mason.app) ![closed source] - Seamlessly query, visualize and share data with your team.
 - [Noir](https://noirdb.dev) - Keyboard-driven database management client.
 - [pgMagic🪄](https://pgmagic.app/?ref=awesometauri) ![closed source] ![paid] - GUI client to talk to Postgres in SQL or with natural language.
-- [Duckling](https://github.com/l1xnan/duckling) - A fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
+- [Duckling](https://github.com/l1xnan/duckling) - The lightweight and fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
 
 ### Developer tools
 
