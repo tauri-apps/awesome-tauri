@@ -165,7 +165,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities. 
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
-- [GitButler](https://gitbutler.com) ![closed source] - GitButler is a new Source Code Management system.
+- [GitButler](https://gitbutler.com) - GitButler is a new Source Code Management system.
 - [GitLight](https://github.com/colinlienard/gitlight) - GitHub & GitLab notifications on your desktop.
 - [Hoppscotch](https://hoppscotch.com/download) ![closed source] - Trusted by millions of developers to build, test and share APIs.
 - [KFtray](https://github.com/hcavarsan/kftray) - A tray application that manages port forwarding in Kubernetes.
