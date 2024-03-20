@@ -136,6 +136,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
+
 ### ChatGPT clients
 
 - [chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform desktop application for ChatGPT API (OpenAI API), also a prompt debugging and management tool.
