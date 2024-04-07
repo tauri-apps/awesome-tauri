@@ -240,6 +240,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CyberAPI](https://github.com/vicanso/cyberapi) - API tool client for developer.
 - [Jexpe](https://github.com/jexpe-apps/jexpe) - Cross-platform, open source SSH and SFTP client that makes connecting to your remote servers easy.
 - [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
+- [Nhex](https://github.com/nhexirc/nhex) - Next-generation IRC client inspired by HexChat.
 - [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server for RustDesk, an open source remote desktop.
 - [T-Shell](https://github.com/TheBlindM/T-Shell) - An open-source SSH, SFTP intelligent command line terminal application.
 - [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
