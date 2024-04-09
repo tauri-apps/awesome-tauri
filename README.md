@@ -169,7 +169,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
-- [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
 - [GitButler](https://gitbutler.com) - GitButler is a new Source Code Management system.
 - [GitLight](https://github.com/colinlienard/gitlight) - GitHub & GitLab notifications on your desktop.
 - [Hoppscotch](https://hoppscotch.com/download) ![closed source] - Trusted by millions of developers to build, test and share APIs.
@@ -179,6 +178,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
+- [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey
 - [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs
