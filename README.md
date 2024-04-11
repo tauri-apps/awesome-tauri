@@ -310,6 +310,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Utilities
 
 - [AgeTimer](https://github.com/dhextras/age-timer-tauri) - Desktop utility that counts your age in real-time.
+- [Auto Wallpaper](https://github.com/auto-wallpaper/auto-wallpaper) - Automatically generates 4K wallpapers based on user's location, weather, and time of day or any custom prompts.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Clippy](https://github.com/0-don/clippy) - Modern & Fast Clipboard Manager.
