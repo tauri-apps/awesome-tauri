@@ -228,7 +228,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
 - [Stockman](https://github.com/awkj/stockman) - Display stock info on mac menubar.
-- [Watchcoin](https://github.com/lifecoder1988/tauri-watch-coin) - Display cypto price on os menubar (absolutely no window).
+- [Watchcoin](https://github.com/lifecoder1988/tauri-watch-coin) - Display cypto price on OS menubar without a window.
   
 ### Learning
 
