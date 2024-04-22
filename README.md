@@ -95,6 +95,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - Clipboard plugin for reading/writing clipboard text/image, and monitoring clipboard update.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
+- [tauri-plugin-cors-fetch](https://github.com/idootop/tauri-plugin-cors-fetch) - Enabling CORS for fetch requests.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
 - [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) - Cross-compatible serialport communication tool.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) - Detailed system information.
@@ -102,7 +103,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system that leverages WebSocket.
 - [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window to panel.
 - [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) - Block the power save functionality in the OS.
-- [tauri-plugin-cors-fetch](https://github.com/idootop/tauri-plugin-cors-fetch) - Enabling CORS for fetch requests.
 
 ### Integrations
 
