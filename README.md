@@ -138,6 +138,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
 - [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
+- [Feiyu Player](https://github.com/idootop/feiyu-player) - An elegant and powerful cross-platform online video player.
 
 ### ChatGPT clients
 
