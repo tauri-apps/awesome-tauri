@@ -132,7 +132,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Cider](https://cider.sh) ![closed source] - 3rd Party Client for Apple Music, Complete with Audio Lab.
 - [Curses](https://github.com/mmpneo/curses) - Speech-to-Text and Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
-- [Feiyu Player](https://github.com/idootop/feiyu-player) - An elegant and powerful cross-platform online video player.
+- [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
 - [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - GUI client for a Jellyfin server based on Vue.js and Tauri.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
