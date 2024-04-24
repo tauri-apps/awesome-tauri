@@ -172,6 +172,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
 - [GitButler](https://gitbutler.com) - GitButler is a new Source Code Management system.
 - [GitLight](https://github.com/colinlienard/gitlight) - GitHub & GitLab notifications on your desktop.
+- [JET Pilot](https://www.jet-pilot.app) - Kubernetes desktop client that focuses on less clutter, speed and good looks.
 - [Hoppscotch](https://hoppscotch.com/download) ![closed source] - Trusted by millions of developers to build, test and share APIs.
 - [Keadex Mina](https://github.com/keadex/keadex) - Open Source, serverless IDE to easily code and organize at a scale C4 model diagrams.
 - [KFtray](https://github.com/hcavarsan/kftray) - A tray application that manages port forwarding in Kubernetes.
