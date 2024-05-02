@@ -166,6 +166,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [AppHub](https://github.com/francesco-gaglione/AppHub) - Streamlines .appImage package installation, management, and uninstallation through an intuitive Linux desktop interface.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
 - [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
+- [CrabNebula DevTools](https://crabnebula.dev/devtools) - Visual tool for understanding your app. Optimize the development process with easy debugging and profiling.
 - [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for developers, like generators, viewers, converters, etc.
 - [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
@@ -231,7 +232,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
 - [Stockman](https://github.com/awkj/stockman) - Display stock info on mac menubar.
 - [Watchcoin](https://github.com/lifecoder1988/tauri-watch-coin) - Display cypto price on OS menubar without a window.
-  
+
 ### Learning
 
 - [Manjaro Starter](https://github.com/oguzkaganeren/manjaro-starter) - Documentation and support app for new Manjaro users.
