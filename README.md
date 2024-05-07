@@ -185,6 +185,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
 - [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey
 - [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs
+- [DevClean](https://github.com/HuakunShen/devclean) - Clean up development environment with ease.
 
 ### Email & Feeds
 
