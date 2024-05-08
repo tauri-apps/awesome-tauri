@@ -168,6 +168,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
 - [CrabNebula DevTools](https://crabnebula.dev/devtools) - Visual tool for understanding your app. Optimize the development process with easy debugging and profiling.
 - [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for developers, like generators, viewers, converters, etc.
+- [DevClean](https://github.com/HuakunShen/devclean) - Clean up development environment with ease.
 - [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
@@ -183,9 +184,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
-- [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey
-- [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs
-- [DevClean](https://github.com/HuakunShen/devclean) - Clean up development environment with ease.
+- [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey.
+- [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs.
 
 ### Email & Feeds
 
