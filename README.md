@@ -139,7 +139,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
-- [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI allow download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
+- [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
 - [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
 
 ### ChatGPT clients
