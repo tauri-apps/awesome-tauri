@@ -219,6 +219,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [9Launcher](https://github.com/wearrrrr/9Launcher) - Modern Cross-platform launcher for Touhou Project Games.
 - [BestCraft](https://github.com/Tnze/ffxiv-best-craft) - Crafting simulator with solver algorithms for Final Fantasy XIV(FF14).
+- [BetterFleet](https://github.com/zelytra/BetterFleet) - Help players of Sea of Thieves create an alliance server.
 - [clear](https://clear.adithya.zip) - Clean and minimalist video game library manager and launcher.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
