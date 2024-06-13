@@ -244,6 +244,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Practice piano chords, scales, and more using your MIDI keyboard.
 - [Solars](https://github.com/hiltontj/solars) - Visualize the planets of our solar system.
 - [Syre](https://github.com/syre-data/syre) - Scientific data assistant.
+- [Rosary](https://github.com/Roseblume/Rosary) - Study Christianity.
 
 ### Networking
 
