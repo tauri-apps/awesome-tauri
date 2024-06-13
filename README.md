@@ -59,6 +59,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular with Typescript, SASS, and Hot Reload.
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
 - [tauri-astro-template](https://github.com/HuakunShen/tauri-astro-template) - Astro template
+- [tauri-bishop-template] (https://github.com/RoseBlume/Tauri-Bishop-Template) - Minimized vanilla template designed for highschool students
 - [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
 - [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
 - [tauri-leptos-template](https://gitlab.com/cristofa/tauri-leptos-template) - Leptos template
