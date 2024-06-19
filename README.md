@@ -188,7 +188,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
-- [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey.
+- [verbcode](https://www.verbcode.com) ![closed source] - Simplify your localization journey.
 - [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs.
 
 ### Email & Feeds
