@@ -47,6 +47,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Introduction](https://tauri.app/about/intro/) ![officially maintained] - Official introduction to Tauri.
 - [Getting Started](https://tauri.app/v1/guides/getting-started/prerequisites/) ![officially maintained] - Official getting started with Tauri docs.
 - [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) ![officially maintained] - Rapidly scaffold your Tauri app.
+- [Auto-Updates with Tauri v2](https://docs.crabnebula.dev/guides/auto-updates-tauri) - Setup auto-updates with Tauri and CrabNebula Cloud.
 
 ### Tutorials
 
