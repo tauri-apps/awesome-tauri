@@ -158,6 +158,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) - The Best Surprise Redis Desktop Client.
 - [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
+- [DocKit](https://github.com/geek-fun/dockit) - GUI client for NoSQL databases such as elasticsearch, OpenSearch, etc.
 - [Duckling](https://github.com/l1xnan/duckling) - Lightweight and fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
 - [Mason](https://mason.app) ![closed source] - Seamlessly query, visualize and share data with your team.
 - [Noir](https://noirdb.dev) - Keyboard-driven database management client.
