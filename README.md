@@ -156,6 +156,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Data
 
+- [Annimate](https://github.com/matthias-stemmler/annimate) - Convenient export of query results from the ANNIS system for linguistic corpora.
 - [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) - The Best Surprise Redis Desktop Client.
 - [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
 - [DocKit](https://github.com/geek-fun/dockit) - GUI client for NoSQL databases such as elasticsearch, OpenSearch, etc.
