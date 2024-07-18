@@ -131,6 +131,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Audio & Video
 
+- [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps based on all your screens & mics context.
 - [Cider](https://cider.sh) ![closed source] - 3rd Party Client for Apple Music, Complete with Audio Lab.
 - [Curses](https://github.com/mmpneo/curses) - Speech-to-Text and Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
