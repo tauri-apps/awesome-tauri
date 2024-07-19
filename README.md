@@ -143,6 +143,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
 - [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
+- [Musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music. 
 
 ### ChatGPT clients
 
