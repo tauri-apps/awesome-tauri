@@ -230,6 +230,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
+- [Modrinth App](https://github.com/modrinth/code/blob/main/apps/app) - Cross-platform launcher for `Minecraft` with mod management.
 - [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered PC ports of the Jak and Daxter series.
 - [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
 - [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
