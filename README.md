@@ -137,9 +137,10 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
 - [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - GUI client for a Jellyfin server based on Vue.js and Tauri.
+- [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
-- [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
+- [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music. 
 - [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps based on all your screens & mics context.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
@@ -231,6 +232,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
+- [Modrinth App](https://github.com/modrinth/code/blob/main/apps/app) - Cross-platform launcher for `Minecraft` with mod management.
 - [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered PC ports of the Jak and Daxter series.
 - [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
 - [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
@@ -290,9 +292,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 - [Google Task Desktop Client](https://github.com/codad5/google-task-tauri) - Google Task Desktop Client
-- [Jarvis](https://jarvis.huakun.tech/) - Cross-platform, extensible app launcher. Alternative to Alfred and Raycast.
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
 - [Kianalol](https://github.com/zxh3/kianalol) - Spotlight-like efficiency tool for swift website access.
+- [Kunkun](https://kunkun.sh/) - Cross-platform, extensible app launcher. Alternative to Alfred and Raycast.
 - [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
 - [MacroGraph](https://github.com/Brendonovich/macrograph) - Visual programming for content creators.
 - [mynd](https://github.com/Gnarus-G/mynd) - Quick and very simple todo-list management app for developers that live mostly in the terminal.
