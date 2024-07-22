@@ -77,6 +77,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
 - [tauri-vue-template-2](https://github.com/skymen/tauri-vue-template) - Another vue template with Javascript, Vite, Pinia, Vue Router and Github Actions.
 - [tauri-yew-example](https://bitbucket.org/ftegtmeyer/tauri-yew-stopwatch/) - Simple stopwatch with Yew using commands and Tauri events.
+- [tauronic](https://github.com/rgilsimoes/Tauronic/) - Tauri template for hybrid Apps using Ionic components in React flavour.
 
 ## Development
 
