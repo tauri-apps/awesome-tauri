@@ -94,7 +94,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
 - [sentry-tauri](https://github.com/timfish/sentry-tauri) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
 - [tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase) - Privacy-first and minimalist analytics for desktop and mobile apps.
-- [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - Clipboard plugin for reading/writing clipboard text/image, and monitoring clipboard update.
+- [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - Clipboard plugin for reading/writing clipboard text/image/html/rtf/files, and monitoring clipboard update.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
@@ -156,8 +156,10 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Data
 
+- [Annimate](https://github.com/matthias-stemmler/annimate) - Convenient export of query results from the ANNIS system for linguistic corpora.
 - [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) - The Best Surprise Redis Desktop Client.
 - [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
+- [DocKit](https://github.com/geek-fun/dockit) - GUI client for NoSQL databases such as elasticsearch, OpenSearch, etc.
 - [Duckling](https://github.com/l1xnan/duckling) - Lightweight and fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
 - [Mason](https://mason.app) ![closed source] - Seamlessly query, visualize and share data with your team.
 - [Noir](https://noirdb.dev) - Keyboard-driven database management client.
