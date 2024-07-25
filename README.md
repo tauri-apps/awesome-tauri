@@ -58,6 +58,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Templates
 
 - [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular with Typescript, SASS, and Hot Reload.
+- [nuxtor](https://github.com/NicolaSpadari/nuxtor) - Nuxt 3 + Tauri 2 + UnoCSS, a starter template for building desktop apps.
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
 - [tauri-astro-template](https://github.com/HuakunShen/tauri-astro-template) - Astro template
 - [tauri-bishop-template](https://github.com/RoseBlume/Bishop-Tauri-Template) - Minimized vanilla template designed for highschool students
