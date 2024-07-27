@@ -236,7 +236,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 - [Modrinth App](https://github.com/modrinth/code/blob/main/apps/app) - Cross-platform launcher for `Minecraft` with mod management.
 - [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered PC ports of the Jak and Daxter series.
+- [Outer Wilds Mod Manager](https://github.com/ow-mods/ow-mod-man) - Cross-platform mod manager for `Outer Wilds`.
 - [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
+- [Rai Pal](https://github.com/raicuparta/rai-pal) - Manager for universal game mods such as UEVR and UUVR.
 - [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
 - [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
