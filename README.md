@@ -304,6 +304,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MacroGraph](https://github.com/Brendonovich/macrograph) - Visual programming for content creators.
 - [mynd](https://github.com/Gnarus-G/mynd) - Quick and very simple todo-list management app for developers that live mostly in the terminal.
 - [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies meets Pomodoro.
+- [PasteBar](https://github.com/PasteBar/PasteBarApp) - Limitless, Free Clipboard Manager for Mac and Windows. Effortless management of everything you copy and paste.
 - [Pomodoro](https://github.com/g07cha/pomodoro) - Time management tool based on Pomodoro technique.
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
 - [Takma](https://github.com/jam53/Takma) - Kanban-style to-do app, fully offline with support for Markdown, labels, due dates, checklists and deep linking.
