@@ -348,6 +348,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Clippy](https://github.com/0-don/clippy) - Modern & Fast Clipboard Manager.
 - [Fancy Screen Recorder](https://fancyapps.com/freebies/) ![closed source] - Record entire screen or a selected area, trim and save as a GIF or video.
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
+- [FasnlySync](https://github.com/SticksDev/FanslySync) - A simple desktop application to sync your Fansly data with 3rd party applications, securely! 
 - [Happy](https://github.com/thewh1teagle/happy) - Control HappyLight compatible LED strip with ease.
 - [Imagefly](https://www.imagefly.dev/?ref=awesometauri) ![closed source] - Powerful offline image processing toolkit for Windows, Linux and macOS
 - [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
@@ -377,7 +378,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
 - [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
-- [FasnlySync](https://github.com/SticksDev/FanslySync) - A simple desktop application to sync your Fansly data with 3rd party applications, securely! 
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
