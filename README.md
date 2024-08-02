@@ -258,6 +258,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Solars](https://github.com/hiltontj/solars) - Visualize the planets of our solar system.
 - [Syre](https://github.com/syre-data/syre) - Scientific data assistant.
 - [Rosary](https://github.com/Roseblume/Rosary) - Study Christianity.
+- [Japanese](https://github.com/meel-hd/japanese) - Learn Japanese Hiragana and Katakana. Memorize, write, pronounce, and test your knowledge.
 
 ### Networking
 
