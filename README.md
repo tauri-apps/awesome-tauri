@@ -299,6 +299,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 - [Google Task Desktop Client](https://github.com/codad5/google-task-tauri) - Google Task Desktop Client
+- [jasnoo](https://jasnoo.com) ![closed source] ![paid] - Desktop software designed to help you solve problems, prioritise daily actions and focus
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
 - [Kianalol](https://github.com/zxh3/kianalol) - Spotlight-like efficiency tool for swift website access.
 - [Kunkun](https://kunkun.sh/) - Cross-platform, extensible app launcher. Alternative to Alfred and Raycast.
