@@ -243,6 +243,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Rai Pal](https://github.com/raicuparta/rai-pal) - Manager for universal mods such as `UEVR` and `UUVR`.
 - [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
+- [Tauri Chess](https://github.com/jamessizeland/tauri-chess) - Implementation of Chess, logic in Rust and visualization in React.
 - [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
 
 ### Information
