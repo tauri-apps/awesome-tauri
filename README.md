@@ -61,7 +61,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [nuxtor](https://github.com/NicolaSpadari/nuxtor) - Nuxt 3 + Tauri 2 + UnoCSS, a starter template for building desktop apps.
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
 - [tauri-astro-template](https://github.com/HuakunShen/tauri-astro-template) - Astro template
-- [tauri-bishop-template](https://github.com/RoseBlume/Bishop-Tauri-Template) - Minimized vanilla template designed for highschool students
+- [tauri-bishop-template](https://github.com/RoseBlume/Bishop-Tauri-Template) - Minimized vanilla template designed for highschool students.
 - [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
 - [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
 - [tauri-leptos-template](https://gitlab.com/cristofa/tauri-leptos-template) - Leptos template
@@ -85,7 +85,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Plugins
 
 - [tauri-plugin-authenticator](https://github.com/tauri-apps/tauri-plugin-authenticator) ![officially maintained] - Interface with hardware security keys.
-- [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) - Disable screen timeout on Android and iOS
+- [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) - Disable screen timeout on Android and iOS.
 - [tauri-plugin-log](https://github.com/tauri-apps/tauri-plugin-log) ![officially maintained] - Configurable logging.
 - [tauri-plugin-sql](https://github.com/tauri-apps/tauri-plugin-sql) ![officially maintained] - Interface with SQL databases.
 - [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) ![officially maintained] - Persistent key value storage.
