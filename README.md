@@ -326,6 +326,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Authme](https://github.com/Levminer/authme) - Two-factor (2FA) authentication app for desktop.
 - [Calciumdibromid](https://codeberg.org/Calciumdibromid/CaBr2) - Generate "experiment wise safety sheets" in compliance to European law.
+- [Defguard](https://github.com/defguard/client) - WireGuard VPN destkop client with Two-factor (2FA) authentication.
 - [Gluhny](https://github.com/angeldollface/gluhny) A graphical interface to validate IMEI numbers.
 - [OneKeePass](https://github.com/OneKeePass/desktop) - Secure, modern, cross-platform and KeePass compatible password manager.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
