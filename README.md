@@ -146,7 +146,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
-- [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music. 
+- [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps based on all your screens & mics context.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
@@ -229,6 +229,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
 - [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
 - [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source US tax filings.
+- [Mahalli](https://github.com/AbdelilahOu/Mahalli-tauri) - Local first inventory and invoicing management app.
 
 ### Gaming
 
