@@ -161,7 +161,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.
 - [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
-- [Yack](https://github.com/rajatkulkarni95/yack) - Spotlight like app for interfacing with GPT APIs
+- [Yack](https://github.com/rajatkulkarni95/yack) - Spotlight like app for interfacing with GPT APIs.
 
 ### Data
 
@@ -201,7 +201,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
 - [verbcode](https://verbcode.staaph.com/) ![closed source] - Simplify your localization journey.
-- [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs.
+- [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 
 ### Email & Feeds
 
