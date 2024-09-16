@@ -95,7 +95,10 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
+- [tauri-plugin-prevent-default](https://github.com/ferreira-tb/tauri-plugin-prevent-default) - Disable default browser shortcuts.
 - [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) - Cross-compatible serialport communication tool.
+- [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) - Cross-compatible serialport communication tool for tauri 2.
+- [tauri-plugin-sharesheet](https://github.com/buildyourwebapp/tauri-plugin-sharesheet) - Share content to other apps via the Android Sharesheet or iOS Share Pane.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) - Detailed system information.
 - [tauri-plugin-theme](https://github.com/wyhaya/tauri-plugin-theme) - Dynamically change Tauri App theme.
 - [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system that leverages WebSocket.
@@ -139,7 +142,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
-- [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music. 
+- [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps based on all your screens & mics context.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
@@ -154,7 +157,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.
 - [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
-- [Yack](https://github.com/rajatkulkarni95/yack) - Spotlight like app for interfacing with GPT APIs
+- [Yack](https://github.com/rajatkulkarni95/yack) - Spotlight like app for interfacing with GPT APIs.
 
 ### Data
 
@@ -194,7 +197,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
 - [verbcode](https://verbcode.staaph.com/) ![closed source] - Simplify your localization journey.
-- [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs.
+- [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 
 ### Email & Feeds
 
@@ -222,6 +225,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
 - [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
 - [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source US tax filings.
+- [Mahalli](https://github.com/AbdelilahOu/Mahalli-tauri) - Local first inventory and invoicing management app.
 
 ### Gaming
 
@@ -308,6 +312,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies meets Pomodoro.
 - [PasteBar](https://github.com/PasteBar/PasteBarApp) - Limitless, Free Clipboard Manager for Mac and Windows. Effortless management of everything you copy and paste.
 - [Pomodoro](https://github.com/g07cha/pomodoro) - Time management tool based on Pomodoro technique.
+- [Qopy](https://github.com/0PandaDEV/Qopy) - The fixed Clipboard Manager for Windows and Mac.
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
 - [Takma](https://github.com/jam53/Takma) - Kanban-style to-do app, fully offline with support for Markdown, labels, due dates, checklists and deep linking.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
@@ -362,6 +367,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
 - [Mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller.
 - [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
+- [Passwords](https://github.com/hiql/passwords-app) - A random password generator.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
