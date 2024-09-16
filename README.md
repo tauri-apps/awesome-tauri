@@ -101,6 +101,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
+- [tauri-plugin-prevent-default](https://github.com/ferreira-tb/tauri-plugin-prevent-default) - Disable default browser shortcuts.
 - [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) - Cross-compatible serialport communication tool.
 - [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) - Cross-compatible serialport communication tool for tauri 2.
 - [tauri-plugin-sharesheet](https://github.com/buildyourwebapp/tauri-plugin-sharesheet) - Share content to other apps via the Android Sharesheet or iOS Share Pane.
