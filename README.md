@@ -285,6 +285,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Office & Writing
 
+- [fylepad](https://github.com/imrofayel/fylepad/) - a notepad with powerful rich-text editing, built with Vue & Tauri.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
@@ -301,6 +302,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Productivity
 
+- [fylepad](https://github.com/imrofayel/fylepad/) - a notepad with powerful rich-text editing, built with Vue & Tauri.
 - [Banban](https://github.com/HubertK05/banban) - Kanban board with tags, categories and markdown support.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
 - [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for Windows and macOS.
