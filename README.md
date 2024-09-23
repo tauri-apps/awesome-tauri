@@ -284,6 +284,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Office & Writing
 
+- [fylepad](https://github.com/imrofayel/fylepad/) - Notepad with powerful rich-text editing, built with Vue & Tauri.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
