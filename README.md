@@ -155,7 +155,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### ChatGPT clients
 
-- [chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform desktop application for ChatGPT API (OpenAI API), also a prompt debugging and management tool.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop application.
 - [ChatGPT App](https://github.com/Poordeveloper/chatgpt-app) - Cross-platform ChatGPT App and more.
 - [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Cross-platform productivity ChatGPT assistant launcher.
