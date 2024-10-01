@@ -173,7 +173,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Mason](https://mason.app) ![closed source] - Seamlessly query, visualize and share data with your team.
 - [Noir](https://noirdb.dev) - Keyboard-driven database management client.
 - [pgMagic🪄](https://pgmagic.app/?ref=awesometauri) ![closed source] ![paid] - GUI client to talk to Postgres in SQL or with natural language.
-- [qsv pro](https://qsvpro.dathere.com) ![closed source] ![paid] - Explore spreadsheet data (CSV, Excel, etc.) in interactive data tables with generated metadata along with running the qsv CLI tool in a node-based editor.
+- [qsv pro](https://qsvpro.dathere.com) ![closed source] ![paid] - Explore spreadsheet data (CSV, Excel, etc.) in interactive data tables with generated metadata and a node editor based on the qsv CLI tool.
 
 ### Developer tools
 
