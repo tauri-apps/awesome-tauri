@@ -13,6 +13,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
   - [Guides](#guides)
   - [Tutorials](#tutorials)
@@ -22,18 +23,18 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
   - [Integrations](#integrations)
   - [Articles](#articles)
 - [Applications](#applications)
-  - [Audio & Video](#audio--video)
+  - [Audio \& Video](#audio--video)
   - [ChatGPT clients](#chatgpt-clients)
   - [Data](#data)
   - [Developer tools](#developer-tools)
-  - [Email & Feeds](#email--feeds)
+  - [Email \& Feeds](#email--feeds)
   - [File management](#file-management)
   - [Finance](#finance)
   - [Gaming](#gaming)
   - [Information](#information)
   - [Learning](#learning)
   - [Networking](#networking)
-  - [Office & Writing](#office--writing)
+  - [Office \& Writing](#office--writing)
   - [Productivity](#productivity)
   - [Search](#search)
   - [Security](#security)
@@ -314,6 +315,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Kunkun](https://kunkun.sh/) - Cross-platform, extensible app launcher. Alternative to Alfred and Raycast.
 - [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
 - [MacroGraph](https://github.com/Brendonovich/macrograph) - Visual programming for content creators.
+- [MeadTools](https://github.com/ljreaux/meadtools-desktop) - All-in-one Mead, Wine, and Cider making calculator.
 - [mynd](https://github.com/Gnarus-G/mynd) - Quick and very simple todo-list management app for developers that live mostly in the terminal.
 - [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies meets Pomodoro.
 - [PasteBar](https://github.com/PasteBar/PasteBarApp) - Limitless, Free Clipboard Manager for Mac and Windows. Effortless management of everything you copy and paste.
