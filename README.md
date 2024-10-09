@@ -381,6 +381,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Rounded Corners](https://github.com/RoundedCorners/Application) - Rounded Corners app for Windows.
 - [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
+- [SlimeVR Server](https://github.com/SlimeVR/SlimeVR-Server) - Server app for SlimeVR, facilitating full-body tracking in virtual reality.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [Stacks](https://github.com/cablehead/stacks) - Modern and capable clipboard manager for macOS. Seeking Linux and Windows contributions.
 - [SwitchShuttle](https://github.com/s00d/switchshuttle) - Cross-platform system tray application that allows users to run predefined commands in various terminal applications.
