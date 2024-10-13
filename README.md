@@ -171,6 +171,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
 - [DocKit](https://github.com/geek-fun/dockit) - GUI client for NoSQL databases such as elasticsearch, OpenSearch, etc.
 - [Duckling](https://github.com/l1xnan/duckling) - Lightweight and fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
+- [Elasticvue](https://elasticvue.com/) - Free and open-source Elasticsearch GUI
 - [Mason](https://mason.app) ![closed source] - Seamlessly query, visualize and share data with your team.
 - [Noir](https://noirdb.dev) - Keyboard-driven database management client.
 - [pgMagic🪄](https://pgmagic.app/?ref=awesometauri) ![closed source] ![paid] - GUI client to talk to Postgres in SQL or with natural language.
