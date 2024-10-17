@@ -301,6 +301,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Parchment](https://github.com/tywil04/parchment) - Simple local-only cross-platform text editor with basic markdown support.
 - [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
 - [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
+- [Notpad](https://github.com/Muhammed-Rahif/Notpad) - The ordinary notepad that everyone know, but it's rich!
 
 ### Productivity
 
