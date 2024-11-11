@@ -59,6 +59,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular with Typescript, SASS, and Hot Reload.
 - [nuxtor](https://github.com/NicolaSpadari/nuxtor) - Nuxt 3 + Tauri 2 + UnoCSS, a starter template for building desktop apps.
+- [rust-full-stack-with-authentication-template](https://github.com/sollambert/rust-full-stack-with-auth-template) - Yew, Tailwind CSS, Tauri, Axum, Sqlx - Starter template for full stack applications with built-in authentication.
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
 - [tauri-astro-template](https://github.com/HuakunShen/tauri-astro-template) - Astro template
 - [tauri-bishop-template](https://github.com/RoseBlume/Bishop-Tauri-Template) - Minimized vanilla template designed for highschool students.
@@ -105,6 +106,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window to panel.
 - [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) - Block the power save functionality in the OS.
 - [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) - UDP socket support.
+- [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) - TCP socket support.
+- [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 
 ### Integrations
 
@@ -132,6 +135,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Audio & Video
 
+- [Cap](https://github.com/CapSoftware/cap) - The open-source Loom alternative. Beautiful, shareable screen recordings.
 - [Cardo](https://github.com/n0vella/cardo) - Podcast player with integrated search and management of subscriptions.
 - [Curses](https://github.com/mmpneo/curses) - Speech-to-Text and Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
@@ -149,7 +153,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### ChatGPT clients
 
-- [chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform desktop application for ChatGPT API (OpenAI API), also a prompt debugging and management tool.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop application.
 - [ChatGPT App](https://github.com/Poordeveloper/chatgpt-app) - Cross-platform ChatGPT App and more.
 - [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Cross-platform productivity ChatGPT assistant launcher.
@@ -165,9 +168,11 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
 - [DocKit](https://github.com/geek-fun/dockit) - GUI client for NoSQL databases such as elasticsearch, OpenSearch, etc.
 - [Duckling](https://github.com/l1xnan/duckling) - Lightweight and fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
+- [Elasticvue](https://elasticvue.com/) - Free and open-source Elasticsearch GUI
 - [Mason](https://mason.app) ![closed source] - Seamlessly query, visualize and share data with your team.
 - [Noir](https://noirdb.dev) - Keyboard-driven database management client.
 - [pgMagic🪄](https://pgmagic.app/?ref=awesometauri) ![closed source] ![paid] - GUI client to talk to Postgres in SQL or with natural language.
+- [qsv pro](https://qsvpro.dathere.com) ![closed source] ![paid] - Explore spreadsheet data including CSV in interactive data tables with generated metadata and a node editor based on the `qsv` CLI.
 
 ### Developer tools
 
@@ -189,6 +194,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Hoppscotch](https://hoppscotch.com/download) ![closed source] - Trusted by millions of developers to build, test and share APIs.
 - [Keadex Mina](https://github.com/keadex/keadex) - Open Source, serverless IDE to easily code and organize at a scale C4 model diagrams.
 - [KFtray](https://github.com/hcavarsan/kftray) - A tray application that manages port forwarding in Kubernetes.
+- [nda](https://github.com/kuyoonjo/nda) - Network Debug Assistant - UDP, TCP, Websocket, SocketIO, MQTT
+- [Ngroker](https://ngroker.com) ![closed source] ![paid] - 🆖ngrok gui client.
 - [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source code from an IDL.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
@@ -235,12 +242,14 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
+- [Gale](https://github.com/Kesomannen/gale) - Mod manager for many games on `Thunderstore`.
 - [Modrinth App](https://github.com/modrinth/code/blob/main/apps/app) - Cross-platform launcher for `Minecraft` with mod management.
 - [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered PC ports of the Jak and Daxter series.
 - [Outer Wilds Mod Manager](https://github.com/ow-mods/ow-mod-man) - Cross-platform mod manager for `Outer Wilds`.
 - [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
 - [Rai Pal](https://github.com/raicuparta/rai-pal) - Manager for universal mods such as `UEVR` and `UUVR`.
 - [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
+- [Samira](https://github.com/jsnli) - Steam achievement manager for Linux.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
 - [Tauri Chess](https://github.com/jamessizeland/tauri-chess) - Implementation of Chess, logic in Rust and visualization in React.
 - [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
@@ -267,6 +276,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CyberAPI](https://github.com/vicanso/cyberapi) - API tool client for developer.
 - [Jexpe](https://github.com/jexpe-apps/jexpe) - Cross-platform, open source SSH and SFTP client that makes connecting to your remote servers easy.
 - [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
+- [mDNS-Browser](https://github.com/hrzlgnm/mdns-browser) - Cross-platform mDNS browser app for discovering network services using mDNS.
 - [Nhex](https://github.com/nhexirc/nhex) - Next-generation IRC client inspired by HexChat.
 - [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server for RustDesk, an open source remote desktop.
 - [RustDuck](https://github.com/thewh1teagle/RustDuck) - Cross platform dynamic DNS updater for duckdns.org.
@@ -278,6 +288,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Office & Writing
 
+- [fylepad](https://github.com/imrofayel/fylepad/) - Notepad with powerful rich-text editing, built with Vue & Tauri.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
@@ -285,7 +296,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application with built-in ChatGPT extension.
 - [MD Viewer](https://github.com/kuyoonjo/md-viewer) - Cross-platform markdown viewer.
-- [MDX Editor](https://github.com/maqi1520/mdx-editor/tree/tauri-app) - Versatile WeChat typesetting editor and cross-platform Markdown note-taking software.
+- [MDX Notes](https://github.com/maqi1520/mdx-notes/tree/tauri-app) - Versatile WeChat typesetting editor and cross-platform Markdown note-taking software.
 - [Noor](https://noor.to/) ![closed source] - Chat app for high-performance teams. Designed for uninterrupted deep work and rapid collaboration.
 - [Notedown](https://github.com/ruralad/notedown) - Minimal, local-first cross-platform note taking app.
 - [Parchment](https://github.com/tywil04/parchment) - Simple local-only cross-platform text editor with basic markdown support.
@@ -295,6 +306,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Productivity
 
 - [Banban](https://github.com/HubertK05/banban) - Kanban board with tags, categories and markdown support.
+- [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist eye care reminder app to reduce eye strain, featuring customizable timers , full-screen popups, and screen-on-time.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
 - [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for Windows and macOS.
 - [EcoPaste](https://github.com/ayangweb/EcoPaste/tree/master) - Powerful open-source clipboard manager for MacOS and Windows platforms.
@@ -307,6 +319,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Kunkun](https://kunkun.sh/) - Cross-platform, extensible app launcher. Alternative to Alfred and Raycast.
 - [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
 - [MacroGraph](https://github.com/Brendonovich/macrograph) - Visual programming for content creators.
+- [MeadTools](https://github.com/ljreaux/meadtools-desktop) - All-in-one Mead, Wine, and Cider making calculator.
 - [mynd](https://github.com/Gnarus-G/mynd) - Quick and very simple todo-list management app for developers that live mostly in the terminal.
 - [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies meets Pomodoro.
 - [PasteBar](https://github.com/PasteBar/PasteBarApp) - Limitless, Free Clipboard Manager for Mac and Windows. Effortless management of everything you copy and paste.
@@ -331,7 +344,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Gluhny](https://github.com/angeldollface/gluhny) A graphical interface to validate IMEI numbers.
 - [OneKeePass](https://github.com/OneKeePass/desktop) - Secure, modern, cross-platform and KeePass compatible password manager.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
-- [Raspirus](https://github.com/Raspirus/Raspirus) - User- and resources-friendly signatures-based malware scanner.
 - [Secops](https://github.com/kunalsin9h/secops) - Ubuntu Operating System security made easy.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 - [Truthy](https://github.com/fosslife/truthy/) - Modern cross-platform 2FA manager with tons of features and a beautiful UI.
@@ -362,10 +374,13 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
 - [Lingo](https://github.com/thewh1teagle/lingo) - Translate offline in every language on every platform.
 - [Linka!](https://github.com/linka-app/linka) - AI powered, easy to use, cross-platform bookmark management tool.
+- [Locus](https://github.com/Sushants-Git/locus) - Intelligent activity tracker that helps you understand and improve your focus habits.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
 - [Mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller.
+- [NeoHtop](https://github.com/Abdenasser/neohtop) - Cross platform system monitoring tool with a model look and feel.
 - [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
+- [Pachtop](https://pachtop.com/) - Modern Cross-platform system monitor 🚀
 - [Passwords](https://github.com/hiql/passwords-app) - A random password generator.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images.
@@ -375,6 +390,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Rounded Corners](https://github.com/RoundedCorners/Application) - Rounded Corners app for Windows.
 - [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
+- [SlimeVR Server](https://github.com/SlimeVR/SlimeVR-Server) - Server app for SlimeVR, facilitating full-body tracking in virtual reality.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [Stacks](https://github.com/cablehead/stacks) - Modern and capable clipboard manager for macOS. Seeking Linux and Windows contributions.
 - [SwitchShuttle](https://github.com/s00d/switchshuttle) - Cross-platform system tray application that allows users to run predefined commands in various terminal applications.
