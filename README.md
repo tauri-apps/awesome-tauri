@@ -99,6 +99,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Check and request macOS permissions to accessibility and full disk access.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
+- [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri and Vue.
 - [tauri-plugin-prevent-default](https://github.com/ferreira-tb/tauri-plugin-prevent-default) - Disable default browser shortcuts.
 - [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) - Cross-compatible serialport communication tool.
 - [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) - Cross-compatible serialport communication tool for tauri 2.
