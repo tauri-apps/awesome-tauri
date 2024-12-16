@@ -313,6 +313,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Banban](https://github.com/HubertK05/banban) - Kanban board with tags, categories and markdown support.
 - [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist eye care reminder app to reduce eye strain, featuring customizable timers , full-screen popups, and screen-on-time.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
+- [Constito](https://constito.com) ![closed source] ![paid] - Organize your life so that no one else sees it.
 - [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for Windows and macOS.
 - [EcoPaste](https://github.com/ayangweb/EcoPaste/tree/master) - Powerful open-source clipboard manager for macOS, Windows and Linux(x11) platforms.
 - [Floweb](https://floweb.cn/en) ![closed source] ![paid] - Ultra-lightweight floating desktop pendant that transforms web pages into web applications, supporting features such as pinning and transparency, multi-account, auto-refresh.
