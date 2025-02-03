@@ -179,6 +179,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Noir](https://noirdb.dev) - Keyboard-driven database management client.
 - [pgMagic🪄](https://pgmagic.app/?ref=awesometauri) ![closed source] ![paid] - GUI client to talk to Postgres in SQL or with natural language.
 - [qsv pro](https://qsvpro.dathere.com) ![closed source] ![paid] - Explore spreadsheet data including CSV in interactive data tables with generated metadata and a node editor based on the `qsv` CLI.
+- [Rclone UI](rcloneui.com) - The cross-platform desktop GUI for **`rclone`** & S3.
 
 ### Developer tools
 
