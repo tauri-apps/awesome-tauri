@@ -324,6 +324,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Banban](https://github.com/HubertK05/banban) - Kanban board with tags, categories and markdown support.
 - [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist eye care reminder app to reduce eye strain, featuring customizable timers , full-screen popups, and screen-on-time.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
+- [Clippy](https://github.com/0-don/clippy) - Clipboard manager with sync & encryption.
 - [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for Windows and macOS.
 - [EcoPaste](https://github.com/ayangweb/EcoPaste/tree/master) - Powerful open-source clipboard manager for macOS, Windows and Linux(x11) platforms.
 - [Floweb](https://floweb.cn/en) ![closed source] ![paid] - Ultra-lightweight floating desktop pendant that transforms web pages into web applications, supporting features such as pinning and transparency, multi-account, auto-refresh.
@@ -380,7 +381,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TypeView - KeyStroke Visualizer](https://github.com/dunkbing/typeview) - Visualizes keys pressed on the screen and simulates the sound of mechanical keyboard.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
-- [Clippy](https://github.com/0-don/clippy) - Modern & Fast Clipboard Manager.
 - [Fancy Screen Recorder](https://fancyapps.com/freebies/) ![closed source] - Record entire screen or a selected area, trim and save as a GIF or video.
 - [FanslySync](https://github.com/SticksDev/FanslySync) - Sync your Fansly data with 3rd party applications, securely!
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
