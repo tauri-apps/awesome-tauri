@@ -269,7 +269,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
 - [Tauri Chess](https://github.com/jamessizeland/tauri-chess) - Implementation of Chess, logic in Rust and visualization in React.
 - [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
-- [Quadrant](https://github.com/mrquantumoff/quadrant/) - An easy way to manage Minecraft mods and modpacks without the need to create separate minecraft profiles and with the ability to use Modrinth and CurseForge.
+- [Quadrant](https://github.com/mrquantumoff/quadrant/) - Tool for managing Minecraft mods and modpacks with the ability to use Modrinth and CurseForge.
 
 ### Information
 
