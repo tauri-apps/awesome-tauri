@@ -90,6 +90,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ![officially maintained] - Make your windows vibrant (v1 only - added to Tauri in v2).
 - [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] - Add native shadows to your windows in Tauri (v1 only - added to Tauri in v2).
 - [tauri-plugin-blec](https://github.com/MnlPhlp/tauri-plugin-blec) - Cross platform Bluetooth Low Energy client based on `btleplug`.
+- [tauri-plugin-drpc](https://github.com/smokingplaya/tauri-plugin-drpc) - Discord Rich Presence support
 - [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) - Disable screen timeout on Android and iOS.
 - [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
 - [sentry-tauri](https://github.com/timfish/sentry-tauri) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
@@ -116,7 +117,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) - TCP socket support.
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
-- [tauri-plugin-drpc](https://github.com/smokingplaya/tauri-plugin-drpc) - Discord Rich Presence support
 
 ### Integrations
 
