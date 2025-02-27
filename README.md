@@ -103,6 +103,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri and Vue.
 - [tauri-plugin-prevent-default](https://github.com/ferreira-tb/tauri-plugin-prevent-default) - Disable default browser shortcuts.
 - [tauri-plugin-python](https://github.com/marcomq/tauri-plugin-python/) - Use python in your backend.
+- [tauri-plugin-screenshots](https://github.com/ayangweb/tauri-plugin-screenshots) - Get screenshots of windows and monitors.
 - [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) - Cross-compatible serialport communication tool.
 - [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) - Cross-compatible serialport communication tool for tauri 2.
 - [tauri-plugin-sharesheet](https://github.com/buildyourwebapp/tauri-plugin-sharesheet) - Share content to other apps via the Android Sharesheet or iOS Share Pane.
@@ -391,7 +392,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lingo](https://github.com/thewh1teagle/lingo) - Translate offline in every language on every platform.
 - [Linka!](https://github.com/linka-app/linka) - AI powered, easy to use, cross-platform bookmark management tool.
 - [Locus](https://github.com/Sushants-Git/locus) - Intelligent activity tracker that helps you understand and improve your focus habits.
-- [MagicMirror](https://github.com/idootop/MagicMirror) - Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 
+- [MagicMirror](https://github.com/idootop/MagicMirror) - Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you!
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
 - [Mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller.
