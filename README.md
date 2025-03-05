@@ -201,6 +201,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Hoppscotch](https://hoppscotch.com/download) ![closed source] - Trusted by millions of developers to build, test and share APIs.
 - [Keadex Mina](https://github.com/keadex/keadex) - Open Source, serverless IDE to easily code and organize at a scale C4 model diagrams.
 - [KFtray](https://github.com/hcavarsan/kftray) - A tray application that manages port forwarding in Kubernetes.
+- [PraccJS](https://github.com/alyalin/PraccJS) - Lets you practice JavaScript with real-time code execution.
 - [nda](https://github.com/kuyoonjo/nda) - Network Debug Assistant - UDP, TCP, Websocket, SocketIO, MQTT
 - [Ngroker](https://ngroker.com) ![closed source] ![paid] - 🆖ngrok gui client.
 - [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source code from an IDL.
@@ -272,7 +273,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Information
 
 - [Cores](https://github.com/Levminer/cores) ![paid] - Modern hardware monitor with remote monitoring.
-- [PraccJS](https://github.com/alyalin/PraccJS) - Lets you practice JavaScript with real-time code execution.
 - [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
 - [Stockman](https://github.com/awkj/stockman) - Display stock info on mac menubar.
 - [Watchcoin](https://github.com/lifecoder1988/tauri-watch-coin) - Display cypto price on OS menubar without a window.
