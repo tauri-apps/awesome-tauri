@@ -13,27 +13,28 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
-  - [Guides & Tutorials](#guides--tutorials)
+  - [Guides \& Tutorials](#guides--tutorials)
   - [Templates](#templates)
 - [Development](#development)
   - [Plugins](#plugins)
   - [Integrations](#integrations)
   - [Articles](#articles)
 - [Applications](#applications)
-  - [Audio & Video](#audio--video)
+  - [Audio \& Video](#audio--video)
   - [ChatGPT clients](#chatgpt-clients)
   - [Data](#data)
   - [Developer tools](#developer-tools)
   - [Ebook readers](#ebook-readers)
-  - [Email & Feeds](#email--feeds)
+  - [Email \& Feeds](#email--feeds)
   - [File management](#file-management)
   - [Finance](#finance)
   - [Gaming](#gaming)
   - [Information](#information)
   - [Learning](#learning)
   - [Networking](#networking)
-  - [Office & Writing](#office--writing)
+  - [Office \& Writing](#office--writing)
   - [Productivity](#productivity)
   - [Search](#search)
   - [Security](#security)
@@ -118,6 +119,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno.
 - [Deno in Tauri](https://github.com/typed-sigterm/deno-in-tauri) - Run JS/TS code with Deno Core Engine, in Tauri apps.
+- [kkrpc](https://github.com/kunkunsh/kkrpc) - Seamless RPC communication between a Tauri app and node/deno/bun processes, just like Electron.
 - [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely typesafe Tauri commands.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
 - [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
