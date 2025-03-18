@@ -13,7 +13,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
   - [Guides & Tutorials](#guides--tutorials)
   - [Templates](#templates)
