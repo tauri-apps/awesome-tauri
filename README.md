@@ -322,6 +322,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
 - [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
 - [HuLa](https://github.com/HuLaSpark/HuLa) - HuLa is a desktop instant messaging app built on Tauri+Vue3 (not just instant messaging).
+- [pasteAI](https://github.com/LimTec-de/pasteAi) - Automatically optimizes text when you perform three clipboard copies
 
 ### Productivity
 
