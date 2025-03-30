@@ -95,7 +95,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
-- [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macos system permissions.
+- [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macOS system permissions.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
 - [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Vue.
 - [tauri-plugin-prevent-default](https://github.com/ferreira-tb/tauri-plugin-prevent-default) - Disable default browser shortcuts.
