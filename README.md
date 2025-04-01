@@ -233,6 +233,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### File management
 
+- [CzkawkaTauri](https://github.com/shixinhuang99/czkawka-tauri) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
 - [EzUp](https://github.com/HuakunShen/ezup) - File and Image uploader. Designed for blog writing and note taking.
 - [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
