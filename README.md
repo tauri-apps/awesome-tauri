@@ -151,6 +151,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
 - [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
+- [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings. Local-first and extensible.
 - [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - GUI client for a Jellyfin server based on Vue.js and Tauri.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
