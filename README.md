@@ -114,6 +114,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) - TCP socket support.
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
+- [tauri-plugin-windows-version](https://github.com/ayangweb/tauri-plugin-windows-version) - Get the version number of the current Windows OS.
 
 ### Integrations
 
@@ -143,7 +144,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Audio & Video
 
-- [Ascapes Mixer](https://github.com/ilyaly/ascapes-mixer) - Audio mixer with three dedicated players for music, ambience and SFX for TTRPG sessions. 
+- [Ascapes Mixer](https://github.com/ilyaly/ascapes-mixer) - Audio mixer with three dedicated players for music, ambience and SFX for TTRPG sessions.
 - [Cap](https://github.com/CapSoftware/cap) - The open-source Loom alternative. Beautiful, shareable screen recordings.
 - [Cardo](https://github.com/n0vella/cardo) - Podcast player with integrated search and management of subscriptions.
 - [Compresso](https://github.com/codeforreal1/compressO) - Cross-platform video compression app powered by FFmpeg.
