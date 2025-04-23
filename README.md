@@ -416,6 +416,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
 - [Pachtop](https://pachtop.com/) - Modern Cross-platform system monitor 🚀
 - [Passwords](https://github.com/hiql/passwords-app) - A random password generator.
+- [Pastly](https://github.com/shixinhuang99/pastly) - Clipboard manager with cross-device sync via local network.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
