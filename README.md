@@ -143,7 +143,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Audio & Video
 
-- [Ascapes Mixer](https://github.com/ilyaly/ascapes-mixer) - Audio mixer with three dedicated players for music, ambience and SFX for TTRPG sessions. 
+- [Ascapes Mixer](https://github.com/ilyaly/ascapes-mixer) - Audio mixer with three dedicated players for music, ambience and SFX for TTRPG sessions.
 - [Cap](https://github.com/CapSoftware/cap) - The open-source Loom alternative. Beautiful, shareable screen recordings.
 - [Cardo](https://github.com/n0vella/cardo) - Podcast player with integrated search and management of subscriptions.
 - [Compresso](https://github.com/codeforreal1/compressO) - Cross-platform video compression app powered by FFmpeg.
@@ -367,6 +367,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Coco AI](http://coco.rs/) - 🥥 Coco AI unifies all your enterprise applications and data—Google Workspace, Dropbox, GitHub, and more—into one powerful search and Gen-AI chat platform.
 - [Harana](https://github.com/harana/search) - Search your desktop and 300+ cloud apps, instantly.
+- [RustySEO](https://github.com/mascanho/RustySEO) - SEO/GEO Marketing Toolkit that crawls websites, analyses server logs and provides insights into your website's performance and ranking.
 - [Spyglass](https://github.com/a5huynh/spyglass) - Personal search engine that indexes your files/folders, cloud accounts, and whatever interests you on the internet.
 
 ### Security
