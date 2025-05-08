@@ -95,6 +95,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
+- [tauri-plugin-mcp](https://github.com/moeru-ai/airi/tree/main/crates/tauri-plugin-mcp) - Provide MCP servers connection ability for your AI agent on tauri.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macOS system permissions.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
 - [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Vue.
@@ -114,7 +115,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) - TCP socket support.
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
-- [tauri-plugin-mcp](https://github.com/moeru-ai/airi/tree/main/crates/tauri-plugin-mcp) - Provide MCP servers connection ability for your AI agent on tauri.
 
 ### Integrations
 
