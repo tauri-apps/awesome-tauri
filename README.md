@@ -114,6 +114,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) - TCP socket support.
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
+- [tauri-plugin-mcp](https://github.com/moeru-ai/airi/tree/main/crates/tauri-plugin-mcp) - Provide MCP servers connection ability for your AI agent on tauri.
 
 ### Integrations
 
