@@ -433,7 +433,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Tauview](https://github.com/sprout2000/tauview) - Minimalist image viewer for macOS and Linux based on Leaflet.js.
 - [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
 - [Toolcat](https://toolcat.app) ![closed source] - All-in-one toolkit for developers and creators.
-- [TrayFier](https://github.com/dubisdev/trayfier) - Supercharge your Windows Tray with links, files, executables...Rust
+- [TrayFier](https://github.com/dubisdev/trayfier) - Supercharge your Windows Tray with links, files, executables...
 - [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for Transmission torrent daemon.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 - [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
