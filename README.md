@@ -200,7 +200,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
-- [Flow-Like](https://github.com/TM9657/flow-like) - Visual scripting and workflow automation application & library.
+- [Flow-Like](https://github.com/TM9657/flow-like) - Visual scripting and workflow automation application and library with AI capabilities.
 - [GitButler](https://gitbutler.com) - GitButler is a new Source Code Management system.
 - [GitLight](https://github.com/colinlienard/gitlight) - GitHub & GitLab notifications on your desktop.
 - [JET Pilot](https://www.jet-pilot.app) - Kubernetes desktop client that focuses on less clutter, speed and good looks.
