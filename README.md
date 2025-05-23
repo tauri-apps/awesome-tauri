@@ -114,6 +114,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) - TCP socket support.
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
+- [tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) - Advanced disk caching solution for Tauri applications. Provides compression, TTL management, memory caching, automatic cleanup, and cross-platform support. Enhances data access performance and storage optimization.
 
 ### Integrations
 
