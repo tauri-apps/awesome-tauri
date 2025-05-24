@@ -98,6 +98,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macOS system permissions.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
 - [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Vue.
+- [tauri-plugin-mcp](https://github.com/p3gleg/tauri-plugin-mcp) - Allows AI agents (e.g., Cursor, Claude Code) to debug within Tauri apps via screenshot capture, window management, DOM access, and simulated user inputs.
 - [tauri-plugin-prevent-default](https://github.com/ferreira-tb/tauri-plugin-prevent-default) - Disable default browser shortcuts.
 - [tauri-plugin-python](https://github.com/marcomq/tauri-plugin-python/) - Use python in your backend.
 - [tauri-plugin-screenshots](https://github.com/ayangweb/tauri-plugin-screenshots) - Get screenshots of windows and monitors.
