@@ -39,6 +39,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
   - [Security](#security)
   - [Social media](#social-media)
   - [Utilities](#utilities)
+  - [Web](#web)
 
 ## Getting Started
 
@@ -445,3 +446,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
 [paid]: https://img.shields.io/badge/paid-FFC131?&logoColor=black
 [youtube]: https://img.shields.io/badge/YouTube-FF0000
+
+### Web
+
+- [Tauri-novel](https://github.com/dierbei/tauri-novel) - A cross-platform novel reading application built with Tauri, React, and TypeScript. Supports desktop, Android, and iOS platforms.
