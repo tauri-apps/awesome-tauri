@@ -143,7 +143,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Audio & Video
 
-- [Ascapes Mixer](https://github.com/ilyaly/ascapes-mixer) - Audio mixer with three dedicated players for music, ambience and SFX for TTRPG sessions. 
+- [Ascapes Mixer](https://github.com/ilyaly/ascapes-mixer) - Audio mixer with three dedicated players for music, ambience and SFX for TTRPG sessions.
 - [Cap](https://github.com/CapSoftware/cap) - The open-source Loom alternative. Beautiful, shareable screen recordings.
 - [Cardo](https://github.com/n0vella/cardo) - Podcast player with integrated search and management of subscriptions.
 - [Compresso](https://github.com/codeforreal1/compressO) - Cross-platform video compression app powered by FFmpeg.
@@ -328,6 +328,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
 - [HuLa](https://github.com/HuLaSpark/HuLa) - HuLa is a desktop instant messaging app built on Tauri+Vue3 (not just instant messaging).
 - [Gramax](https://github.com/Gram-ax/gramax) - Free, open-source application for creating, editing, and publishing Git-driven documentation sites using Markdown and a visual editor.
+- [Octarine](https://octarine.app) ![closed source] - Opinionated markdown based note taking app, with local AI support.
 
 ### Productivity
 
