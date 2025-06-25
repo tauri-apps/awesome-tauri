@@ -338,7 +338,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Clippy](https://github.com/0-don/clippy) - Clipboard manager with sync & encryption.
 - [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for Windows and macOS.
 - [EcoPaste](https://github.com/ayangweb/EcoPaste/tree/master) - Powerful open-source clipboard manager for macOS, Windows and Linux(x11) platforms.
-- [Fairies](https://fairies.ai) ![closed source] ![paid] - Powerful general-purpose computer use AI agent on MacOS, Windows, Mobile, and Web. 
+- [Fairies](https://fairies.ai) ![closed source] ![paid] - Powerful, general-purpose AI agent for MacOS, Windows, Mobile, and Web.
 - [Floweb](https://floweb.cn/en) ![closed source] ![paid] - Ultra-lightweight floating desktop pendant that transforms web pages into web applications, supporting features such as pinning and transparency, multi-account, auto-refresh.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
