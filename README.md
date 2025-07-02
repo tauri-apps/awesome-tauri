@@ -117,6 +117,10 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
 - [tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) - Advanced disk caching solution with memory layer, TTL management, compression support, and cross-platform compatibility for desktop and mobile.
+- [tauri-plugin-auth](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-auth) - A auth plugin for iOS that uses ASWebAuthenticationSession for authentication, which allows keychain access
+- [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) - An in-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
+- [tauri-pluing-ota](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-ota) - An OTA plugin for applications that just want to continuously deliever new JavaScript code based on a manfiest.
+
 
 ### Integrations
 
@@ -164,6 +168,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
 - [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
+- [ToneTempo](https://tonetempo.com) ![closed source] - Workout and run with AutoMixed music and an AI fitness coach.
 
 ### ChatGPT clients
 
