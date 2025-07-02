@@ -121,8 +121,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
 
-
-
 ### Integrations
 
 - [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno.
