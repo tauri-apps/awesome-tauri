@@ -85,7 +85,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Official Plugins](https://github.com/tauri-apps/plugins-workspace) ![officially maintained] - This repository contains all the plugins maintained by the Tauri team. This includes plugins for NFC, logging, notifications, and more.
 - [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ![officially maintained] - Make your windows vibrant (v1 only - added to Tauri in v2).
 - [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] - Add native shadows to your windows in Tauri (v1 only - added to Tauri in v2).
+- [tauri-plugin-auth](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-auth) - Auth plugin for iOS that uses ASWebAuthenticationSession for authentication, which allows keychain access
 - [tauri-plugin-blec](https://github.com/MnlPhlp/tauri-plugin-blec) - Cross platform Bluetooth Low Energy client based on `btleplug`.
+- [tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) - Advanced disk caching solution with memory layer, TTL management, compression support, and cross-platform compatibility for desktop and mobile.
 - [tauri-plugin-drpc](https://github.com/smokingplaya/tauri-plugin-drpc) - Discord RPC support
 - [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) - Disable screen timeout on Android and iOS.
 - [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
@@ -96,7 +98,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-desktop-underlay](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay) - Attach a window to desktop, below icons and above wallpaper.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
+- [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macOS system permissions.
+- [tauri-pluing-ota](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-ota) - OTA plugin for applications that just want to continuously deliever new JavaScript code based on a manfiest.
 - [tauri-nspopover-plugin](https://github.com/freethinkel/tauri-nspopover-plugin) - Native NSPopover view for use in the status bar in macOS.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
 - [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Vue.
@@ -116,10 +120,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) - TCP socket support.
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
-- [tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) - Advanced disk caching solution with memory layer, TTL management, compression support, and cross-platform compatibility for desktop and mobile.
-- [tauri-plugin-auth](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-auth) - A auth plugin for iOS that uses ASWebAuthenticationSession for authentication, which allows keychain access
-- [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) - An in-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
-- [tauri-pluing-ota](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-ota) - An OTA plugin for applications that just want to continuously deliever new JavaScript code based on a manfiest.
+
 
 
 ### Integrations
@@ -165,10 +166,10 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps based on all your screens & mics context.
+- [ToneTempo](https://tonetempo.com) ![closed source] ![paid] - Workout and run with AutoMixed music and an AI fitness coach.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
 - [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
-- [ToneTempo](https://tonetempo.com) ![closed source] - Workout and run with AutoMixed music and an AI fitness coach.
 
 ### ChatGPT clients
 
