@@ -96,6 +96,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-desktop-underlay](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay) - Attach a window to desktop, below icons and above wallpaper.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
+- [tauri-plugin-mcp](https://github.com/moeru-ai/airi/tree/main/crates/tauri-plugin-mcp) - Provide MCP servers connection ability for your AI agent on tauri.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macOS system permissions.
 - [tauri-nspopover-plugin](https://github.com/freethinkel/tauri-nspopover-plugin) - Native NSPopover view for use in the status bar in macOS.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
