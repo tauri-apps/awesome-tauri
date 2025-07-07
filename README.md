@@ -361,7 +361,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
 - [WindowPet](https://github.com/SeakMengs/WindowPet) - Overlay app that lets you have adorable companions such as pets and anime characters on your screen.
 - [Zawee](https://zawee.net) ![closed source] - Experience the synergy of Kanban boards, note-taking, file sharing, and more, seamlessly integrated into one powerful application.
-- [Zenith](https://github.com/dewy01/Zenith) - Whether you're looking to organize tasks, collaborate on projects, or keep track of important dates, Zenith has got you covered.
+- [Zenith](https://github.com/dewy01/Zenith) ![v1] - Whether you're looking to organize tasks, collaborate on projects, or keep track of important dates, Zenith has got you covered.
 - [ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - Focuses on app launching with error correction, supports full/pinyin/abbreviation searches. Features customizable interface and keyboard shortcuts.
 
 ### Search
@@ -446,3 +446,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
 [paid]: https://img.shields.io/badge/paid-FFC131?&logoColor=black
 [youtube]: https://img.shields.io/badge/YouTube-FF0000
+[v1]: https://img.shields.io/badge/v1-white
+[v2]: https://img.shields.io/badge/v2-white
+
