@@ -347,7 +347,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [EcoPaste](https://github.com/ayangweb/EcoPaste/tree/master) - Powerful open-source clipboard manager for macOS, Windows and Linux(x11) platforms.
 - [Fairies](https://fairies.ai) ![closed source] ![paid] - Powerful, general-purpose AI agent for MacOS, Windows, Mobile, and Web.
 - [Floweb](https://floweb.cn/en) ![closed source] ![paid] - Ultra-lightweight floating desktop pendant that transforms web pages into web applications, supporting features such as pinning and transparency, multi-account, auto-refresh.
-- [Fluster](https://fluster-one.vercel.app) - The one stop, free and open source note taking application for everything a modern academic or STEM professional needs.
+- [Fluster](https://fluster-one.vercel.app) ![v2] - The one stop, free and open source note taking application for everything a modern academic or STEM professional needs.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 - [Google Task Desktop Client](https://github.com/codad5/google-task-tauri) - Google Task Desktop Client
