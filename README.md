@@ -260,7 +260,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
 - [Mahalli](https://github.com/AbdelilahOu/Mahalli-tauri) - Local first inventory and invoicing management app.
 - [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
-- [Upcount](https://www.upcount.app/) - Free invoicing and time tracking application for freelancers and small businesses.
+- [Upcount](https://www.upcount.app/) ![v2] - Free invoicing and time tracking application for freelancers and small businesses.
 - [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source US tax filings.
 - [Wealthfolio](https://wealthfolio.app) - Simple, open-source desktop portfolio tracker that keeps your financial data safe on your computer.
 
