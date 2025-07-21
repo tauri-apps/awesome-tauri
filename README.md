@@ -324,6 +324,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [fylepad](https://github.com/imrofayel/fylepad/) - Notepad with powerful rich-text editing, built with Vue & Tauri.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
+- [Blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
 - [Handwriting keyboard](https://github.com/BigIskander/Handwriting-keyboard-for-Linux-tesseract) - Handwriting keyboard for Linux X11 desktop environment.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
