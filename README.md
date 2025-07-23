@@ -177,6 +177,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
 - [Yack](https://github.com/rajatkulkarni95/yack) - Spotlight like app for interfacing with GPT APIs.
+- [Jan](https://github.com/menloresearch/jan) - Open source alternative to ChatGPT that runs 100% offline on your computer
 
 ### Data
 
