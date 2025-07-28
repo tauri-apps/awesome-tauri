@@ -221,6 +221,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
+- [TangleGuard](https://docs.tangleguard.com) ![closed source] - A software architecture monitoring tool for Rust applications
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
 - [verbcode](https://github.com/Verbcode/verbcode-release) ![closed source] - Simplify your localization journey.
