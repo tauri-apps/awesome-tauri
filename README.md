@@ -324,6 +324,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Office & Writing
 
+- [Astro Editor](https://github.com/dannysmith/astro-editor) - Clean markdown editor for Astro content collections with frontmatter editing, component insertion, and writing-focused interface.
 - [fylepad](https://github.com/imrofayel/fylepad/) - Notepad with powerful rich-text editing, built with Vue & Tauri.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
