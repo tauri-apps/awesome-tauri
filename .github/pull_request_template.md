@@ -20,7 +20,7 @@ This is the link to the project: [TITLE](URL)
 
 <!-- Ignore unless you're contributing to Plugins/Integrations -->
 
-- [ ] Works with **Tauri 1.x, 2.x or later**.
+- [ ] Works with **Tauri 2.x or later**.
 - [ ] The project is open source and accepts contributions.
 - [ ] The repo is at least 30 days old.
 - [ ] Documentation is in English.
@@ -30,7 +30,7 @@ This is the link to the project: [TITLE](URL)
 
 <!-- Ignore unless you're contributing to Templates -->
 
-- [ ] Works with **Tauri 1.x, 2.x or later**.
+- [ ] Works with **Tauri 2.x or later**.
 - [ ] The repo is at least 30 days old.
 - [ ] Documentation is in English.
 - [ ] The template provides enough information about how to get started and what's included.
