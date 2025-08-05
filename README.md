@@ -97,6 +97,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-desktop-underlay](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay) - Attach a window to desktop, below icons and above wallpaper.
+- [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) - Native macOS drag-out (file promise) support.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
 - [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macOS system permissions.
@@ -465,4 +466,3 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 [youtube]: https://img.shields.io/badge/YouTube-FF0000
 [v1]: https://img.shields.io/badge/v1-white
 [v2]: https://img.shields.io/badge/v2-white
-* [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) - Native macOS drag-out (file promise) support.
