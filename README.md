@@ -415,6 +415,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [AgeTimer](https://github.com/dhextras/age-timer-tauri) - Desktop utility that counts your age in real-time.
 - [Auto Wallpaper](https://github.com/auto-wallpaper/auto-wallpaper) - Automatically generates 4K wallpapers based on user's location, weather, and time of day or any custom prompts.
 - [bewCloud Desktop Sync](https://github.com/bewcloud/bewcloud-desktop) - Desktop sync app for bewCloud, a simpler alternative to Nextcloud and ownCloud.
+- [Basset](https://github.com/mohammadmansour200/basset) - All-in-one offline media toolkit: cut, convert, compress, and remove instruments from audio, video, and images.
 - [TypeView - KeyStroke Visualizer](https://github.com/dunkbing/typeview) - Visualizes keys pressed on the screen and simulates the sound of mechanical keyboard.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
