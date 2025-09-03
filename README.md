@@ -130,6 +130,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
 - [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
 - [Deno in Tauri](https://github.com/typed-sigterm/deno-in-tauri) - Run JS/TS code with Deno Core Engine, in Tauri apps.
+- [faynosync-update-server](https://github.com/ku9nov/faynoSync) - Self-hosted Dynamic Update Server with statistics, supporting Tauri and other platforms. Flexible features for seamless app updates and insights.
 - [kkrpc](https://github.com/kunkunsh/kkrpc) - Seamless RPC communication between a Tauri app and node/deno/bun processes, just like Electron.
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
@@ -139,7 +140,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) - Example macOS Spotlight app project.
 - [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare.
 - [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) - Automatically interface the Tauri updater with git repository releases.
-- [faynosync-update-server](https://github.com/ku9nov/faynoSync) - Self-hosted Dynamic Update Server with statistics, supporting Tauri and other platforms. Flexible features for seamless app updates and insights.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ### Articles
