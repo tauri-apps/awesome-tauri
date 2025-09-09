@@ -169,7 +169,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
-- [PunyTunes](https://github.com/mjoblin/punytunes) - Control StreamMagic music streamers from the system tray.
+- [PunyTunes](https://github.com/mjoblin/punytunes) ![v1] - Control StreamMagic music streamers from the system tray.
 - [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps based on all your screens & mics context.
 - [ToneTempo](https://tonetempo.com) ![closed source] ![paid] - Workout and run with AutoMixed music and an AI fitness coach.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
