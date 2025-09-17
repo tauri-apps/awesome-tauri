@@ -162,6 +162,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Curses](https://github.com/mmpneo/curses) - Speech-to-Text and Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
 - [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
+- [Hopp](https://github.com/gethopp/hopp) - Open source remote pair programming app.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
 - [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings. Local-first and extensible.
 - [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - GUI client for a Jellyfin server based on Vue.js and Tauri.
