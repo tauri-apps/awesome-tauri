@@ -55,6 +55,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Templates
 
 - [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular with Typescript, SASS, and Hot Reload.
+- [create-tauri-react](https://github.com/MrLightful/create-tauri-react) - Well-architected template for Vite, React, and Tailwind CSS.
 - [nuxtor](https://github.com/NicolaSpadari/nuxtor) - Nuxt 3 + Tauri 2 + UnoCSS, a starter template for building desktop apps.
 - [rust-full-stack-with-authentication-template](https://github.com/sollambert/rust-full-stack-with-auth-template) - Yew, Tailwind CSS, Tauri, Axum, Sqlx - Starter template for full stack applications with built-in authentication.
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
@@ -143,7 +144,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Audio & Video
 
-- [Ascapes Mixer](https://github.com/ilyaly/ascapes-mixer) - Audio mixer with three dedicated players for music, ambience and SFX for TTRPG sessions. 
+- [Ascapes Mixer](https://github.com/ilyaly/ascapes-mixer) - Audio mixer with three dedicated players for music, ambience and SFX for TTRPG sessions.
 - [Cap](https://github.com/CapSoftware/cap) - The open-source Loom alternative. Beautiful, shareable screen recordings.
 - [Cardo](https://github.com/n0vella/cardo) - Podcast player with integrated search and management of subscriptions.
 - [Compresso](https://github.com/codeforreal1/compressO) - Cross-platform video compression app powered by FFmpeg.
