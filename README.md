@@ -340,6 +340,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
 - [Blinko](https://github.com/blinkospace/blinko) ![v2] - Self-hosted personal AI note tool prioritizing privacy.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
+- [Fluster](https://flusterapp.com) ![v2] - The one stop, free and open source note taking application for everything a modern academic or STEM professional needs.
 - [Handwriting keyboard](https://github.com/BigIskander/Handwriting-keyboard-for-Linux-tesseract) - Handwriting keyboard for Linux X11 desktop environment.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application with built-in ChatGPT extension.
@@ -363,7 +364,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [EcoPaste](https://github.com/ayangweb/EcoPaste/tree/master) - Powerful open-source clipboard manager for macOS, Windows and Linux(x11) platforms.
 - [Fairies](https://fairies.ai) ![closed source] ![paid] - Powerful, general-purpose AI agent for MacOS, Windows, Mobile, and Web.
 - [Floweb](https://floweb.cn/en) ![closed source] ![paid] - Ultra-lightweight floating desktop pendant that transforms web pages into web applications, supporting features such as pinning and transparency, multi-account, auto-refresh.
-- [Fluster](https://fluster-one.vercel.app) ![v2] - The one stop, free and open source note taking application for everything a modern academic or STEM professional needs.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 - [Google Task Desktop Client](https://github.com/codad5/google-task-tauri) - Google Task Desktop Client
