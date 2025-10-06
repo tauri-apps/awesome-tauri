@@ -215,7 +215,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for developers, like generators, viewers, converters, etc.
 - [DevClean](https://github.com/HuakunShen/devclean) - Clean up development environment with ease.
 - [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities.
-- [Docker DB Manager](https://github.com/AbianS/docker-db-manager) - Desktop app for managing Docker database containers with visual interface, data persistence, and one-click connection strings.
+- [Docker DB Manager](https://github.com/AbianS/docker-db-manager) ![v2] - Desktop app for managing Docker database containers with visual interface, data persistence, and one-click connection strings.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
 - [GitButler](https://gitbutler.com) - GitButler is a new Source Code Management system.
