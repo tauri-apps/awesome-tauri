@@ -387,6 +387,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Takma](https://github.com/jam53/Takma) - Kanban-style to-do app, fully offline with support for Markdown, labels, due dates, checklists and deep linking.
 - [Tencent Yuanbao](https://yuanbao.tencent.com/) ![closed source] - Tencent Yuanbao is an AI application based on Tencent Hunyuan large model. It is an all-round assistant that can help you with writing, painting, copywriting, translation, programming, searching, reading and summarizing.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
+- [Tranzit](https://github.com/kr5hn4/tranzit) - Cross-platform app to securely share files with nearby devices over your local network.
 - [WindowPet](https://github.com/SeakMengs/WindowPet) - Overlay app that lets you have adorable companions such as pets and anime characters on your screen.
 - [Zawee](https://zawee.net) ![closed source] - Experience the synergy of Kanban boards, note-taking, file sharing, and more, seamlessly integrated into one powerful application.
 - [Zenith](https://github.com/dewy01/Zenith) ![v1] - Whether you're looking to organize tasks, collaborate on projects, or keep track of important dates, Zenith has got you covered.
