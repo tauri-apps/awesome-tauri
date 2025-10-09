@@ -427,6 +427,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Basset](https://github.com/mohammadmansour200/basset) ![v2] - All-in-one offline media toolkit: cut, convert, compress, and remove instruments from audio, video, and images.
 - [TypeView - KeyStroke Visualizer](https://github.com/dunkbing/typeview) - Visualizes keys pressed on the screen and simulates the sound of mechanical keyboard.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
+- [CrabCamera](https://github.com/Michael-A-Kuykendall/crabcamera) - Professional desktop camera plugin with WebRTC live preview, automated quality validation, and advanced hardware controls for photography apps and surveillance systems.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Dwall](https://github.com/dwall-rs/dwall) - Change the Windows desktop and lock screen wallpapers according to the sun's azimuth and altitude angles, just like on macOS.
 - [Fancy Screen Recorder](https://fancyapps.com/freebies/) ![closed source] - Record entire screen or a selected area, trim and save as a GIF or video.
