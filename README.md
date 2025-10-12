@@ -183,6 +183,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop application.
 - [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Cross-platform productivity ChatGPT assistant launcher.
 - [Jan](https://github.com/menloresearch/jan) ![v2] - Open source alternative to ChatGPT that runs 100% offline on your computer.
+- [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) ![v2] - Local LLM chat application with privacy-focused AI inference using `candle` and Rust backend.
 - [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.
 - [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
