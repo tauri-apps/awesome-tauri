@@ -460,6 +460,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
 - [SlimeVR Server](https://github.com/SlimeVR/SlimeVR-Server) - Server app for SlimeVR, facilitating full-body tracking in virtual reality.
+- [Sofast](https://sofast.fun) ![closed source] - A cross-platform Raycast-like app.
 - [SoulFire](https://github.com/AlexProgrammerDE/SoulFireClient) - Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [Stacks](https://github.com/cablehead/stacks) - Modern and capable clipboard manager for macOS. Seeking Linux and Windows contributions.
@@ -474,7 +475,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
 - [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
-- [Sofast](https://sofast.fun) ![closed source] - A cross-platform Raycast-like app.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
