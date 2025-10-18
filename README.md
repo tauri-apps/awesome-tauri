@@ -385,6 +385,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Qopy](https://github.com/0PandaDEV/Qopy) - The fixed Clipboard Manager for Windows and Mac.
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
 - [Runtime](https://github.com/runtime-org/runtime) ![v2] - AI taskmate for web & office tools.
+- [Shell360](https://github.com/nashaofu/shell360) ![v2] - Cross-platform open-source SSH and SFTP client with port forwarding and encrypted data storage, designed for developers and system administrators.
 - [Takma](https://github.com/jam53/Takma) - Kanban-style to-do app, fully offline with support for Markdown, labels, due dates, checklists and deep linking.
 - [Tencent Yuanbao](https://yuanbao.tencent.com/) ![closed source] - Tencent Yuanbao is an AI application based on Tencent Hunyuan large model. It is an all-round assistant that can help you with writing, painting, copywriting, translation, programming, searching, reading and summarizing.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
@@ -393,7 +394,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Zawee](https://zawee.net) ![closed source] - Experience the synergy of Kanban boards, note-taking, file sharing, and more, seamlessly integrated into one powerful application.
 - [Zenith](https://github.com/dewy01/Zenith) ![v1] - Whether you're looking to organize tasks, collaborate on projects, or keep track of important dates, Zenith has got you covered.
 - [ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - Focuses on app launching with error correction, supports full/pinyin/abbreviation searches. Features customizable interface and keyboard shortcuts.
-- [Shell360](https://github.com/nashaofu/shell360) ![v2] - Shell360 is a cross-platform open-source SSH and SFTP client with port forwarding and encrypted data storage, designed for developers and system administrators.
 
 ### Search
 
