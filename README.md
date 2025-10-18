@@ -430,6 +430,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TypeView - KeyStroke Visualizer](https://github.com/dunkbing/typeview) - Visualizes keys pressed on the screen and simulates the sound of mechanical keyboard.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
+- [CrabCamera](https://github.com/Michael-A-Kuykendall/crabcamera) - Professional desktop camera plugin for Tauri applications with WebRTC streaming and advanced hardware controls.
 - [Dwall](https://github.com/dwall-rs/dwall) - Change the Windows desktop and lock screen wallpapers according to the sun's azimuth and altitude angles, just like on macOS.
 - [Fancy Screen Recorder](https://fancyapps.com/freebies/) ![closed source] - Record entire screen or a selected area, trim and save as a GIF or video.
 - [FanslySync](https://github.com/SticksDev/FanslySync) - Sync your Fansly data with 3rd party applications, securely!
