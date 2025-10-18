@@ -393,7 +393,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Zawee](https://zawee.net) ![closed source] - Experience the synergy of Kanban boards, note-taking, file sharing, and more, seamlessly integrated into one powerful application.
 - [Zenith](https://github.com/dewy01/Zenith) ![v1] - Whether you're looking to organize tasks, collaborate on projects, or keep track of important dates, Zenith has got you covered.
 - [ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - Focuses on app launching with error correction, supports full/pinyin/abbreviation searches. Features customizable interface and keyboard shortcuts.
-- [Shell360](https://github.com/nashaofu/shell360) - A cross-platform SSH and SFTP client.
+- [Shell360](https://github.com/nashaofu/shell360) ![v2] - Shell360 is a cross-platform open-source SSH and SFTP client with port forwarding and encrypted data storage, designed for developers and system administrators.
 
 ### Search
 
