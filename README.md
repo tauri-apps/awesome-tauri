@@ -296,6 +296,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
 - [Retrom](https://github.com/JMBeresford/retrom) - Private cloud game library distribution server + frontend/launcher.
 - [Samira](https://github.com/jsnli/Samira) - Steam achievement manager for Linux.
+- [Sarge Launcher](https://github.com/endless-r0ad/sarge-launcher) ![v2] - Cross-platform launcher for Quake 3 Arena and Q3A mods - includes server, demo, and level browsing.
 - [SJMC Launcher](https://github.com/UNIkeEN/SJMCL) ![v2] - Launcher for `Minecraft` with instance management and multi-account support.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
 - [Tauri Chess](https://github.com/jamessizeland/tauri-chess) - Implementation of Chess, logic in Rust and visualization in React.
