@@ -416,6 +416,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Secops](https://github.com/kunalsin9h/secops) - Ubuntu Operating System security made easy.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
 - [Truthy](https://github.com/fosslife/truthy/) - Modern cross-platform 2FA manager with tons of features and a beautiful UI.
+- [JumpServer](https://github.com/jumpserver/client/) - Open-source PAM client, modern, beautiful, native same
 
 ### Social media
 
