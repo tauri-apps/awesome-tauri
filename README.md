@@ -306,6 +306,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Information
 
 - [Cores](https://github.com/Levminer/cores) ![paid] - Modern hardware monitor with remote monitoring.
+- [HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) - Hardware monitor with persistent historical data, customizable dashboard, and flexible graph themes.
 - [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
 - [Stockman](https://github.com/awkj/stockman) - Display stock info on mac menubar.
 - [Watchcoin](https://github.com/lifecoder1988/tauri-watch-coin) - Display cypto price on OS menubar without a window.
