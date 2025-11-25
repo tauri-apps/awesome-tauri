@@ -411,7 +411,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Calciumdibromid](https://codeberg.org/Calciumdibromid/CaBr2) - Generate "experiment wise safety sheets" in compliance to European law.
 - [Defguard](https://github.com/defguard/client) - WireGuard VPN destkop client with Two-factor (2FA) authentication.
 - [Gluhny](https://github.com/angeldollface/gluhny) A graphical interface to validate IMEI numbers.
-- [JumpServer](https://github.com/jumpserver/client/) - Open-source PAM client, modern, beautiful, and natively consistent.
+- [JumpServer](https://github.com/jumpserver/client/) ![v2] - Open-source PAM client, modern, beautiful, and natively consistent.
 - [OneKeePass](https://github.com/OneKeePass/desktop) - Secure, modern, cross-platform and KeePass compatible password manager.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
 - [Secops](https://github.com/kunalsin9h/secops) - Ubuntu Operating System security made easy.
