@@ -173,7 +173,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [PunyTunes](https://github.com/mjoblin/punytunes) ![v1] - Control StreamMagic music streamers from the system tray.
 - [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps based on all your screens & mics context.
-- [SilentKeys](https://github.com/gptguy/silentkeys) - Privacy-first, real-time dictation app built with Tauri, powered by `Parakeet ASR`, `Silero-VAD`, and on-device inference via `ORT`.
+- [SilentKeys](https://github.com/gptguy/silentkeys) ![v2] - Privacy-first, real-time dictation app built with Tauri, powered by `Parakeet ASR`, `Silero-VAD`, and on-device inference via `ORT`.
 - [ToneTempo](https://tonetempo.com) ![closed source] ![paid] - Workout and run with AutoMixed music and an AI fitness coach.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
