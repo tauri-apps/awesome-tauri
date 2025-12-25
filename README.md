@@ -417,6 +417,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Authme](https://github.com/Levminer/authme) - Two-factor (2FA) authentication app for desktop.
 - [Calciumdibromid](https://codeberg.org/Calciumdibromid/CaBr2) - Generate "experiment wise safety sheets" in compliance to European law.
+- [chiffrage](https://github.com/thrzl/chiffrage) ![v2] - Cross-platform UI for encrypting files and text with the age encryption format.
 - [Defguard](https://github.com/defguard/client) - WireGuard VPN destkop client with Two-factor (2FA) authentication.
 - [Gluhny](https://github.com/angeldollface/gluhny) A graphical interface to validate IMEI numbers.
 - [JumpServer](https://github.com/jumpserver/client/) ![v2] - Open-source PAM client, modern, beautiful, and natively consistent.
