@@ -91,6 +91,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] - Add native shadows to your windows in Tauri (v1 only - added to Tauri in v2).
 - [sentry-tauri](https://github.com/timfish/sentry-tauri) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
 - [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system that leverages WebSocket.
+- [tauri-remote-ui](https://github.com/DraviaVemal/tauri-remote-ui) - Make you web app bundle available as web page for test and development.
 - [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window to panel.
 - [tauri-nspopover-plugin](https://github.com/freethinkel/tauri-nspopover-plugin) - Native NSPopover view for use in the status bar in macOS.
 - [tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase) - Privacy-first and minimalist analytics for desktop and mobile apps.
