@@ -276,6 +276,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Finance
 
+- [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) - Advanced financial intelligence terminal with CFA-level analytics, AI agents, and 100+ data connectors. ![v2]
 - [Compotes](https://github.com/Orbitale/Compotes) - Local bank account operations storage to vizualize them as graphs and customize them with rules and tags for better filtering.
 - [CryptoBal](https://github.com/Rabbit-Company/CryptoBal-Desktop) - Desktop application for monitoring your crypto assets.
 - [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
