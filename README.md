@@ -124,6 +124,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) - Detailed system information.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) - TCP socket support.
 - [tauri-plugin-theme](https://github.com/wyhaya/tauri-plugin-theme) - Dynamically change Tauri App theme.
+- [tauri-plugin-tracing](https://github.com/fltsci/tauri-plugin-tracing) - Structured logging with the tracing crate, featuring JS-to-Rust log bridging, file rotation, and flamegraph profiling.
 - [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) - UDP socket support.
 - [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
