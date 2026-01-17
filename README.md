@@ -196,6 +196,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) ![v2] - Local LLM chat application with privacy-focused AI inference using `candle` and Rust backend.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
 - [Yack](https://github.com/rajatkulkarni95/yack) - Spotlight like app for interfacing with GPT APIs.
+- [Nexo](https://github.com/Nexo-Agent/nexo) - All-in-One Workspace AI
 
 ### Data
 
