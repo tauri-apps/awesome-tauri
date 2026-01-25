@@ -4,6 +4,8 @@ This is the link to the project: [TITLE](URL)
 - [ ] Use the following format: `[Title](link) - Description.`
 - [ ] If the project is closed source add the `![closed source]` badge after the `(link)` but before the `-`.
 - [ ] If the project/article is non-free or paywalled add the `![paid]` badge after the `(link)` but before the `-`.
+- [ ] If the project/article uses Tauri **v1** add the `![v1]` badge after the `(link)` but before the `-`.
+- [ ] If the project/article uses Tauri **v2** add the `![v2]` badge after the `(link)` but before the `-`.
 - [ ] Add entries alphabetically to the most appropriate category.
 - [ ] No unnecessary words like `for Tauri`, `a Tauri plugin` and `Super-Fast`.
 - [ ] Description does not start with `A` or `An`.
@@ -14,13 +16,13 @@ This is the link to the project: [TITLE](URL)
 - [ ] No trailing whitespace is added to the end of any file.
 - [ ] One suggestion per pull request.
 - [ ] I understand that my entry will be removed if it violates the guidelines.
-- [ ] I have [signed my commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
+- [ ] I have [signed my commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) (optional).
 
 ### Plugins/Integrations
 
 <!-- Ignore unless you're contributing to Plugins/Integrations -->
 
-- [ ] Works with **Tauri 1.x and onward**.
+- [ ] Works with **Tauri 2.x or later**.
 - [ ] The project is open source and accepts contributions.
 - [ ] The repo is at least 30 days old.
 - [ ] Documentation is in English.
@@ -30,7 +32,7 @@ This is the link to the project: [TITLE](URL)
 
 <!-- Ignore unless you're contributing to Templates -->
 
-- [ ] Works with **Tauri 1.x and onward**.
+- [ ] Works with **Tauri 2.x or later**.
 - [ ] The repo is at least 30 days old.
 - [ ] Documentation is in English.
 - [ ] The template provides enough information about how to get started and what's included.
@@ -43,6 +45,6 @@ This is the link to the project: [TITLE](URL)
 - [ ] The app is original and not too simple.
 - [ ] The README is in English.
 - [ ] The app makes a reasonable effort to be fast, lightweight and secure.
-- [ ] If the app closed source, evidence of it being built with Tauri is included.
+- [ ] If the app is closed source, evidence of it being built with Tauri is included.
 
 ### Additional Context
