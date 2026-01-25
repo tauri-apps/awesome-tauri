@@ -450,6 +450,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Kadium](https://github.com/probablykasper/kadium) - App for staying on top of YouTube channel uploads.
 - [Poll-arize](https://poll-arize.com/?ref=awesome-tauri) ![closed source] - Social media platform focused on polling and aggregating user opinions.
 - [Scraper Instagram GUI Desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop) - Alternative Instagram front-end for desktop.
+- [Vector](https://github.com/VectorPrivacy/Vector) ![v2] - Private, decentralized messenger with games and apps (E2EE).
 
 ### Utilities
 
