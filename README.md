@@ -241,6 +241,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [KFtray](https://github.com/hcavarsan/kftray) - A tray application that manages port forwarding in Kubernetes.
 - [PraccJS](https://github.com/alyalin/PraccJS) - Lets you practice JavaScript with real-time code execution.
 - [PromptLab](https://github.com/haideralsh/prompt-lab) ![v2] - Open-source, cross-platform desktop app for building and providing code-related context to large language models
+- - *   • [Prism](https://github.com/dev-Ninjaa/prism) - Lightweight, local-first API testing tool built with Rust and Tauri.
+
 - [nda](https://github.com/kuyoonjo/nda) - Network Debug Assistant - UDP, TCP, Websocket, SocketIO, MQTT
 - [Ngroker](https://ngroker.com) ![closed source] ![paid] - 🆖ngrok gui client.
 - [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source code from an IDL.
