@@ -193,7 +193,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop application.
 - [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Cross-platform productivity ChatGPT assistant launcher.
 - [Jan](https://github.com/menloresearch/jan) ![v2] - Open source alternative to ChatGPT that runs 100% offline on your computer.
-- [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.
+- [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microslop Azure and more, with a focus on privacy and security.
 - [Nexo](https://github.com/Nexo-Agent/nexo) - All-in-One Workspace AI
 - [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) ![v2] - Local LLM chat application with privacy-focused AI inference using `candle` and Rust backend.
@@ -489,6 +489,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
 - [Pot](https://github.com/pot-app/pot-desktop) - Cross-platform Translation Software.
+- [RapidRAW](https://github.com/CyberTimon/RapidRAW) - A RAW image editor built with performance in mind.
 - [RMBG](https://github.com/zhbhun/rmbg) - Cross-platform image background removal tool.
 - [Recordscript](https://github.com/Recordscript/recordscript) - Record & transcribe your online meetings, or subtitle your files. Cross-platform local-only screen recorder & subtitle generator.
 - [Rounded Corners](https://github.com/RoundedCorners/Application) - Rounded Corners app for Windows.
