@@ -304,6 +304,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Chessifier](https://github.com/Chessifier/chessifier) ![v2] - The Ultimate Chess Toolkit.
 - [clear](https://clear.adithya.zip) - Clean and minimalist video game library manager and launcher.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
+- [Deadlock Mod Manager](https://github.com/deadlock-mod-manager/deadlock-mod-manager) ![v2] - Mod manager for the Valve game Deadlock.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 - [Gale](https://github.com/Kesomannen/gale) - Mod manager for many games on `Thunderstore`.
