@@ -102,7 +102,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - Clipboard plugin for reading/writing clipboard text/image/html/rtf/files, and monitoring clipboard update.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-desktop-underlay](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay) - Attach a window to desktop, below icons and above wallpaper.
-- [tauri-plugin-device-info](https://github.com/edisdev/tauri-plugin-device-info) - Access comprehensive device information including battery, network, storage, display, and system details across desktop and mobile.
+- [tauri-plugin-device-info](https://github.com/edisdev/tauri-plugin-device-info) ![v2] - Access comprehensive device information including battery, network, storage, display, and system details across desktop and mobile.
 - [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) - Native macOS drag-out (file promise) support.
 - [tauri-plugin-drpc](https://github.com/smokingplaya/tauri-plugin-drpc) - Discord RPC support.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
