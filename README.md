@@ -109,6 +109,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
 - [tauri-plugin-iap](https://github.com/Choochmeque/tauri-plugin-iap) - Plugin that enables full In-App Purchases flow for Android, macOS, iOS and Windows.
 - [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
+- [tauri-plugin-in-app-review](https://github.com/Gbyte-Group/tauri-plugin-in-app-review) - Allows requesting app ratings within the app, without leaving the current application.
+- [tauri-plugin-ios-photos](https://github.com/Gbyte-Group/tauri-plugin-ios-photos) - Accessing and managing iOS Photos albums and assets using the native Photos framework.
 - [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) - Disable screen timeout on Android and iOS.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macOS system permissions.
 - [tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) ![v2] - Handle mobile Share Intents with a FIFO queue
