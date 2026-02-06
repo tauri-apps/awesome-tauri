@@ -353,6 +353,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Jexpe](https://github.com/jexpe-apps/jexpe) - Cross-platform, open source SSH and SFTP client that makes connecting to your remote servers easy.
 - [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
 - [mDNS-Browser](https://github.com/hrzlgnm/mdns-browser) - Cross-platform mDNS browser app for discovering network services using mDNS.
+- [NetDia](https://github.com/shellrow/netdia) ![v2] - Cross-platform network diagnostic tool for inspecting, monitoring, and analyzing your network.
 - [Nhex](https://github.com/nhexirc/nhex) - Next-generation IRC client inspired by HexChat.
 - [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server for RustDesk, an open source remote desktop.
 - [RustDuck](https://github.com/thewh1teagle/RustDuck) - Cross platform dynamic DNS updater for duckdns.org.
