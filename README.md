@@ -187,6 +187,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps with full context. Works with Ollama.
 - [SilentKeys](https://github.com/gptguy/silentkeys) ![v2] - Privacy-first, real-time dictation app built with Tauri, powered by `Parakeet ASR`, `Silero-VAD`, and on-device inference via `ORT`.
 - [ToneTempo](https://tonetempo.com) ![closed source] ![paid] - Workout and run with AutoMixed music and an AI fitness coach.
+- [Voxly](https://github.com/ibrahimshadev/dikt) ![v2] - Voice dictation app with AI modes that clean up speech before pasting into any active app.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![v2] - Speech-to-text app. Press shortcut → speak → get text. Supports local and cloud transcription with AI transformations.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
