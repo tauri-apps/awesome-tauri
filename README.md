@@ -135,7 +135,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
 - [tauri-remote-ui](https://github.com/DraviaVemal/tauri-remote-ui) - Make you web app bundle available as web page for test and development.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
-- [tauri-plugin-thermal-printer](https://github.com/luis3132/tauri-plugin-thermal-printer) - Add support to handle thermal printers
+- [tauri-plugin-thermal-printer](https://github.com/luis3132/tauri-plugin-thermal-printer) ![v2] - Add support to handle thermal printers
 
 ### Integrations
 
