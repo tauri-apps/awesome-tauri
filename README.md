@@ -452,6 +452,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
 - [Secops](https://github.com/kunalsin9h/secops) - Ubuntu Operating System security made easy.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
+- [Vault-0](https://github.com/0-Vault/Vault-0) - Encrypted secret vault, real-time agent monitor, and x402 payment wallet for OpenClaw AI agents.
 - [Truthy](https://github.com/fosslife/truthy/) - Modern cross-platform 2FA manager with tons of features and a beautiful UI.
 
 ### Social media
