@@ -21,7 +21,7 @@ All projects are assumed to be free and open source unless otherwise specified u
 
 ## Plugins/Integrations
 
-- Works with **Tauri 1.x and onward**.
+- Works with **Tauri 2.x or later**.
 - The project is open source and accepts contributions.
 - The repo is at least 30 days old.
 - Documentation is in English.
@@ -29,7 +29,7 @@ All projects are assumed to be free and open source unless otherwise specified u
 
 ## Templates
 
-- Works with **Tauri 1.x and onward**.
+- Works with **Tauri 2.x or later**.
 - The repo is at least 30 days old.
 - Documentation is in English.
 - The template provides enough information about how to get started and what's included.
