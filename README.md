@@ -13,27 +13,28 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
-  - [Guides & Tutorials](#guides--tutorials)
+  - [Guides \& Tutorials](#guides--tutorials)
   - [Templates](#templates)
 - [Development](#development)
   - [Plugins](#plugins)
   - [Integrations](#integrations)
   - [Articles](#articles)
 - [Applications](#applications)
-  - [Audio & Video](#audio--video)
+  - [Audio \& Video](#audio--video)
   - [ChatGPT clients](#chatgpt-clients)
   - [Data](#data)
   - [Developer tools](#developer-tools)
   - [Ebook readers](#ebook-readers)
-  - [Email & Feeds](#email--feeds)
+  - [Email \& Feeds](#email--feeds)
   - [File management](#file-management)
   - [Finance](#finance)
   - [Gaming](#gaming)
   - [Information](#information)
   - [Learning](#learning)
   - [Networking](#networking)
-  - [Office & Writing](#office--writing)
+  - [Office \& Writing](#office--writing)
   - [Productivity](#productivity)
   - [Search](#search)
   - [Security](#security)
@@ -111,6 +112,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
 - [tauri-plugin-in-app-review](https://github.com/Gbyte-Group/tauri-plugin-in-app-review) ![v2] - In-app app rating prompts using native platform APIs.
 - [tauri-plugin-ios-photos](https://github.com/Gbyte-Group/tauri-plugin-ios-photos) ![v2] - iOS Photos album and asset management via native APIs.
+- [tauri-plugin-js](https://github.com/HuakunShen/tauri-plugin-js) - Give Tauri apps Electron-like JS backends (Bun, Node.js, Deno) with type-safe RPC powered by kkrpc.
 - [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) - Disable screen timeout on Android and iOS.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macOS system permissions.
 - [tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) ![v2] - Handle mobile Share Intents with a FIFO queue
