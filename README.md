@@ -221,6 +221,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [qsv pro](https://qsvpro.dathere.com) ![closed source] ![paid] - Explore spreadsheet data including CSV in interactive data tables with generated metadata and a node editor based on the `qsv` CLI.
 - [Rclone UI](https://rcloneui.com) - The cross-platform desktop GUI for **`rclone`** & S3.
 - [RedisME](https://github.com/hepengju/redis-me) ![v2] - Redis Desktop Manager based on Tauri.
+- [Seaquel](https://seaquel.app/) - SQL GUI with an interactive, visual query builder
 - [SmoothCSV](https://smoothcsv.com/) ![closed source] - Powerful and intuitive tool for editing CSV files with spreadsheet-like interface.
 
 ### Developer tools
