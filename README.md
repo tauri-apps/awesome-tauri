@@ -118,6 +118,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) ![v2] - Handle mobile Share Intents with a FIFO queue
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
+- [tauri-plugin-notifications](https://github.com/Choochmeque/tauri-plugin-notifications) ![v2] - Notifications plugin for desktop and mobile with scheduling, actions, channels, and push support.
 - [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) - Block the power save functionality in the OS.
 - [tauri-plugin-ota](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-ota) - OTA plugin for applications that just want to continuously deliever new JavaScript code based on a manfiest.
 - [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Vue.
