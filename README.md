@@ -107,8 +107,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) - Native macOS drag-out (file promise) support.
 - [tauri-plugin-drpc](https://github.com/smokingplaya/tauri-plugin-drpc) - Discord RPC support.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
-- [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
 - [tauri-plugin-google-auth](https://github.com/Choochmeque/tauri-plugin-google-auth) ![v2] - Google OAuth authentication plugin for mobile and desktop with token refresh and revocation.
+- [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
 - [tauri-plugin-iap](https://github.com/Choochmeque/tauri-plugin-iap) - Plugin that enables full In-App Purchases flow for Android, macOS, iOS and Windows.
 - [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
 - [tauri-plugin-in-app-review](https://github.com/Gbyte-Group/tauri-plugin-in-app-review) ![v2] - In-app app rating prompts using native platform APIs.
