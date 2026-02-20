@@ -287,6 +287,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### File management
 
+- [AeroFTP](https://github.com/axpnet/aeroftp) - Modern multi-protocol file manager supporting FTP, SFTP, WebDAV, S3 and 12 cloud providers, with AI assistant, encrypted vaults, and real-time sync.
 - [CzkawkaTauri](https://github.com/shixinhuang99/czkawka-tauri) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
 - [EzUp](https://github.com/HuakunShen/ezup) - File and Image uploader. Designed for blog writing and note taking.
