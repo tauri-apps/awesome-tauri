@@ -225,6 +225,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [RedisME](https://github.com/hepengju/redis-me) ![v2] - Redis Desktop Manager based on Tauri.
 - [Seaquel](https://seaquel.app/) ![v2] - SQL GUI with an interactive, visual query builder.
 - [SmoothCSV](https://smoothcsv.com/) ![closed source] - Powerful and intuitive tool for editing CSV files with spreadsheet-like interface.
+- [Tabularis](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool.
 
 ### Developer tools
 
