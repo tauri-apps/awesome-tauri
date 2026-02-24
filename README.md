@@ -95,6 +95,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window to panel.
 - [tauri-nspopover-plugin](https://github.com/freethinkel/tauri-nspopover-plugin) - Native NSPopover view for use in the status bar in macOS.
 - [tauri-plugin-android-battery-optimization](https://github.com/NeoHuncho/tauri-plugin-android-battery-optimization) - Check and request battery optimization exemptions on Android.
+- [tauri-plugin-android-fs](https://github.com/aiueo13/tauri-plugin-android-fs) ![v2] - Access the file system on Android.
 - [tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase) - Privacy-first and minimalist analytics for desktop and mobile apps.
 - [tauri-plugin-auth](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-auth) - Auth plugin for iOS that uses ASWebAuthenticationSession for authentication, which allows keychain access
 - [tauri-plugin-blec](https://github.com/MnlPhlp/tauri-plugin-blec) - Cross platform Bluetooth Low Energy client based on `btleplug`.
@@ -111,6 +112,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
 - [tauri-plugin-in-app-review](https://github.com/Gbyte-Group/tauri-plugin-in-app-review) ![v2] - In-app app rating prompts using native platform APIs.
 - [tauri-plugin-ios-photos](https://github.com/Gbyte-Group/tauri-plugin-ios-photos) ![v2] - iOS Photos album and asset management via native APIs.
+- [tauri-plugin-js](https://github.com/HuakunShen/tauri-plugin-js) ![v2] - Give your app Electron-like JS backends with type-safe RPC powered by `kkrpc`. Supports Bun, Node.js, and Deno.
 - [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) - Disable screen timeout on Android and iOS.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macOS system permissions.
 - [tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) ![v2] - Handle mobile Share Intents with a FIFO queue
@@ -176,6 +178,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Curses](https://github.com/mmpneo/curses) - Speech-to-Text and Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
 - [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
+- [Global Hotkey Spotify](https://github.com/Sid-V/global_hotkey_spotify) ![v2] - Control Spotify playback with custom global keyboard shortcuts, no media keys needed.
 - [Hopp](https://github.com/gethopp/hopp) ![v2] - Open source remote pair programming app.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
 - [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings. Local-first and extensible.
@@ -184,6 +187,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
+- [NeoDLP](https://github.com/neosubhamoy/neodlp) ![v2] - Modern video/audio downloader based on `yt-dlp` with browser integration.
 - [PunyTunes](https://github.com/mjoblin/punytunes) ![v1] - Control StreamMagic music streamers from the system tray.
 - [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps with full context. Works with Ollama.
 - [SilentKeys](https://github.com/gptguy/silentkeys) ![v2] - Privacy-first, real-time dictation app built with Tauri, powered by `Parakeet ASR`, `Silero-VAD`, and on-device inference via `ORT`.
@@ -219,6 +223,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [qsv pro](https://qsvpro.dathere.com) ![closed source] ![paid] - Explore spreadsheet data including CSV in interactive data tables with generated metadata and a node editor based on the `qsv` CLI.
 - [Rclone UI](https://rcloneui.com) - The cross-platform desktop GUI for **`rclone`** & S3.
 - [RedisME](https://github.com/hepengju/redis-me) ![v2] - Redis Desktop Manager based on Tauri.
+- [Seaquel](https://seaquel.app/) ![v2] - SQL GUI with an interactive, visual query builder.
 - [SmoothCSV](https://smoothcsv.com/) ![closed source] - Powerful and intuitive tool for editing CSV files with spreadsheet-like interface.
 
 ### Developer tools
@@ -227,6 +232,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [AppHub](https://github.com/francesco-gaglione/AppHub) - Streamlines .appImage package installation, management, and uninstallation through an intuitive Linux desktop interface.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
+- [Beadbox](https://beadbox.app) ![closed source] - Real-time visual dashboard for monitoring AI agent task coordination, dependencies, and handoffs.
 - [Brew Services Manage](https://github.com/persiliao/brew-services-manage)![closed source] macOS Menu Bar application for managing Homebrew services.
 - [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
 - [CrabNebula DevTools](https://crabnebula.dev/devtools) - Visual tool for understanding your app. Optimize the development process with easy debugging and profiling.
@@ -246,6 +252,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Keyring Demo](https://github.com/open-source-cooperative/keyring-rs/wiki/Keyring) ![v2] - GUI for the Rust `keyring` ecosystem
 - [KFtray](https://github.com/hcavarsan/kftray) - A tray application that manages port forwarding in Kubernetes.
 - [Kunobi](https://kunobi.ninja) ![closed source] - Rust Kubernetes management from your desktop, with built-in MCP server.
+- [Kubeli](https://github.com/atilladeniz/Kubeli) ![v2] - Kubernetes management with resource visualization, multi-cluster support, AI chat, and MCP server.
 - [PraccJS](https://github.com/alyalin/PraccJS) - Lets you practice JavaScript with real-time code execution.
 - [PromptLab](https://github.com/haideralsh/prompt-lab) ![v2] - Open-source, cross-platform desktop app for building and providing code-related context to large language models
 - [nda](https://github.com/kuyoonjo/nda) - Network Debug Assistant - UDP, TCP, Websocket, SocketIO, MQTT
@@ -254,12 +261,13 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
-- [TangleGuard](https://docs.tangleguard.com) ![closed source] - A software architecture monitoring tool for Rust applications
+- [TangleGuard](https://tangleguard.com) ![closed source] - A software architecture monitoring tool 
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
 - [verbcode](https://github.com/Verbcode/verbcode-release) ![closed source] - Simplify your localization journey.
 - [Worktree Status](https://github.com/sandercox/worktree-status/) - Get git repo status in your macOS MenuBar or Windows notification area.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
+- [Yume](https://github.com/aofp/yume) ![v2] - Native desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
 
 ### Ebook readers
 
@@ -424,6 +432,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
 - [Runtime](https://github.com/runtime-org/runtime) ![v2] - AI taskmate for web & office tools.
 - [Shell360](https://github.com/nashaofu/shell360) ![v2] - Cross-platform open-source SSH and SFTP client with port forwarding and encrypted data storage, designed for developers and system administrators.
+- [Stik](https://github.com/0xMassi/stik_app) ![v2] - Instant thought capture for macOS with on-device AI semantic search. Hotkey → type → done. 8MB binary, plain markdown files, MIT licensed.
 - [Takma](https://github.com/jam53/Takma) - Kanban-style to-do app, fully offline with support for Markdown, labels, due dates, checklists and deep linking.
 - [Tencent Yuanbao](https://yuanbao.tencent.com/) ![closed source] - Tencent Yuanbao is an AI application based on Tencent Hunyuan large model. It is an all-round assistant that can help you with writing, painting, copywriting, translation, programming, searching, reading and summarizing.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
@@ -452,6 +461,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
 - [Secops](https://github.com/kunalsin9h/secops) - Ubuntu Operating System security made easy.
 - [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
+- [Vault-0](https://github.com/0-Vault/Vault-0) - Encrypted secret vault, real-time agent monitor, and x402 payment wallet for OpenClaw AI agents.
 - [Truthy](https://github.com/fosslife/truthy/) - Modern cross-platform 2FA manager with tons of features and a beautiful UI.
 
 ### Social media
@@ -519,6 +529,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 - [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
+- [WSL UI](https://github.com/octasoft-ltd/wsl-ui) ![v2] - A lightweight desktop application for managing WSL distributions on Windows.
 - [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
 - [Zapicon](https://zapicon.once.work/en) ![closed source] ![paid] ![v2] - Cross-platform icon generator with visual editing, iOS squircle, theme presets, design guidelines, and one-click multi-platform export.
 
