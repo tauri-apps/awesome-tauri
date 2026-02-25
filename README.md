@@ -133,6 +133,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-theme](https://github.com/wyhaya/tauri-plugin-theme) - Dynamically change Tauri App theme.
 - [tauri-plugin-thermal-printer](https://github.com/luis3132/tauri-plugin-thermal-printer) ![v2] - Add support to handle thermal printers.
 - [tauri-plugin-tracing](https://github.com/fltsci/tauri-plugin-tracing) - Structured logging with the tracing crate, featuring JS-to-Rust log bridging, file rotation, and flamegraph profiling.
+- [tauri-plugin-tts](https://github.com/brenogonzaga/tauri-plugin-tts) ![v2] - Cross-platform text-to-speech with voice selection, multi-language support, and playback control.
 - [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) - UDP socket support.
 - [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
@@ -261,7 +262,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
-- [TangleGuard](https://tangleguard.com) ![closed source] - A software architecture monitoring tool 
+- [TangleGuard](https://tangleguard.com) ![closed source] - A software architecture monitoring tool
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
 - [verbcode](https://github.com/Verbcode/verbcode-release) ![closed source] - Simplify your localization journey.
