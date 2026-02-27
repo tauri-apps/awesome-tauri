@@ -234,6 +234,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
 - [Beadbox](https://beadbox.app) ![closed source] - Real-time visual dashboard for monitoring AI agent task coordination, dependencies, and handoffs.
 - [Brew Services Manage](https://github.com/persiliao/brew-services-manage)![closed source] macOS Menu Bar application for managing Homebrew services.
+- [c9watch](https://github.com/minchenlee/c9watch) - macOS menu bar app that monitors all running Claude Code sessions in real-time.
 - [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
 - [CrabNebula DevTools](https://crabnebula.dev/devtools) - Visual tool for understanding your app. Optimize the development process with easy debugging and profiling.
 - [CrabNebula DevTools Premium](https://crabnebula.dev/devtools) ![closed source] ![paid] - Optimize the development process with easy debugging and profiling. Debug the Rust portion of your app with the same comfort as JavaScript!
