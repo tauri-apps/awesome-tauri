@@ -400,6 +400,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Productivity
 
+- [AFK](https://github.com/Harry-kp/afk) - Lightweight break reminder following the 20-20-20 rule with fullscreen reminders, statistics dashboard, and health exercises.
 - [Banban](https://github.com/HubertK05/banban) - Kanban board with tags, categories and markdown support.
 - [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist eye care reminder app to reduce eye strain, featuring customizable timers , full-screen popups, and screen-on-time.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
