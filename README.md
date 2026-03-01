@@ -386,6 +386,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
 - [Fluster](https://flusterapp.com) ![v2] - The one stop, free and open source note taking application for everything a modern academic or STEM professional needs.
 - [Handwriting keyboard](https://github.com/BigIskander/Handwriting-keyboard-for-Linux-tesseract) - Handwriting keyboard for Linux X11 desktop environment.
+- [Inkwell](https://github.com/4worlds4w-svg/inkwell) - Portable, offline-first Markdown editor. Single exe, no install, zero telemetry.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application with built-in ChatGPT extension.
 - [MD Viewer](https://github.com/kuyoonjo/md-viewer) - Cross-platform markdown viewer.
