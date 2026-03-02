@@ -181,7 +181,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Global Hotkey Spotify](https://github.com/Sid-V/global_hotkey_spotify) ![v2] - Control Spotify playback with custom global keyboard shortcuts, no media keys needed.
 - [Hopp](https://github.com/gethopp/hopp) ![v2] - Open source remote pair programming app.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
-- [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings. Local-first and extensible.
+- [Char](https://github.com/fastrepl/char) - AI notepad for meetings with flexible AI stack and on-device storage.
 - [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - GUI client for a Jellyfin server based on Vue.js and Tauri.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
