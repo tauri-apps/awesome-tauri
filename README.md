@@ -228,6 +228,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Developer tools
 
+- [ACP UI](https://github.com/formulahendry/acp-ui) - Modern cross-platform desktop client for the Agent Client Protocol to connect to AI coding agents like GitHub Copilot and Claude Code.
 - [AHQ Store](https://github.com/ahqsoftwares/tauri-ahq-store) - Publish, Update and Install apps to the Windows-specific AHQ Store.
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [AppHub](https://github.com/francesco-gaglione/AppHub) - Streamlines .appImage package installation, management, and uninstallation through an intuitive Linux desktop interface.
