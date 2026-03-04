@@ -288,6 +288,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### File management
 
 - [CzkawkaTauri](https://github.com/shixinhuang99/czkawka-tauri) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [Delta](https://github.com/chuunibian/delta) ![v2] - Disk space analyzer that tracks storage changes over time.
 - [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
 - [EzUp](https://github.com/HuakunShen/ezup) - File and Image uploader. Designed for blog writing and note taking.
 - [MangoFinder](https://github.com/moyangzhan/mango-finder) ![v2] - Search your files using nature language.
