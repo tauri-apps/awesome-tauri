@@ -290,7 +290,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CzkawkaTauri](https://github.com/shixinhuang99/czkawka-tauri) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
 - [EzUp](https://github.com/HuakunShen/ezup) - File and Image uploader. Designed for blog writing and note taking.
-- [MangoDesk](https://github.com/moyangzhan/mango-desk) ![v2] - Search your files using nature language.
+- [MangoFinder](https://github.com/moyangzhan/mango-finder) ![v2] - Search your files using nature language.
 - [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
 - [Payload](https://payload.app/) ![closed source] - Drag & drop file transfers over local networks and online.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A file explorer from the future.
