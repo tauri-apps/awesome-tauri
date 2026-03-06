@@ -268,7 +268,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Worktree Status](https://github.com/sandercox/worktree-status/) - Get git repo status in your macOS MenuBar or Windows notification area.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 - [Yume](https://github.com/aofp/yume) ![v2] - Native desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
-- [Wild Almonds](https://github.com/opeolluwa/almonds) ![v2] – Organize your daily developer workflow with todos, reminders, screen time tracking, notes, reusable code snippets, bookmarks, and more. Group everything into workspaces with optional synchronization to a self-hosted datastore or built-in provisioning.
+- [Wild Almonds](https://github.com/opeolluwa/almonds) ![v2] – Organize your developer workflow with todos, reminders, notes, screen time tracking, snippets, and bookmarks. Group everything into workspaces with optional self-hosted synchronization.
 
 ### Ebook readers
 
