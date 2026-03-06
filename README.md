@@ -261,13 +261,14 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
-- [TangleGuard](https://tangleguard.com) ![closed source] - A software architecture monitoring tool 
+- [TangleGuard](https://tangleguard.com) ![closed source] - A software architecture monitoring tool
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
 - [verbcode](https://github.com/Verbcode/verbcode-release) ![closed source] - Simplify your localization journey.
 - [Worktree Status](https://github.com/sandercox/worktree-status/) - Get git repo status in your macOS MenuBar or Windows notification area.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 - [Yume](https://github.com/aofp/yume) ![v2] - Native desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
+- [Wild Almonds](https://github.com/opeolluwa/almonds) ![v2] – Organize your daily developer workflow with todos, reminders, screen time tracking, notes, reusable code snippets, bookmarks, and more. Group everything into workspaces with optional synchronization to a self-hosted datastore or built-in provisioning.
 
 ### Ebook readers
 
