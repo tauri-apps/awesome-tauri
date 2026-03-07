@@ -205,6 +205,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Jan](https://github.com/menloresearch/jan) ![v2] - Open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.
 - [Nexo](https://github.com/Nexo-Agent/nexo) - All-in-One Workspace AI
+- [OpenCode Desktop](https://github.com/anomalyco/opencode/tree/dev/packages/desktop) ![v2] - Open source desktop app to run and write code with any AI model.
 - [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) ![v2] - Local LLM chat application with privacy-focused AI inference using `candle` and Rust backend.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
