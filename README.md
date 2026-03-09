@@ -422,6 +422,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MacroGraph](https://github.com/Brendonovich/macrograph) - Visual programming for content creators.
 - [MeadTools](https://github.com/ljreaux/meadtools-desktop) - All-in-one Mead, Wine, and Cider making calculator.
 - [Mind Elixir Desktop](https://desktop.mind-elixir.com) ![closed source] ![paid] - AI-powered mind mapping that keeps your ideas organized.
+- [MuttonText](https://github.com/Muminur/MuttonText) - Free, privacy-focused text expansion tool with dynamic variables and sub-50ms latency.
 - [mynd](https://github.com/Gnarus-G/mynd) - Quick and very simple todo-list management app for developers that live mostly in the terminal.
 - [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies meets Pomodoro.
 - [PasteBar](https://github.com/PasteBar/PasteBarApp) - Limitless, Free Clipboard Manager for Mac and Windows. Effortless management of everything you copy and paste.
