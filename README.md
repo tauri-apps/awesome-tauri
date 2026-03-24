@@ -257,6 +257,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [PromptLab](https://github.com/haideralsh/prompt-lab) ![v2] - Open-source, cross-platform desktop app for building and providing code-related context to large language models
 - [nda](https://github.com/kuyoonjo/nda) - Network Debug Assistant - UDP, TCP, Websocket, SocketIO, MQTT
 - [Ngroker](https://ngroker.com) ![closed source] ![paid] - 🆖ngrok gui client.
+- [Shimmy](https://github.com/Jazzcort/shimmy) ![v2] - MCP traffic inspector, a debugging tool for both MCP server developers and AI platform developers.
 - [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source code from an IDL.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
