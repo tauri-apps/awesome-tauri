@@ -1,4 +1,4 @@
-h<!--lint disable awesome-heading awesome-toc awesome-github double-link -->
+<!--lint disable awesome-heading awesome-toc awesome-github double-link -->
 
 <div align="center">
 <h1>Awesome Tauri</h1>
@@ -10,7 +10,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 </div>
-h
 ## Table of Contents
 
 - [Getting Started](#getting-started)
