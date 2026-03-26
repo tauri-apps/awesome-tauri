@@ -1,4 +1,4 @@
-<!--lint disable awesome-heading awesome-toc awesome-github double-link -->
+h<!--lint disable awesome-heading awesome-toc awesome-github double-link -->
 
 <div align="center">
 <h1>Awesome Tauri</h1>
@@ -10,7 +10,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 </div>
-
+h
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -389,7 +389,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Inkwell](https://github.com/4worlds4w-svg/inkwell) - Portable, offline-first Markdown editor. Single exe, no install, zero telemetry.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application with built-in ChatGPT extension.
-- [Markini](https://rustini.com/markini) - Lightweight and modern full featured markdown editor built in Tauri and Rust.
+- [Markini](https://rustini.com/markini) ![closed source] ![paid] - Lightweight and modern full featured markdown editor built in Tauri and Rust.
 - [MD Viewer](https://github.com/kuyoonjo/md-viewer) - Cross-platform markdown viewer.
 - [MDX Notes](https://github.com/maqi1520/mdx-notes/tree/tauri-app) - Versatile WeChat typesetting editor and cross-platform Markdown note-taking software.
 - [Noor](https://noor.to/) ![closed source] - Chat app for high-performance teams. Designed for uninterrupted deep work and rapid collaboration.
