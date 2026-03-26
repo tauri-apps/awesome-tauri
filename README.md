@@ -321,6 +321,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [Deadlock Mod Manager](https://github.com/deadlock-mod-manager/deadlock-mod-manager) ![v2] - Mod manager for the Valve game Deadlock.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
+- [Exalt Account Manager](https://exaltaccountmanager.com) ![v2] - Companion app for Realm of the Mad God that aggregates accounts, items, and characters, providing insights, progress tracking, and automation.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 - [Gale](https://github.com/Kesomannen/gale) - Mod manager for many games on `Thunderstore`.
 - [HQ Launcher](https://github.com/p-asta/hq-launcher) - `lethal company` high quota launcher
