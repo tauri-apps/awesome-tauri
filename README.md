@@ -115,6 +115,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-js](https://github.com/HuakunShen/tauri-plugin-js) ![v2] - Give your app Electron-like JS backends with type-safe RPC powered by `kkrpc`. Supports Bun, Node.js, and Deno.
 - [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) - Disable screen timeout on Android and iOS.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Support for checking and requesting macOS system permissions.
+- [tauri-plugin-mcp-server](https://gitlab.com/yuvddd/tauri-plugin-mcp-server) - Expose Rust functions as [MCP](https://modelcontextprotocol.io) tools and connect to external MCP servers over HTTP or stdio.
 - [tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) ![v2] - Handle mobile Share Intents with a FIFO queue
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
