@@ -13,27 +13,28 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
-  - [Guides & Tutorials](#guides--tutorials)
+  - [Guides \& Tutorials](#guides--tutorials)
   - [Templates](#templates)
 - [Development](#development)
   - [Plugins](#plugins)
   - [Integrations](#integrations)
   - [Articles](#articles)
 - [Applications](#applications)
-  - [Audio & Video](#audio--video)
+  - [Audio \& Video](#audio--video)
   - [ChatGPT clients](#chatgpt-clients)
   - [Data](#data)
   - [Developer tools](#developer-tools)
   - [Ebook readers](#ebook-readers)
-  - [Email & Feeds](#email--feeds)
+  - [Email \& Feeds](#email--feeds)
   - [File management](#file-management)
   - [Finance](#finance)
   - [Gaming](#gaming)
   - [Information](#information)
   - [Learning](#learning)
   - [Networking](#networking)
-  - [Office & Writing](#office--writing)
+  - [Office \& Writing](#office--writing)
   - [Productivity](#productivity)
   - [Search](#search)
   - [Security](#security)
@@ -383,6 +384,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
 - [Blinko](https://github.com/blinkospace/blinko) ![v2] - Self-hosted personal AI note tool prioritizing privacy.
+- [ENote](https://github.com/easynet-cn/enote) - A cross-platform desktop note-taking application built with Tauri, featuring a modern user interface using Vue, TypeScript, and Rust for high performance and security.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
 - [Fluster](https://flusterapp.com) ![v2] - The one stop, free and open source note taking application for everything a modern academic or STEM professional needs.
 - [Handwriting keyboard](https://github.com/BigIskander/Handwriting-keyboard-for-Linux-tesseract) - Handwriting keyboard for Linux X11 desktop environment.
