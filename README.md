@@ -402,6 +402,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Productivity
 
 - [Banban](https://github.com/HubertK05/banban) - Kanban board with tags, categories and markdown support.
+- [Beetroot](https://github.com/mnardit/beetroot-releases) ![closed source] ![v2] - Clipboard manager for Windows with AI-powered text transforms, OCR, fuzzy search, and 26 languages.
 - [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist eye care reminder app to reduce eye strain, featuring customizable timers , full-screen popups, and screen-on-time.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
 - [Clippy](https://github.com/0-don/clippy) - Clipboard manager with sync & encryption.
