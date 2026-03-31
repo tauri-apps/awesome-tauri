@@ -430,6 +430,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pomodoro](https://github.com/g07cha/pomodoro) - Time management tool based on Pomodoro technique.
 - [Progressive](https://github.com/h8moss/progressive)![v2] - Todo app with progress tracking. Supports task weighting, percentage completion, and parent/child tasks.
 - [Qopy](https://github.com/0PandaDEV/Qopy) - The fixed Clipboard Manager for Windows and Mac.
+- [Raincast](https://github.com/tihiera/raincast) ![v2] - AI-powered Desktop App generator
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
 - [Runtime](https://github.com/runtime-org/runtime) ![v2] - AI taskmate for web & office tools.
 - [Shell360](https://github.com/nashaofu/shell360) ![v2] - Cross-platform open-source SSH and SFTP client with port forwarding and encrypted data storage, designed for developers and system administrators.
