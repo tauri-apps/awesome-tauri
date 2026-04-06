@@ -435,6 +435,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Shell360](https://github.com/nashaofu/shell360) ![v2] - Cross-platform open-source SSH and SFTP client with port forwarding and encrypted data storage, designed for developers and system administrators.
 - [Stik](https://github.com/0xMassi/stik_app) ![v2] - Instant thought capture for macOS with on-device AI semantic search. Hotkey → type → done. 8MB binary, plain markdown files, MIT licensed.
 - [Takma](https://github.com/jam53/Takma) - Kanban-style to-do app, fully offline with support for Markdown, labels, due dates, checklists and deep linking.
+- [Typer](https://typer.space) ![closed source] ![v2] - Free, private AI chat for macOS. Runs models on Apple Silicon, no cloud, no account, no internet needed.
 - [Tencent Yuanbao](https://yuanbao.tencent.com/) ![closed source] - Tencent Yuanbao is an AI application based on Tencent Hunyuan large model. It is an all-round assistant that can help you with writing, painting, copywriting, translation, programming, searching, reading and summarizing.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
 - [Tranzit](https://github.com/kr5hn4/tranzit) ![v2] - Cross-platform app to securely share files with nearby devices over your local network.
