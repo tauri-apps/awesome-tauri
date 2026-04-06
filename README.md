@@ -229,6 +229,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Developer tools
 
 - [AHQ Store](https://github.com/ahqsoftwares/tauri-ahq-store) - Publish, Update and Install apps to the Windows-specific AHQ Store.
+- [Anima](https://github.com/btangonan/anima) - Native macOS companion for Claude Code. Per-project ASCII familiars, token economy, cross-session watcher. Tauri v2 + Rust backend, 4MB binary.
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [AppHub](https://github.com/francesco-gaglione/AppHub) - Streamlines .appImage package installation, management, and uninstallation through an intuitive Linux desktop interface.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
