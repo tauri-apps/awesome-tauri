@@ -431,6 +431,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Progressive](https://github.com/h8moss/progressive)![v2] - Todo app with progress tracking. Supports task weighting, percentage completion, and parent/child tasks.
 - [Qopy](https://github.com/0PandaDEV/Qopy) - The fixed Clipboard Manager for Windows and Mac.
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 - [Runtime](https://github.com/runtime-org/runtime) ![v2] - AI taskmate for web & office tools.
 - [Shell360](https://github.com/nashaofu/shell360) ![v2] - Cross-platform open-source SSH and SFTP client with port forwarding and encrypted data storage, designed for developers and system administrators.
 - [Stik](https://github.com/0xMassi/stik_app) ![v2] - Instant thought capture for macOS with on-device AI semantic search. Hotkey → type → done. 8MB binary, plain markdown files, MIT licensed.
