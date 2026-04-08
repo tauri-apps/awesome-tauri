@@ -492,6 +492,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Get Unique ID](https://github.com/hiql/get-unique-id-app) - Generates unique IDs for you to use in debugging, development, or anywhere else you may need a unique ID.
 - [Happy](https://github.com/thewh1teagle/happy) - Control HappyLight compatible LED strip with ease.
 - [Imagenie](https://github.com/zhongweili/imagenie) - AI-powered desktop app for stunning image transformations
+- [Kabegame](https://github.com/kabegame/kabegame) ![v2] - Anime wallpaper crawler and manager with extensible plugin sources and slideshow rotation.
 - [KoS - Key on Screen](https://github.com/dubisdev/key-on-screen) - Show in your screen the keys you are pressing.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
 - [Lingo](https://github.com/thewh1teagle/lingo) - Translate offline in every language on every platform.
