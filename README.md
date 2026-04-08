@@ -13,27 +13,28 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
-  - [Guides & Tutorials](#guides--tutorials)
+  - [Guides \& Tutorials](#guides--tutorials)
   - [Templates](#templates)
 - [Development](#development)
   - [Plugins](#plugins)
   - [Integrations](#integrations)
   - [Articles](#articles)
 - [Applications](#applications)
-  - [Audio & Video](#audio--video)
+  - [Audio \& Video](#audio--video)
   - [ChatGPT clients](#chatgpt-clients)
   - [Data](#data)
   - [Developer tools](#developer-tools)
   - [Ebook readers](#ebook-readers)
-  - [Email & Feeds](#email--feeds)
+  - [Email \& Feeds](#email--feeds)
   - [File management](#file-management)
   - [Finance](#finance)
   - [Gaming](#gaming)
   - [Information](#information)
   - [Learning](#learning)
   - [Networking](#networking)
-  - [Office & Writing](#office--writing)
+  - [Office \& Writing](#office--writing)
   - [Productivity](#productivity)
   - [Search](#search)
   - [Security](#security)
@@ -405,6 +406,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist eye care reminder app to reduce eye strain, featuring customizable timers , full-screen popups, and screen-on-time.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
 - [Clippy](https://github.com/0-don/clippy) - Clipboard manager with sync & encryption.
+- [CodeWalkers](https://github.com/you-want/CodeWalkers) ![v2] - Desktop virtual companion assistant with a built-in AI terminal.
 - [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for Windows and macOS.
 - [EcoPaste](https://github.com/ayangweb/EcoPaste/tree/master) - Powerful open-source clipboard manager for macOS, Windows and Linux(x11) platforms.
 - [Fairies](https://fairies.ai) ![closed source] ![paid] - Powerful, general-purpose AI agent for MacOS, Windows, Mobile, and Web.
