@@ -188,6 +188,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [NeoDLP](https://github.com/neosubhamoy/neodlp) ![v2] - Modern video/audio downloader based on `yt-dlp` with browser integration.
+- [OratioText](https://github.com/kylethedeveloper/OratioText) ![v2] - Cross-platform desktop app for converting speech-to-text using OpenAI's Whisper model locally.
 - [PunyTunes](https://github.com/mjoblin/punytunes) ![v1] - Control StreamMagic music streamers from the system tray.
 - [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps with full context. Works with Ollama.
 - [SilentKeys](https://github.com/gptguy/silentkeys) ![v2] - Privacy-first, real-time dictation app built with Tauri, powered by `Parakeet ASR`, `Silero-VAD`, and on-device inference via `ORT`.
