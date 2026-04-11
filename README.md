@@ -529,6 +529,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for Transmission torrent daemon.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 - [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
+- [VIBE OS](https://github.com/TPal126/vibe-os) ![v2] - Reasoning-first AI coding IDE running the Claude Agent SDK
+  with knowledge graph context injection and custom MCP tools.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
 - [WSL UI](https://github.com/octasoft-ltd/wsl-ui) ![v2] - A lightweight desktop application for managing WSL distributions on Windows.
 - [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
