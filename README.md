@@ -251,6 +251,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Keadex Mina](https://github.com/keadex/keadex) - Open Source, serverless IDE to easily code and organize at a scale C4 model diagrams.
 - [Keyring Demo](https://github.com/open-source-cooperative/keyring-rs/wiki/Keyring) ![v2] - GUI for the Rust `keyring` ecosystem
 - [KFtray](https://github.com/hcavarsan/kftray) - A tray application that manages port forwarding in Kubernetes.
+- [Korum](https://github.com/Quzr27/Korum) - Infinite canvas terminal workspace for devs running multiple processes, agents, and workflows.
 - [Kunobi](https://kunobi.ninja) ![closed source] - Rust Kubernetes management from your desktop, with built-in MCP server.
 - [Kubeli](https://github.com/atilladeniz/Kubeli) ![v2] - Kubernetes management with resource visualization, multi-cluster support, AI chat, and MCP server.
 - [PraccJS](https://github.com/alyalin/PraccJS) - Lets you practice JavaScript with real-time code execution.
