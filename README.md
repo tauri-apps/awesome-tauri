@@ -198,6 +198,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
 - [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
 
+
 ### ChatGPT clients
 
 - [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop application.
@@ -235,6 +236,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Beadbox](https://beadbox.app) ![closed source] - Real-time visual dashboard for monitoring AI agent task coordination, dependencies, and handoffs.
 - [Brew Services Manage](https://github.com/persiliao/brew-services-manage)![closed source] macOS Menu Bar application for managing Homebrew services.
 - [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
+- [Coffee CLI](https://github.com/edison7009/Coffee-CLI) - Multi-tab desktop wrapper for Claude Code and other AI coding CLIs with floating compose window and screenshot paste.
 - [CrabNebula DevTools](https://crabnebula.dev/devtools) - Visual tool for understanding your app. Optimize the development process with easy debugging and profiling.
 - [CrabNebula DevTools Premium](https://crabnebula.dev/devtools) ![closed source] ![paid] - Optimize the development process with easy debugging and profiling. Debug the Rust portion of your app with the same comfort as JavaScript!
 - [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for developers, like generators, viewers, converters, etc.
