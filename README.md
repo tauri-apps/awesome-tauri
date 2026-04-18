@@ -370,6 +370,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server for RustDesk, an open source remote desktop.
 - [RustDuck](https://github.com/thewh1teagle/RustDuck) - Cross platform dynamic DNS updater for duckdns.org.
 - [r-shell](https://github.com/GOODBOY008/r-shell) ![v2] - Modern SSH client featuring multi-session management, integrated file browser, system monitoring, and more.
+- [RelayCraft](https://github.com/relaycraft/relaycraft) ![v2] - AI-native traffic debugging tool for modern development workflows.
 - [T-Shell](https://github.com/TheBlindM/T-Shell) - An open-source SSH, SFTP intelligent command line terminal application.
 - [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
 - [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for Linux, macOS, and Windows.
