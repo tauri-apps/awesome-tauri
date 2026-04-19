@@ -180,7 +180,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
 - [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
 - [Global Hotkey Spotify](https://github.com/Sid-V/global_hotkey_spotify) ![v2] - Control Spotify playback with custom global keyboard shortcuts, no media keys needed.
-- [HalalDL](https://github.com/Asdmir786/HalalDL) - Windows-first, local-first GUI for `yt-dlp` with presets, visible raw logs, Full/Lite installers, and WinGet support.
+- [HalalDL](https://github.com/Asdmir786/HalalDL) ![v2] - Windows-first, local-first GUI for `yt-dlp` with presets, raw logs, and Full/Lite installers.
 - [Hopp](https://github.com/gethopp/hopp) ![v2] - Open source remote pair programming app.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
 - [Char](https://github.com/fastrepl/char) - AI notepad for meetings with flexible AI stack and on-device storage.
