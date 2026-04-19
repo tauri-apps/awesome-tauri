@@ -244,6 +244,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
 - [GitButler](https://gitbutler.com) - GitButler is a new Source Code Management system.
+- [GitWand](https://github.com/devlint/GitWand) - Desktop Git client with automatic conflict resolution, merge preview, inline code review, and AI-assisted workflow.
 - [Github Security Alerts](https://github.com/stephanebouget/github-security-alerts) ![v2] - Monitors security vulnerabilities across your GitHub repositories in real-time.
 - [GitLight](https://github.com/colinlienard/gitlight) - GitHub & GitLab notifications on your desktop.
 - [JET Pilot](https://www.jet-pilot.app) - Kubernetes desktop client that focuses on less clutter, speed and good looks.
