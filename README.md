@@ -373,6 +373,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [T-Shell](https://github.com/TheBlindM/T-Shell) - An open-source SSH, SFTP intelligent command line terminal application.
 - [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
 - [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for Linux, macOS, and Windows.
+- [Voidly Probe](https://voidly.ai/downloads) ![closed source] ![v2] - Contribute measurements to a global censorship probe network testing domain accessibility every five minutes across 37+ nodes.
 - [Watcher](https://github.com/windht/watcher) - API manager built for a easier use to manage and collaborate.
 - [Wirefish](https://github.com/stefanodevenuto/wirefish) - Cross-platform packet sniffer and analyzer.
 
