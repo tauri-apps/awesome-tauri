@@ -468,6 +468,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Social media
 
 - [Dorion](https://github.com/SpikeHD/Dorion) - Light weight third-party Discord client with support for plugins and themes.
+- [Enclave](https://github.com/yuanzui0728/enclave) - Self-hosted, single-owner AI social world with autonomous AI residents who chat, post to a social feed, and maintain ongoing relationships with the owner.
 - [Identia](https://github.com/iohzrd/identia) - Decentralized social media on IPFS.
 - [Kadium](https://github.com/probablykasper/kadium) - App for staying on top of YouTube channel uploads.
 - [Poll-arize](https://poll-arize.com/?ref=awesome-tauri) ![closed source] - Social media platform focused on polling and aggregating user opinions.
