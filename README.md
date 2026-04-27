@@ -509,6 +509,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
 - [Pot](https://github.com/pot-app/pot-desktop) - Cross-platform Translation Software.
+- [RAMForge](https://aeb-devlabs.com/ramforge/) ![v2] ![closed source] ![paid] - Intelligent Windows memory optimizer with adaptive compression and ML-powered page management.
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) ![v2] - RAW image editor delivering lightweight high-performance experience across Windows, macOS, and Linux.
 - [RMBG](https://github.com/zhbhun/rmbg) - Cross-platform image background removal tool.
 - [Recordscript](https://github.com/Recordscript/recordscript) - Record & transcribe your online meetings, or subtitle your files. Cross-platform local-only screen recorder & subtitle generator.
