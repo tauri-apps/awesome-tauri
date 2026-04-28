@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tauri-apps-awesome-tauri-badge.png)](https://mseep.ai/app/tauri-apps-awesome-tauri)
+
 <!--lint disable awesome-heading awesome-toc awesome-github double-link -->
 
 <div align="center">
