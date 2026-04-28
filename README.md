@@ -243,6 +243,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Docker DB Manager](https://github.com/AbianS/docker-db-manager) ![v2] - Desktop app for managing Docker database containers with visual interface, data persistence, and one-click connection strings.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
+- [Etch](https://github.com/Joselay/etch) ![v2] - Fast, keyboard-first Git GUI for macOS, Windows and Linux with multi-repo tabs, lane-colored commit graph, and word-level diffs.
 - [GitButler](https://gitbutler.com) - GitButler is a new Source Code Management system.
 - [Github Security Alerts](https://github.com/stephanebouget/github-security-alerts) ![v2] - Monitors security vulnerabilities across your GitHub repositories in real-time.
 - [GitLight](https://github.com/colinlienard/gitlight) - GitHub & GitLab notifications on your desktop.
