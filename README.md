@@ -381,6 +381,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Astro Editor](https://github.com/dannysmith/astro-editor) - Clean markdown editor for Astro content collections with frontmatter editing, component insertion, and writing-focused interface.
 - [fylepad](https://github.com/imrofayel/fylepad/) - Notepad with powerful rich-text editing, built with Vue & Tauri.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
+- [Binderus](https://github.com/binderus/binderus) - Local-first note-taking app with Notion-style WYSIWYG editing for plain text and Markdown files. Plugin system with AI/LLM plugin, custom themes, and optional encrypted vaults. No cloud, no account, no subscription. ~9 MB, Tauri + Rust, Win/Mac/Linux.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
 - [Blinko](https://github.com/blinkospace/blinko) ![v2] - Self-hosted personal AI note tool prioritizing privacy.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
