@@ -304,6 +304,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [CryptoBal](https://github.com/Rabbit-Company/CryptoBal-Desktop) - Desktop application for monitoring your crypto assets.
 - [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) ![v2] - Advanced financial intelligence terminal with CFA-level analytics, AI agents, and 100+ data connectors.
 - [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
+- [KakeiBonByRust](https://github.com/BonoJovi/KakeiBonByRust) ![v2] - Bilingual (Japanese/English) household budget app with multi-rate tax handling, multi-user support, and accessibility features for low-vision users.
 - [Mahalli](https://github.com/AbdelilahOu/Mahalli-tauri) - Local first inventory and invoicing management app.
 - [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
 - [Spent](https://github.com/FrogSnot/Spent) ![v2] - Minimalist cross-platform personal finance tracker.
