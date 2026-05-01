@@ -237,6 +237,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
 - [CrabNebula DevTools](https://crabnebula.dev/devtools) - Visual tool for understanding your app. Optimize the development process with easy debugging and profiling.
 - [CrabNebula DevTools Premium](https://crabnebula.dev/devtools) ![closed source] ![paid] - Optimize the development process with easy debugging and profiling. Debug the Rust portion of your app with the same comfort as JavaScript!
+- [Deepend](https://github.com/deepen-stha/deepend-releases) - Collection of 43 offline-first developer utilities — JSON, PDF, text, API, and image tools, all in one app.
 - [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for developers, like generators, viewers, converters, etc.
 - [DevClean](https://github.com/HuakunShen/devclean) - Clean up development environment with ease.
 - [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities.
