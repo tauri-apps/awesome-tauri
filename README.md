@@ -467,6 +467,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Social media
 
+- [balchat](https://github.com/xandru582/balchat) ![v2] - End-to-end-encrypted (MLS / RFC 9420) 1:1 and group messenger over Tor onion services. Pure-Rust Tor stack via arti-client. Single Svelte 5 codebase auto-selects desktop layout (vibrancy, traffic-light overlay) or Android stack-router by viewport. No phone, no email, no central server.
 - [Dorion](https://github.com/SpikeHD/Dorion) - Light weight third-party Discord client with support for plugins and themes.
 - [Identia](https://github.com/iohzrd/identia) - Decentralized social media on IPFS.
 - [Kadium](https://github.com/probablykasper/kadium) - App for staying on top of YouTube channel uploads.
