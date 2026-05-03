@@ -394,6 +394,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Noor](https://noor.to/) ![closed source] - Chat app for high-performance teams. Designed for uninterrupted deep work and rapid collaboration.
 - [Notpad](https://github.com/Muhammed-Rahif/Notpad) - Cross-platform rich text editor with a notepad interface, enhanced with advanced features beyond standard notepad.
 - [Parchment](https://github.com/tywil04/parchment) - Simple local-only cross-platform text editor with basic markdown support.
+- [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad for Linux with Markdown preview, real PDF export via Typst, OCR via Tesseract, and automatic version history. Available on AUR.
 - [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
 - [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
 - [HuLa](https://github.com/HuLaSpark/HuLa) - HuLa is a desktop instant messaging app built on Tauri+Vue3 (not just instant messaging).
