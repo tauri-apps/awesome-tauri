@@ -208,6 +208,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) ![v2] - Local LLM chat application with privacy-focused AI inference using `candle` and Rust backend.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
+- [Socratic Council](https://github.com/richer-richard/socratic-council) ![v2] - Local-first multi-agent Socratic seminar with 16 AI agents from 8 LLM providers, argument mapping, and encrypted vault.
 - [Yack](https://github.com/rajatkulkarni95/yack) - Spotlight like app for interfacing with GPT APIs.
 
 ### Data
