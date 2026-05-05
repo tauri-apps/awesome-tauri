@@ -383,6 +383,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
 - [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
 - [Blinko](https://github.com/blinkospace/blinko) ![v2] - Self-hosted personal AI note tool prioritizing privacy.
+- [DocsReader](https://github.com/anbturki/docsreader) ![v2] - Markdown reader that organizes any folder of `.md` files into workspaces with Tree, Recent, Tags, and Pinned lenses.
 - [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
 - [Fluster](https://flusterapp.com) ![v2] - The one stop, free and open source note taking application for everything a modern academic or STEM professional needs.
 - [Handwriting keyboard](https://github.com/BigIskander/Handwriting-keyboard-for-Linux-tesseract) - Handwriting keyboard for Linux X11 desktop environment.
