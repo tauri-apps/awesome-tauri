@@ -375,6 +375,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for Linux, macOS, and Windows.
 - [Watcher](https://github.com/windht/watcher) - API manager built for a easier use to manage and collaborate.
 - [Wirefish](https://github.com/stefanodevenuto/wirefish) - Cross-platform packet sniffer and analyzer.
+- [Zephyr]![v2](https://img.shields.io/badge/tauri-v2-blue) - Cross-platform Mihomo GUI client with TUN mode, subscription management and rule-based traffic filtering.
 
 ### Office & Writing
 
