@@ -328,6 +328,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered PC ports of the Jak and Daxter series.
 - [Outer Wilds Mod Manager](https://github.com/ow-mods/ow-mod-man) - Cross-platform mod manager for `Outer Wilds`.
 - [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
+- [Quadrant](https://github.com/mrquantumoff/quadrant/) - Tool for managing Minecraft mods and modpacks with the ability to use Modrinth and CurseForge.
 - [Rai Pal](https://github.com/raicuparta/rai-pal) - Manager for universal mods such as `UEVR` and `UUVR`.
 - [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
 - [Retrom](https://github.com/JMBeresford/retrom) - Private cloud game library distribution server + frontend/launcher.
@@ -338,7 +339,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
 - [Tauri Chess](https://github.com/jamessizeland/tauri-chess) - Implementation of Chess, logic in Rust and visualization in React.
 - [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
-- [Quadrant](https://github.com/mrquantumoff/quadrant/) - Tool for managing Minecraft mods and modpacks with the ability to use Modrinth and CurseForge.
+- [Zephyr](https://github.com/Prismo-Studio/Zephyr) ![v2] - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support.
 
 ### Information
 
