@@ -414,6 +414,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 - [Google Task Desktop Client](https://github.com/codad5/google-task-tauri) - Google Task Desktop Client
 - [HackDesk](https://github.com/EastSun5566/hackdesk) - Hackable HackMD desktop application.
+- [Hindsight](https://github.com/Tomotsugu-dev/Hindsight) ![v2] - Local-first desktop activity tracker with an hourly Screen-Time-style timeline and offline AI daily summaries via llama.cpp.
 - [iDO](https://github.com/UbiquantAI/IDO) ![v2] - AI-powered desktop productivity tool for you to manage tasks, ideas, and technical knowledge.
 - [jasnoo](https://jasnoo.com) ![closed source] ![paid] - Desktop software designed to help you solve problems, prioritise daily actions and focus
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
