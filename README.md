@@ -146,6 +146,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
 - [Deno in Tauri](https://github.com/typed-sigterm/deno-in-tauri) - Run JS/TS code with Deno Core Engine, in Tauri apps.
 - [faynosync-update-server](https://github.com/ku9nov/faynoSync) - Self-hosted Dynamic Update Server with statistics, supporting Tauri and other platforms. Flexible features for seamless app updates and insights.
+- [Ikenga iyke (MCP control bridge)](https://github.com/Royalti-io/ikenga-pkg-mcp-iyke) ![v2] - Drive a running Tauri 2 app from any MCP client (Claude, Cursor, etc.) — read DOM, click, type, navigate, screenshot.
 - [kkrpc](https://github.com/kunkunsh/kkrpc) - Seamless RPC communication between a Tauri app and node/deno/bun processes, just like Electron.
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
