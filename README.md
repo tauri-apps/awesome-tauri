@@ -388,6 +388,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Handwriting keyboard](https://github.com/BigIskander/Handwriting-keyboard-for-Linux-tesseract) - Handwriting keyboard for Linux X11 desktop environment.
 - [Inkwell](https://github.com/4worlds4w-svg/inkwell) - Portable, offline-first Markdown editor. Single exe, no install, zero telemetry.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
+- [Kuku](https://github.com/kuku-mom/kuku) ![v2] - Local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and reviewable diffs.
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application with built-in ChatGPT extension.
 - [MD Viewer](https://github.com/kuyoonjo/md-viewer) - Cross-platform markdown viewer.
 - [MDX Notes](https://github.com/maqi1520/mdx-notes/tree/tauri-app) - Versatile WeChat typesetting editor and cross-platform Markdown note-taking software.
