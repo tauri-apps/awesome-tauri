@@ -215,6 +215,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Annimate](https://github.com/matthias-stemmler/annimate) - Convenient export of query results from the ANNIS system for linguistic corpora.
 - [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) - The Best Surprise Redis Desktop Client.
 - [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
+- [DBX](https://github.com/t8y2/dbx) ![v2] - Database workspace with SQL editing, data grids, schema tools, AI assistance and self-hosted access.
 - [DocKit](https://github.com/geek-fun/dockit) - GUI client for NoSQL databases such as elasticsearch, OpenSearch, etc.
 - [Duckling](https://github.com/l1xnan/duckling) - Lightweight and fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
 - [Elasticvue](https://elasticvue.com/) - Free and open-source Elasticsearch GUI
