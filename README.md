@@ -516,6 +516,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
 - [SlimeVR Server](https://github.com/SlimeVR/SlimeVR-Server) - Server app for SlimeVR, facilitating full-body tracking in virtual reality.
+- [SmoothScroll](https://github.com/quangtruong2003/SmoothScroll) - Smooth mouse-wheel scrolling for Windows and macOS. Native low-level input, frame-perfect easing, per-app exclusion.
 - [Sofast](https://sofast.fun) ![closed source] - A cross-platform Raycast-like app.
 - [SoulFire](https://github.com/AlexProgrammerDE/SoulFireClient) - Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
