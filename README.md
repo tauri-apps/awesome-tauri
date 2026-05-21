@@ -283,6 +283,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [BULKUS](https://github.com/KM8Oz/BULKUS) - Email validation software.
 - [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
 - [mdsilo Desktop](https://github.com/mdSilo/mdSilo-app) - Feed reader and knowledge base.
+- [Papr](https://github.com/l0ng-ai/papr) - Local-first desktop RSS reader with full-text extraction, FreshRSS sync, and optional AI summaries using your own API key.
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Internet Reader driven by AI. Supports fetching of search engine information and RSS.
 
 ### File management
