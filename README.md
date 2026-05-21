@@ -390,6 +390,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application with built-in ChatGPT extension.
 - [MD Viewer](https://github.com/kuyoonjo/md-viewer) - Cross-platform markdown viewer.
+- [MDHero](https://github.com/vaibhavuk-dev/mdhero) ![v2] - Reading-first native Markdown viewer/editor for macOS and Windows. LLM paste mode, KaTeX, Mermaid, Vim keybindings, ~8MB.
 - [MDX Notes](https://github.com/maqi1520/mdx-notes/tree/tauri-app) - Versatile WeChat typesetting editor and cross-platform Markdown note-taking software.
 - [Noor](https://noor.to/) ![closed source] - Chat app for high-performance teams. Designed for uninterrupted deep work and rapid collaboration.
 - [Notpad](https://github.com/Muhammed-Rahif/Notpad) - Cross-platform rich text editor with a notepad interface, enhanced with advanced features beyond standard notepad.
