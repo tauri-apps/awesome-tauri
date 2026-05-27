@@ -310,6 +310,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Upcount](https://www.upcount.app/) ![v2] - Free invoicing and time tracking application for freelancers and small businesses.
 - [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source US tax filings.
 - [Wealthfolio](https://wealthfolio.app) - Simple, open-source desktop portfolio tracker that keeps your financial data safe on your computer.
+- [ShowMe](https://github.com/nazmiefearmutcu/showMe) - Native macOS market cockpit with 12-timeframe consensus scan over 3370 symbols (crypto + equity + ETF + FX + commodity + bond), 23-indicator engine, signed updater. Tauri shell + Python sidecar.
+- [catchem](https://github.com/nazmiefearmutcu/catchem) - Local-first finance-relevance sidecar that turns web text captures into multi-labeled FinancialImpactRecord events with an analyst UI. FastAPI engine + Tauri 2 shell.
 
 ### Gaming
 
