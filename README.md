@@ -59,6 +59,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [nuxtor](https://github.com/NicolaSpadari/nuxtor) - Nuxt 4 + Tauri 2 + TailwindCSS v4, a starter template for building desktop apps.
 - [rust-full-stack-with-authentication-template](https://github.com/sollambert/rust-full-stack-with-auth-template) - Yew, Tailwind CSS, Tauri, Axum, Sqlx - Starter template for full stack applications with built-in authentication.
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
+- [tauri-app-starter-kit](https://github.com/ItsCodejac/tauri-app-starter-kit) ![v2] - Framework-agnostic v2 starter with native menus, settings, editable shortcut registry, autosave/crash recovery, tray, auto-updater, single-instance lock, window-state persistence, and accessibility.
 - [tauri-astro-template](https://github.com/HuakunShen/tauri-astro-template) - Astro template
 - [tauri-bishop-template](https://github.com/RoseBlume/Bishop-Tauri-Template) - Minimized vanilla template designed for highschool students.
 - [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
@@ -94,6 +95,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system that leverages WebSocket.
 - [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window to panel.
 - [tauri-nspopover-plugin](https://github.com/freethinkel/tauri-nspopover-plugin) - Native NSPopover view for use in the status bar in macOS.
+- [tauri-plugin-ai](https://github.com/ItsCodejac/tauri-plugin-ai) ![v2] - Unified API for cloud LLMs (Anthropic, OpenAI, Ollama) and local inference via ONNX Runtime. Streaming, tool use, in-memory API keys.
 - [tauri-plugin-android-battery-optimization](https://github.com/NeoHuncho/tauri-plugin-android-battery-optimization) - Check and request battery optimization exemptions on Android.
 - [tauri-plugin-android-fs](https://github.com/aiueo13/tauri-plugin-android-fs) ![v2] - Access the file system on Android.
 - [tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase) - Privacy-first and minimalist analytics for desktop and mobile apps.
@@ -118,6 +120,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) ![v2] - Handle mobile Share Intents with a FIFO queue
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
+- [tauri-plugin-normalize](https://github.com/ItsCodejac/tauri-plugin-normalize) ![v2] - CSS normalization between WebKit and Chromium webviews. Fixes engine differences without imposing design opinions.
 - [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) - Block the power save functionality in the OS.
 - [tauri-plugin-ota](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-ota) - OTA plugin for applications that just want to continuously deliever new JavaScript code based on a manfiest.
 - [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Vue.
