@@ -120,6 +120,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
 - [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) - Block the power save functionality in the OS.
 - [tauri-plugin-ota](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-ota) - OTA plugin for applications that just want to continuously deliever new JavaScript code based on a manfiest.
+- [tauri-plugin-ota-self-update](https://github.com/s00d/tauri-plugin-ota-self-update) ![v2] - Self-hosted OTA web asset updates with signed bundles, release channels, and rollback controls.
 - [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Vue.
 - [tauri-plugin-prevent-default](https://github.com/ferreira-tb/tauri-plugin-prevent-default) - Disable default browser shortcuts.
 - [tauri-plugin-python](https://github.com/marcomq/tauri-plugin-python/) - Use python in your backend.
