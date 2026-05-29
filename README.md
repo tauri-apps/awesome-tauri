@@ -371,6 +371,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [RustDuck](https://github.com/thewh1teagle/RustDuck) - Cross platform dynamic DNS updater for duckdns.org.
 - [r-shell](https://github.com/GOODBOY008/r-shell) ![v2] - Modern SSH client featuring multi-session management, integrated file browser, system monitoring, and more.
 - [T-Shell](https://github.com/TheBlindM/T-Shell) - An open-source SSH, SFTP intelligent command line terminal application.
+- [trafmon](https://github.com/Schweik7/trafmon) ![v2] - Tiny frameless always-on-top widget showing live network speed, with per-process speed on hover.
 - [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
 - [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for Linux, macOS, and Windows.
 - [Watcher](https://github.com/windht/watcher) - API manager built for a easier use to manage and collaborate.
