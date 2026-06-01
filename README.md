@@ -503,6 +503,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
 - [Mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller.
 - [NeoHtop](https://github.com/Abdenasser/neohtop) - Cross platform system monitoring tool with a model look and feel.
+- [ntfy App](https://github.com/rubix-studios-pty-ltd/ntfy-app) - Cross platform ntfy desktop client with system level automation platform.
 - [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
 - [Pachtop](https://pachtop.com/) - Modern Cross-platform system monitor 🚀
 - [Passwords](https://github.com/hiql/passwords-app) - A random password generator.
