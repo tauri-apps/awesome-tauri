@@ -393,6 +393,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MD Viewer](https://github.com/kuyoonjo/md-viewer) - Cross-platform markdown viewer.
 - [MDX Notes](https://github.com/maqi1520/mdx-notes/tree/tauri-app) - Versatile WeChat typesetting editor and cross-platform Markdown note-taking software.
 - [Noor](https://noor.to/) ![closed source] - Chat app for high-performance teams. Designed for uninterrupted deep work and rapid collaboration.
+- [Noteriv](https://github.com/thejacedev/Noteriv) ![v2] - Markdown note-taking app with wiki-links, graph view, kanban, plugins, themes, and Git/WebDAV sync.
 - [Notpad](https://github.com/Muhammed-Rahif/Notpad) - Cross-platform rich text editor with a notepad interface, enhanced with advanced features beyond standard notepad.
 - [Parchment](https://github.com/tywil04/parchment) - Simple local-only cross-platform text editor with basic markdown support.
 - [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
