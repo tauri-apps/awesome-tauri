@@ -190,7 +190,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [NeoDLP](https://github.com/neosubhamoy/neodlp) ![v2] - Modern video/audio downloader based on `yt-dlp` with browser integration.
 - [PunyTunes](https://github.com/mjoblin/punytunes) ![v1] - Control StreamMagic music streamers from the system tray.
-- [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps with full context. Works with Ollama.
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps with full context. Works with Ollama.
 - [SilentKeys](https://github.com/gptguy/silentkeys) ![v2] - Privacy-first, real-time dictation app built with Tauri, powered by `Parakeet ASR`, `Silero-VAD`, and on-device inference via `ORT`.
 - [ToneTempo](https://tonetempo.com) ![closed source] ![paid] - Workout and run with AutoMixed music and an AI fitness coach.
 - [Voxly](https://github.com/ibrahimshadev/dikt) ![v2] - Voice dictation app with AI modes that clean up speech before pasting into any active app.
