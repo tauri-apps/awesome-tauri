@@ -219,6 +219,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [DocKit](https://github.com/geek-fun/dockit) - GUI client for NoSQL databases such as elasticsearch, OpenSearch, etc.
 - [Duckling](https://github.com/l1xnan/duckling) - Lightweight and fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
 - [Elasticvue](https://elasticvue.com/) - Free and open-source Elasticsearch GUI
+- [MQLens](https://mqlens.com) ![v2] - Native MongoDB GUI with every auth mode, TLS/SSH/SOCKS5, aggregation pipelines, schema analysis, GridFS, embedded `mongosh`, and optional AI query assistant.
 - [Noir](https://noirdb.dev) - Keyboard-driven database management client.
 - [pgMagic🪄](https://pgmagic.app/?ref=awesometauri) ![closed source] ![paid] - GUI client to talk to Postgres in SQL or with natural language.
 - [qsv pro](https://qsvpro.dathere.com) ![closed source] ![paid] - Explore spreadsheet data including CSV in interactive data tables with generated metadata and a node editor based on the `qsv` CLI.
