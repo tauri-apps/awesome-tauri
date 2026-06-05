@@ -398,6 +398,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
 - [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
 - [HuLa](https://github.com/HuLaSpark/HuLa) - HuLa is a desktop instant messaging app built on Tauri+Vue3 (not just instant messaging).
+- [Huiyu MD](https://github.com/huiyu9144/Huiyu-MD) ![v2] - Minimal, lightning-fast Markdown reader for Windows & macOS. Dark/Light themes, Ctrl+scroll zoom, KaTeX math, code highlighting.
 - [Gramax](https://github.com/Gram-ax/gramax) - Free, open-source application for creating, editing, and publishing Git-driven documentation sites using Markdown and a visual editor.
 
 ### Productivity
