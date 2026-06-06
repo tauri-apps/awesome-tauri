@@ -489,6 +489,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Dwall](https://github.com/dwall-rs/dwall) - Change the Windows desktop and lock screen wallpapers according to the sun's azimuth and altitude angles, just like on macOS.
 - [Fancy Screen Recorder](https://fancyapps.com/freebies/) ![closed source] - Record entire screen or a selected area, trim and save as a GIF or video.
 - [FanslySync](https://github.com/SticksDev/FanslySync) - Sync your Fansly data with 3rd party applications, securely!
+- [Fluxlay](https://fluxlay.com) ![closed source] ![v2] - Live wallpapers for macOS and Windows; write a wallpaper as a React or Vue component and it runs natively on your desktop.
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
 - [Get Unique ID](https://github.com/hiql/get-unique-id-app) - Generates unique IDs for you to use in debugging, development, or anywhere else you may need a unique ID.
 - [Happy](https://github.com/thewh1teagle/happy) - Control HappyLight compatible LED strip with ease.
