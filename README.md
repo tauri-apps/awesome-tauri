@@ -437,6 +437,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Stik](https://github.com/0xMassi/stik_app) ![v2] - Instant thought capture for macOS with on-device AI semantic search. Hotkey → type → done. 8MB binary, plain markdown files, MIT licensed.
 - [Takma](https://github.com/jam53/Takma) - Kanban-style to-do app, fully offline with support for Markdown, labels, due dates, checklists and deep linking.
 - [Tencent Yuanbao](https://yuanbao.tencent.com/) ![closed source] - Tencent Yuanbao is an AI application based on Tencent Hunyuan large model. It is an all-round assistant that can help you with writing, painting, copywriting, translation, programming, searching, reading and summarizing.
+- [Themia](https://www.themia.app) ![closed source] ![paid] ![v2] - Transparent always-on-desktop widgets for Windows including email, calendar, todo, system monitors, weather, and more, with shared design tokens and grid layout.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
 - [Tranzit](https://github.com/kr5hn4/tranzit) ![v2] - Cross-platform app to securely share files with nearby devices over your local network.
 - [UniMe](https://github.com/impierce/identity-wallet) ![v2] - Identity Wallet for people to manage Decentralized Identities and Verifiable Credentials.
