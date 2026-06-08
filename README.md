@@ -112,6 +112,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-iap](https://github.com/Choochmeque/tauri-plugin-iap) - Plugin that enables full In-App Purchases flow for Android, macOS, iOS and Windows.
 - [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
 - [tauri-plugin-in-app-review](https://github.com/Gbyte-Group/tauri-plugin-in-app-review) ![v2] - In-app app rating prompts using native platform APIs.
+- [tauri-plugin-ios-glass-tabbar](https://github.com/tuanle96/tauri-plugin-ios-glass-tabbar) ![v2] - Native iOS 26 Liquid Glass `UITabBar`, bridged to your web navigation.
 - [tauri-plugin-ios-photos](https://github.com/Gbyte-Group/tauri-plugin-ios-photos) ![v2] - iOS Photos album and asset management via native APIs.
 - [tauri-plugin-js](https://github.com/HuakunShen/tauri-plugin-js) ![v2] - Give your app Electron-like JS backends with type-safe RPC powered by `kkrpc`. Supports Bun, Node.js, and Deno.
 - [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) - Disable screen timeout on Android and iOS.
