@@ -216,7 +216,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Annimate](https://github.com/matthias-stemmler/annimate) - Convenient export of query results from the ANNIS system for linguistic corpora.
 - [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) - The Best Surprise Redis Desktop Client.
 - [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
-- [DocKit](https://github.com/geek-fun/dockit) - GUI client for NoSQL databases such as elasticsearch, OpenSearch, etc.
+- [DocKit](https://github.com/geek-fun/dockit) - Agentic NoSQL GUI built with Tauri + Vue 3. Manage MongoDB, Elasticsearch, OpenSearch, and DynamoDB. Agentic Data Studio with built-in Data AI Agent for natural language database queries.
 - [Duckling](https://github.com/l1xnan/duckling) - Lightweight and fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
 - [Elasticvue](https://elasticvue.com/) - Free and open-source Elasticsearch GUI
 - [Noir](https://noirdb.dev) - Keyboard-driven database management client.
