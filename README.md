@@ -396,6 +396,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Notpad](https://github.com/Muhammed-Rahif/Notpad) - Cross-platform rich text editor with a notepad interface, enhanced with advanced features beyond standard notepad.
 - [Parchment](https://github.com/tywil04/parchment) - Simple local-only cross-platform text editor with basic markdown support.
 - [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
+- [Slate](https://github.com/MiaAI-Lab/Slate) - Local-first, OLED-friendly Windows markdown editor built with Tauri 2, Rust, and Svelte 5. Features live preview, multi-tab editing, and zero telemetry.
 - [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
 - [HuLa](https://github.com/HuLaSpark/HuLa) - HuLa is a desktop instant messaging app built on Tauri+Vue3 (not just instant messaging).
 - [Gramax](https://github.com/Gram-ax/gramax) - Free, open-source application for creating, editing, and publishing Git-driven documentation sites using Markdown and a visual editor.
