@@ -354,6 +354,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Japanese](https://github.com/meel-hd/japanese) - Learn Japanese Hiragana and Katakana. Memorize, write, pronounce, and test your knowledge.
 - [Manjaro Starter](https://github.com/oguzkaganeren/manjaro-starter) - Documentation and support app for new Manjaro users.
 - [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Practice piano chords, scales, and more using your MIDI keyboard.
+- [Remember](https://github.com/linustalacko/remember) - Local-first spaced-repetition flashcards with Anki import and optional end-to-end sync.
 - [Solars](https://github.com/hiltontj/solars) - Visualize the planets of our solar system.
 - [Syre](https://github.com/syre-data/syre) - Scientific data assistant.
 - [Rosary](https://github.com/Roseblume/Rosary) - Study Christianity.
