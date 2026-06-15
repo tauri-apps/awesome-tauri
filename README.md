@@ -102,6 +102,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-blec](https://github.com/MnlPhlp/tauri-plugin-blec) - Cross platform Bluetooth Low Energy client based on `btleplug`.
 - [tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) - Advanced disk caching solution with memory layer, TTL management, compression support, and cross-platform compatibility for desktop and mobile.
 - [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - Clipboard plugin for reading/writing clipboard text/image/html/rtf/files, and monitoring clipboard update.
+- [tauri-plugin-configurate](https://github.com/Crysta1221/tauri-plugin-configurate) ![v2] - Type-safe configuration management plugin supporting keyring.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-desktop-underlay](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay) - Attach a window to desktop, below icons and above wallpaper.
 - [tauri-plugin-device-info](https://github.com/edisdev/tauri-plugin-device-info) ![v2] - Access comprehensive device information including battery, network, storage, display, and system details across desktop and mobile.
