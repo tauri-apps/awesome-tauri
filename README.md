@@ -399,6 +399,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
 - [HuLa](https://github.com/HuLaSpark/HuLa) - HuLa is a desktop instant messaging app built on Tauri+Vue3 (not just instant messaging).
 - [Gramax](https://github.com/Gram-ax/gramax) - Free, open-source application for creating, editing, and publishing Git-driven documentation sites using Markdown and a visual editor.
+- [BoltPage](https://github.com/Silverfell/BoltPage) - Local-first Markdown editor and viewer with multi-window editing, live preview and a fuzzy file switcher.
 
 ### Productivity
 
