@@ -151,7 +151,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
 - [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely typesafe Tauri commands.
-- [tauri-typegen](https://github.com/thwbh/tauri-typegen) - Effortless typesafety and validation for your tauri commands, powered by Zod.
+- [tauri-typegen](https://github.com/thwbh/tauri-typegen) ![v2] - Effortless typesafety and validation for your tauri commands, powered by Zod.
 - [tauri-htmx-extension](https://github.com/ChristianPavilonis/tauri-htmx-extension) - Extention for using htmx with Tauri apis.
 - [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) - Example macOS Menubar app project.
 - [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) - Example macOS Spotlight app project.
