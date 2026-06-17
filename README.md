@@ -502,7 +502,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
 - [Mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller.
-- [MyKVM](https://github.com/XxMinor/mykvm) - Open-source software KVM for sharing keyboard, mouse, and clipboard across macOS, Windows, and Linux on trusted LANs.
+- [MyKVM](https://github.com/XxMinor/mykvm) ![v2] - Open-source software KVM for sharing keyboard, mouse, and clipboard across trusted LANs.
 - [NeoHtop](https://github.com/Abdenasser/neohtop) - Cross platform system monitoring tool with a model look and feel.
 - [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
 - [Pachtop](https://pachtop.com/) - Modern Cross-platform system monitor 🚀
