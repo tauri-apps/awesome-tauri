@@ -198,6 +198,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![v2] - Speech-to-text app. Press shortcut → speak → get text. Supports local and cloud transcription with AI transformations.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
 - [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
+- [ai0-video-creator](https://github.com/ajoesoft/ai0-video-creator) - All-in-one offline AI video creation desktop built with Tauri v2, Rust, React 19, supports Ollama & ComfyUI local AI pipeline.
 
 ### ChatGPT clients
 
