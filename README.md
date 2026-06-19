@@ -155,6 +155,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) - Example macOS Menubar app project.
 - [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) - Example macOS Spotlight app project.
 - [tauri-mcp-server](https://github.com/hypothesi/mcp-server-tauri) ![v2] - MCP server and plugin for rapid development and debugging.
+- [tauri-playwright](https://github.com/srsholmes/tauri-playwright) ![v2] - Playwright E2E testing for Tauri apps. Controls the real native webview with auto-waiting, locator assertions, network mocking, native screenshots, and video recording.
 - [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare.
 - [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) - Automatically interface the Tauri updater with git repository releases.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
