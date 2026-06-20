@@ -184,6 +184,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
 - [Char](https://github.com/fastrepl/char) - AI notepad for meetings with flexible AI stack and on-device storage.
 - [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - GUI client for a Jellyfin server based on Vue.js and Tauri.
+- [Lyra Music](https://github.com/twtrubiks/lyra-music) ![v2] - Lightweight Linux desktop music player built with Svelte 5 and rodio for pure-Rust audio playback.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
