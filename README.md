@@ -329,6 +329,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered PC ports of the Jak and Daxter series.
 - [Outer Wilds Mod Manager](https://github.com/ow-mods/ow-mod-man) - Cross-platform mod manager for `Outer Wilds`.
 - [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
+- [QueryLoL](https://github.com/ishtartec/query-lol-desktop) ![v2] - League of Legends companion with per-level game plans, auto-applied builds, draft intelligence, smurf detection, and post-game analysis.
 - [Rai Pal](https://github.com/raicuparta/rai-pal) - Manager for universal mods such as `UEVR` and `UUVR`.
 - [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
 - [Retrom](https://github.com/JMBeresford/retrom) - Private cloud game library distribution server + frontend/launcher.
