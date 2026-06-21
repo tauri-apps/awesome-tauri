@@ -177,6 +177,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Compresso](https://github.com/codeforreal1/compressO) - Cross-platform video compression app powered by FFmpeg.
 - [Cosmos](https://meetcosmos.com/) ![closed source] - Search your media library by describing scenes. Navigate terabytes with natural language, reverse image search, and audio transcription locally on your machine.
 - [Curses](https://github.com/mmpneo/curses) - Speech-to-Text and Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
+- [Direct Light](https://github.com/oukeming64-tech/direct-light) ![v2] - Studio lighting previsualization sandbox for directors and cinematographers, with real-time light, shadow, and camera preview in a white studio.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
 - [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
 - [Global Hotkey Spotify](https://github.com/Sid-V/global_hotkey_spotify) ![v2] - Control Spotify playback with custom global keyboard shortcuts, no media keys needed.
