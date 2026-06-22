@@ -108,6 +108,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) - Native macOS drag-out (file promise) support.
 - [tauri-plugin-drpc](https://github.com/smokingplaya/tauri-plugin-drpc) - Discord RPC support.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
+- [tauri-plugin-fs-stream](https://github.com/aiueo13/tauri-plugin-fs-stream) ![v2] - Provide file I/O via the Web API ReadableStream and WritableStream.
 - [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
 - [tauri-plugin-iap](https://github.com/Choochmeque/tauri-plugin-iap) - Plugin that enables full In-App Purchases flow for Android, macOS, iOS and Windows.
 - [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
