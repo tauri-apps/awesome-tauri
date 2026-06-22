@@ -370,6 +370,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Nhex](https://github.com/nhexirc/nhex) - Next-generation IRC client inspired by HexChat.
 - [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server for RustDesk, an open source remote desktop.
 - [RustDuck](https://github.com/thewh1teagle/RustDuck) - Cross platform dynamic DNS updater for duckdns.org.
+- [Rustty](https://github.com/Aleixenandros/Rustty) - Cross-platform SSH, SFTP, FTP and RDP client and connection manager with a GPU terminal, tunnels, KeePass support and end-to-end encrypted sync.
 - [r-shell](https://github.com/GOODBOY008/r-shell) ![v2] - Modern SSH client featuring multi-session management, integrated file browser, system monitoring, and more.
 - [T-Shell](https://github.com/TheBlindM/T-Shell) - An open-source SSH, SFTP intelligent command line terminal application.
 - [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
