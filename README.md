@@ -260,6 +260,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Ngroker](https://ngroker.com) ![closed source] ![paid] - 🆖ngrok gui client.
 - [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source code from an IDL.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
+- [Reado](https://github.com/WatermelonBros/reado) ![v2] - Read-first code IDE for the AI era; you review changes and leave durable anchored comments while the agent commits.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
 - [TangleGuard](https://tangleguard.com) ![closed source] - A software architecture monitoring tool 
