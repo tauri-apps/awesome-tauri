@@ -127,6 +127,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-screenshots](https://github.com/ayangweb/tauri-plugin-screenshots) - Get screenshots of windows and monitors.
 - [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) - Cross-compatible serialport communication tool.
 - [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) - Cross-compatible serialport communication tool for tauri 2.
+- [tauri-plugin-sharekit](https://github.com/Choochmeque/tauri-plugin-sharekit) ![v2] - Share content through native sharing interfaces on Android, iOS, macOS, and Windows.
 - [tauri-plugin-sharesheet](https://github.com/buildyourwebapp/tauri-plugin-sharesheet) - Share content to other apps via the Android Sharesheet or iOS Share Pane.
 - [tauri-plugin-svelte](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-svelte) - Persistent Svelte stores.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) - Detailed system information.
