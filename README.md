@@ -429,6 +429,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [PasteBar](https://github.com/PasteBar/PasteBarApp) - Limitless, Free Clipboard Manager for Mac and Windows. Effortless management of everything you copy and paste.
 - [PicSharp](https://github.com/AkiraBit/PicSharp) ![v2] - With powerful and richly configured compression functions, it helps you easily optimize images, providing outstanding performance and a convenient operation experience.
 - [Pomodoro](https://github.com/g07cha/pomodoro) - Time management tool based on Pomodoro technique.
+- [Praxia Desktop](https://github.com/praxia-dev/praxia) ![v2] - Local-first AI workspace where chat schedules cron jobs, fans out parallel batches across files, and generates editable native .pptx. Tauri 2 + Python (PyInstaller) sidecar; Apache 2.0; free on Microsoft Store.
 - [Progressive](https://github.com/h8moss/progressive)![v2] - Todo app with progress tracking. Supports task weighting, percentage completion, and parent/child tasks.
 - [Qopy](https://github.com/0PandaDEV/Qopy) - The fixed Clipboard Manager for Windows and Mac.
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
