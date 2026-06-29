@@ -107,6 +107,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-device-info](https://github.com/edisdev/tauri-plugin-device-info) ![v2] - Access comprehensive device information including battery, network, storage, display, and system details across desktop and mobile.
 - [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) - Native macOS drag-out (file promise) support.
 - [tauri-plugin-drpc](https://github.com/smokingplaya/tauri-plugin-drpc) - Discord RPC support.
+- [tauri-plugin-esc-pos](https://github.com/Kosadchiy/tauri-plugin-esc-pos) ![v2] - ESC/POS receipt printer support over USB and TCP.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
 - [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
 - [tauri-plugin-iap](https://github.com/Choochmeque/tauri-plugin-iap) - Plugin that enables full In-App Purchases flow for Android, macOS, iOS and Windows.
