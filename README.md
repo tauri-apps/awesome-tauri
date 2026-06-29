@@ -178,6 +178,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Cosmos](https://meetcosmos.com/) ![closed source] - Search your media library by describing scenes. Navigate terabytes with natural language, reverse image search, and audio transcription locally on your machine.
 - [Curses](https://github.com/mmpneo/curses) - Speech-to-Text and Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
+- [EKO](https://github.com/reactivepixels/eko) ![v2] - Bit-perfect audiophile music player for macOS. Native Rust engine with output device sample-rate matching, for Navidrome/Subsonic servers and local files.
 - [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
 - [Global Hotkey Spotify](https://github.com/Sid-V/global_hotkey_spotify) ![v2] - Control Spotify playback with custom global keyboard shortcuts, no media keys needed.
 - [Hopp](https://github.com/gethopp/hopp) ![v2] - Open source remote pair programming app.
