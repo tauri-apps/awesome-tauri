@@ -269,6 +269,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Worktree Status](https://github.com/sandercox/worktree-status/) - Get git repo status in your macOS MenuBar or Windows notification area.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 - [Yume](https://github.com/aofp/yume) ![v2] - Native desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
+- [Zitext Editor](https://github.com/zitrino-oss/zitext-editor) ![v2] - Fast, minimalist code editor for macOS, Windows, and Linux with sub-300ms startup, multi-cursor editing, 60+ language syntax highlighting, and built-in JSON/XML/YAML tools.
 
 ### Ebook readers
 
