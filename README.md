@@ -325,6 +325,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 - [Gale](https://github.com/Kesomannen/gale) - Mod manager for many games on `Thunderstore`.
 - [HQ Launcher](https://github.com/p-asta/hq-launcher) - `lethal company` high quota launcher
+- [RefractMC](https://github.com/RefractMC/Refract_MC) - Mod manager for `Minecraft` with open-source code, instance manager and all-mods services integration.
 - [Modrinth App](https://github.com/modrinth/code/blob/main/apps/app) - Cross-platform launcher for `Minecraft` with mod management.
 - [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered PC ports of the Jak and Daxter series.
 - [Outer Wilds Mod Manager](https://github.com/ow-mods/ow-mod-man) - Cross-platform mod manager for `Outer Wilds`.
