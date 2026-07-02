@@ -343,6 +343,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Information
 
+- [AI Usage Ball](https://github.com/aiusageball/ai-usage-ball) ![paid] ![v2] - Source-available macOS desktop app that shows remaining Claude, Codex / ChatGPT, and Antigravity usage limits as live liquid gauges.
 - [Cores](https://github.com/Levminer/cores) ![paid] - Modern hardware monitor with remote monitoring.
 - [HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) ![v2] - Hardware monitor with persistent historical data, customizable dashboard, and flexible graph themes.
 - [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
