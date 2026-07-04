@@ -484,6 +484,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TypeView - KeyStroke Visualizer](https://github.com/dunkbing/typeview) - Visualizes keys pressed on the screen and simulates the sound of mechanical keyboard.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
+- [clipygo](https://github.com/it-atelier-gn/clipygo) ![v2] - Clipboard monitor that matches patterns via regex and routes content to plugin-based targets.
 - [CrabCamera](https://github.com/Michael-A-Kuykendall/crabcamera) - Professional desktop camera plugin for Tauri applications with WebRTC streaming and advanced hardware controls.
 - [DecentPaste](https://github.com/decentpaste/decentpaste) ![v2] - Cross-platform clipboard sharing over local network with P2P encryption.
 - [Dwall](https://github.com/dwall-rs/dwall) - Change the Windows desktop and lock screen wallpapers according to the sun's azimuth and altitude angles, just like on macOS.
