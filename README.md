@@ -337,7 +337,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Shard Launcher](https://github.com/Th0rgal/shard) ![v2] - Open-source Minecraft launcher with declarative profiles, content-addressed storage, and Modrinth/CurseForge integration.
 - [SJMC Launcher](https://github.com/UNIkeEN/SJMCL) ![v2] - Launcher for `Minecraft` with instance management and multi-account support.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
-- [Steam Game Idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and boost playtime automatically.
+- [Steam Game Idler](https://github.com/zevnda/steam-game-idler) ![v2] - Farm Steam trading cards, manage achievements, and boost playtime automatically.
 - [Tauri Chess](https://github.com/jamessizeland/tauri-chess) - Implementation of Chess, logic in Rust and visualization in React.
 - [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
 - [Quadrant](https://github.com/mrquantumoff/quadrant/) - Tool for managing Minecraft mods and modpacks with the ability to use Modrinth and CurseForge.
