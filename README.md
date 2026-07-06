@@ -534,6 +534,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [WSL UI](https://github.com/octasoft-ltd/wsl-ui) ![v2] - A lightweight desktop application for managing WSL distributions on Windows.
 - [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
 - [Zapicon](https://zapicon.once.work/en) ![closed source] ![paid] ![v2] - Cross-platform icon generator with visual editing, iOS squircle, theme presets, design guidelines, and one-click multi-platform export.
+- [Ziplark](https://github.com/zhitongblog/ziplark) ![v2] - Cross-platform file archiver: extracts ZIP, RAR, 7z, tar and ISO and creates ZIP/7z/tar with AES-256 from one small Rust engine; also ships a CLI and an MCP server.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
