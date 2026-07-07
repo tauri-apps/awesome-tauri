@@ -181,6 +181,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
 - [Global Hotkey Spotify](https://github.com/Sid-V/global_hotkey_spotify) ![v2] - Control Spotify playback with custom global keyboard shortcuts, no media keys needed.
 - [Hopp](https://github.com/gethopp/hopp) ![v2] - Open source remote pair programming app.
+- [Humla](https://github.com/michaelwilhelmsen/humla) ![v2] - Records meetings on macOS with no bot in the call and transcribes on-device with Whisper, then writes an AI summary.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
 - [Char](https://github.com/fastrepl/char) - AI notepad for meetings with flexible AI stack and on-device storage.
 - [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - GUI client for a Jellyfin server based on Vue.js and Tauri.
