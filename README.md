@@ -284,6 +284,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [BULKUS](https://github.com/KM8Oz/BULKUS) - Email validation software.
 - [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
 - [mdsilo Desktop](https://github.com/mdSilo/mdSilo-app) - Feed reader and knowledge base.
+- [Prudii Mail](https://github.com/sLuCHaa/prudii-app) - Privacy-first desktop email client that blocks trackers, keeps mail local, and works with Gmail, Outlook and IMAP.
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Internet Reader driven by AI. Supports fetching of search engine information and RSS.
 
 ### File management
