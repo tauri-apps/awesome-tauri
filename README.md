@@ -483,6 +483,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Basset](https://github.com/mohammadmansour200/basset) ![v2] - All-in-one offline media toolkit: cut, convert, compress, and remove instruments from audio, video, and images.
 - [TypeView - KeyStroke Visualizer](https://github.com/dunkbing/typeview) - Visualizes keys pressed on the screen and simulates the sound of mechanical keyboard.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
+- [Burrete](https://github.com/SergeiNikolenko/Burrete) ![v2] - macOS molecular workspace with Finder Quick Look, 3D views, chemistry grids, and local workflow-artifact inspection.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [CrabCamera](https://github.com/Michael-A-Kuykendall/crabcamera) - Professional desktop camera plugin for Tauri applications with WebRTC streaming and advanced hardware controls.
 - [DecentPaste](https://github.com/decentpaste/decentpaste) ![v2] - Cross-platform clipboard sharing over local network with P2P encryption.
