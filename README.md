@@ -490,6 +490,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Fancy Screen Recorder](https://fancyapps.com/freebies/) ![closed source] - Record entire screen or a selected area, trim and save as a GIF or video.
 - [FanslySync](https://github.com/SticksDev/FanslySync) - Sync your Fansly data with 3rd party applications, securely!
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
+- [Gemini Collector](https://github.com/FirenzeLor/gemini-collector) ![v2] - Back up Google Gemini conversations, attachments, and AI-generated media locally as JSON.
 - [Get Unique ID](https://github.com/hiql/get-unique-id-app) - Generates unique IDs for you to use in debugging, development, or anywhere else you may need a unique ID.
 - [Happy](https://github.com/thewh1teagle/happy) - Control HappyLight compatible LED strip with ease.
 - [Imagenie](https://github.com/zhongweili/imagenie) - AI-powered desktop app for stunning image transformations
