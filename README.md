@@ -265,6 +265,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TangleGuard](https://tangleguard.com) ![closed source] - A software architecture monitoring tool 
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
+- [Tokibean](https://github.com/ZGhey/tokibean) ![v2] - Desktop pet that mirrors what Claude Code is doing and tracks token usage against the official Anthropic 5-hour window.
 - [verbcode](https://github.com/Verbcode/verbcode-release) ![closed source] - Simplify your localization journey.
 - [Worktree Status](https://github.com/sandercox/worktree-status/) - Get git repo status in your macOS MenuBar or Windows notification area.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
