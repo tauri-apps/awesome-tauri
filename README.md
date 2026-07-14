@@ -261,6 +261,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source code from an IDL.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
+- [Skill Sync](https://github.com/TreatTrick/skill-sync) ![v2] - Syncs Agent Skills across machines through a private GitHub repository.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
 - [TangleGuard](https://tangleguard.com) ![closed source] - A software architecture monitoring tool 
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
