@@ -203,6 +203,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop application.
 - [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Cross-platform productivity ChatGPT assistant launcher.
+- [Flint](https://github.com/TheFlintAI/Flint) - Modular multi-agent application that lets you solve the hardest problems in the simplest way.
 - [Jan](https://github.com/menloresearch/jan) ![v2] - Open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.
 - [Nexo](https://github.com/Nexo-Agent/nexo) - All-in-One Workspace AI
