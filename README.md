@@ -404,6 +404,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [Banban](https://github.com/HubertK05/banban) - Kanban board with tags, categories and markdown support.
 - [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist eye care reminder app to reduce eye strain, featuring customizable timers , full-screen popups, and screen-on-time.
+- [Bodhi](https://github.com/bigduu/Bodhi-AI) ![v2] - Local-first desktop AI agent that does the work, not just chats: breaks tasks down, calls tools (shell, files, MCP, sub-agents), streams every step live, and turns repeat work into scheduled automation.
 - [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
 - [Clippy](https://github.com/0-don/clippy) - Clipboard manager with sync & encryption.
 - [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for Windows and macOS.
