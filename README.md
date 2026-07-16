@@ -379,6 +379,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Office & Writing
 
+- [Arf](https://github.com/tunabirgun/arf) ![v2] - Local-first second brain for scientists and coders: plain-Markdown notes with wikilinks, LaTeX and code, a knowledge graph, and on-device embeddings that surface related but unlinked notes.
 - [Astro Editor](https://github.com/dannysmith/astro-editor) - Clean markdown editor for Astro content collections with frontmatter editing, component insertion, and writing-focused interface.
 - [fylepad](https://github.com/imrofayel/fylepad/) - Notepad with powerful rich-text editing, built with Vue & Tauri.
 - [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
