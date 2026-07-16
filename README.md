@@ -179,6 +179,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Curses](https://github.com/mmpneo/curses) - Speech-to-Text and Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
 - [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
 - [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
+- [Flowtake](https://github.com/JNX03/Flowtake) ![v2] - Local-first screen recorder and timeline editor for polished developer demos.
 - [Global Hotkey Spotify](https://github.com/Sid-V/global_hotkey_spotify) ![v2] - Control Spotify playback with custom global keyboard shortcuts, no media keys needed.
 - [Hopp](https://github.com/gethopp/hopp) ![v2] - Open source remote pair programming app.
 - [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
