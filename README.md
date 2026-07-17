@@ -247,6 +247,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [GitButler](https://gitbutler.com) - GitButler is a new Source Code Management system.
 - [Github Security Alerts](https://github.com/stephanebouget/github-security-alerts) ![v2] - Monitors security vulnerabilities across your GitHub repositories in real-time.
 - [GitLight](https://github.com/colinlienard/gitlight) - GitHub & GitLab notifications on your desktop.
+- [Glance](https://github.com/onmcore/glance-releases) ![closed source] - Git GUI for Windows, focused on performance in large repositories.
 - [JET Pilot](https://www.jet-pilot.app) - Kubernetes desktop client that focuses on less clutter, speed and good looks.
 - [Hoppscotch](https://hoppscotch.com/download) ![closed source] - Trusted by millions of developers to build, test and share APIs.
 - [Keadex Mina](https://github.com/keadex/keadex) - Open Source, serverless IDE to easily code and organize at a scale C4 model diagrams.
