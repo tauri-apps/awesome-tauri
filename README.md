@@ -295,6 +295,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
 - [Payload](https://payload.app/) ![closed source] - Drag & drop file transfers over local networks and online.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A file explorer from the future.
+- [Scanner Reloaded](https://github.com/Majrooo/scanner-reloaded) - Cross-platform disk space visualizer with interactive sunburst chart.
 - [SquirrelDisk](https://github.com/adileo/squirreldisk) - Beautiful cross-platform disk usage analysis tool.
 - [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's taking up your Time Machine backup space.
 - [Xplorer](https://github.com/kimlimjustin/xplorer) - Customizable, modern and cross-platform File Explorer.
