@@ -129,6 +129,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) - Cross-compatible serialport communication tool for tauri 2.
 - [tauri-plugin-sharesheet](https://github.com/buildyourwebapp/tauri-plugin-sharesheet) - Share content to other apps via the Android Sharesheet or iOS Share Pane.
 - [tauri-plugin-svelte](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-svelte) - Persistent Svelte stores.
+- [tauri-plugin-system-audio](https://github.com/Subcue/tauri-plugin-system-audio) ![v2] - Microphone + system audio (WASAPI loopback) dual capture with WebRTC AEC3 echo cancellation, 16 kHz mono PCM streams for STT.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) - Detailed system information.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) - TCP socket support.
 - [tauri-plugin-theme](https://github.com/wyhaya/tauri-plugin-theme) - Dynamically change Tauri App theme.
