@@ -233,6 +233,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [AppHub](https://github.com/francesco-gaglione/AppHub) - Streamlines .appImage package installation, management, and uninstallation through an intuitive Linux desktop interface.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
+- [Atrahasis API Client](https://atrahasis.dev) ![closed source] ![v2] - API Client and Development Platform, with a flow runner, load testing, mock server and `atra` CLI.
 - [Beadbox](https://beadbox.app) ![closed source] - Real-time visual dashboard for monitoring AI agent task coordination, dependencies, and handoffs.
 - [Brew Services Manage](https://github.com/persiliao/brew-services-manage)![closed source] macOS Menu Bar application for managing Homebrew services.
 - [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
