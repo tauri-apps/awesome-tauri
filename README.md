@@ -528,6 +528,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Toolcat](https://toolcat.app) ![closed source] - All-in-one toolkit for developers and creators.
 - [TrayFier](https://github.com/dubisdev/trayfier) - Supercharge your Windows Tray with links, files, executables...
 - [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for Transmission torrent daemon.
+- [VentoyStudio](https://github.com/Tim0219800/VentoyStudio) ![v2] - Configure unattended Windows installs on a Ventoy drive: generates autounattend.xml and the matching ventoy.json entry.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 - [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
