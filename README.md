@@ -260,6 +260,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Ngroker](https://ngroker.com) ![closed source] ![paid] - 🆖ngrok gui client.
 - [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source code from an IDL.
 - [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
+- [PinkCode](https://github.com/3xian/PinkCode) ![v2] - Desktop GUI for running parallel Grok Build agents with activity, usage, file-change, and permission views.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
 - [TangleGuard](https://tangleguard.com) ![closed source] - A software architecture monitoring tool 
