@@ -416,6 +416,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Google Task Desktop Client](https://github.com/codad5/google-task-tauri) - Google Task Desktop Client
 - [HackDesk](https://github.com/EastSun5566/hackdesk) - Hackable HackMD desktop application.
 - [iDO](https://github.com/UbiquantAI/IDO) ![v2] - AI-powered desktop productivity tool for you to manage tasks, ideas, and technical knowledge.
+- [IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) - Eight-platform full-stack AI operating system unifying 176 LLMs via LangGraph + MCP + A2A. The desktop app is built with Tauri + Rust for cross-platform system integration. Apache 2.0.
 - [jasnoo](https://jasnoo.com) ![closed source] ![paid] - Desktop software designed to help you solve problems, prioritise daily actions and focus
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
 - [Kianalol](https://github.com/zxh3/kianalol) - Spotlight-like efficiency tool for swift website access.
