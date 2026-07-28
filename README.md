@@ -254,6 +254,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [KFtray](https://github.com/hcavarsan/kftray) - A tray application that manages port forwarding in Kubernetes.
 - [Kunobi](https://kunobi.ninja) ![closed source] - Rust Kubernetes management from your desktop, with built-in MCP server.
 - [Kubeli](https://github.com/atilladeniz/Kubeli) ![v2] - Kubernetes management with resource visualization, multi-cluster support, AI chat, and MCP server.
+- [Plexory](https://koleeit.github.io/plexory-releases/) ![closed source] ![v2] - Discover, compare, and install Claude Code skills, plugins, and MCP servers across multiple marketplaces in one desktop app.
 - [PraccJS](https://github.com/alyalin/PraccJS) - Lets you practice JavaScript with real-time code execution.
 - [PromptLab](https://github.com/haideralsh/prompt-lab) ![v2] - Open-source, cross-platform desktop app for building and providing code-related context to large language models
 - [nda](https://github.com/kuyoonjo/nda) - Network Debug Assistant - UDP, TCP, Websocket, SocketIO, MQTT
