@@ -187,6 +187,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
+- [Multi Screen Recorder](https://github.com/doanduc/multi-screen-recorder) ![v2] - Record up to 4 screens/windows at once into a single video with automatic grid layout, resolution caps (720p-8K) and one-click MP4 export.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [NeoDLP](https://github.com/neosubhamoy/neodlp) ![v2] - Modern video/audio downloader based on `yt-dlp` with browser integration.
 - [PunyTunes](https://github.com/mjoblin/punytunes) ![v1] - Control StreamMagic music streamers from the system tray.
