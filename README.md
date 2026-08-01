@@ -11,6 +11,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 </div>
 
+- [IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) - Cross-platform desktop AI client built with Tauri 2.0 + Rust. Frontend: React 19 + Tailwind 4. Backend: bundled Fastify (Node) + FastAPI (Python) servers. Features: 176 LLMs, RAG, Agent marketplace, offline mode. 8-platform sibling of the IHUI-AI ecosystem. Apache 2.0. https://aizhs.top
 ## Table of Contents
 
 - [Getting Started](#getting-started)
