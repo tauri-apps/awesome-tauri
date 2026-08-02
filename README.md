@@ -137,6 +137,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) - UDP socket support.
 - [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
+- [tauri-plugin-widgets](https://github.com/s00d/tauri-plugin-widgets) ![v2] - Cross-platform home-screen widgets with WidgetKit, AppWidgetManager, Adaptive Cards, and desktop webviews.
 - [tauri-remote-ui](https://github.com/DraviaVemal/tauri-remote-ui) - Make you web app bundle available as web page for test and development.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 
