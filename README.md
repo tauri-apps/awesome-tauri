@@ -459,6 +459,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Defguard](https://github.com/defguard/client) - WireGuard VPN destkop client with Two-factor (2FA) authentication.
 - [Gluhny](https://github.com/angeldollface/gluhny) A graphical interface to validate IMEI numbers.
 - [JumpServer](https://github.com/jumpserver/client/) ![v2] - Open-source PAM client, modern, beautiful, and natively consistent.
+- [Jura Trace](https://juralabs.org/) - Local-first desktop app for image authenticity verification: C2PA provenance signing and AI/deepfake detection, all on-device.
 - [OneKeePass](https://github.com/OneKeePass/desktop) - Secure, modern, cross-platform and KeePass compatible password manager.
 - [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
 - [Secops](https://github.com/kunalsin9h/secops) - Ubuntu Operating System security made easy.
