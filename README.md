@@ -269,6 +269,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Worktree Status](https://github.com/sandercox/worktree-status/) - Get git repo status in your macOS MenuBar or Windows notification area.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 - [Yume](https://github.com/aofp/yume) ![v2] - Native desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
+- [Zynlex](https://github.com/webtools-dotcom/Zynlex) ![v2] - Developer browser with localhost server detection, per-tab network log, viewport emulation, and header injection rules.
 
 ### Ebook readers
 
