@@ -234,7 +234,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [AppHub](https://github.com/francesco-gaglione/AppHub) - Streamlines .appImage package installation, management, and uninstallation through an intuitive Linux desktop interface.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
 - [Beadbox](https://beadbox.app) ![closed source] - Real-time visual dashboard for monitoring AI agent task coordination, dependencies, and handoffs.
-- [BitFun](https://github.com/GCWing/BitFun) ![v2] - Desktop AI agent that ships code in real repositories and drives the browser, terminal, and desktop apps.
+- [BitFun](https://github.com/GCWing/BitFun) ![v2] - Desktop AI agent that builds each task its own interface, with a conversation bound to that interface's live state.
 - [Brew Services Manage](https://github.com/persiliao/brew-services-manage)![closed source] macOS Menu Bar application for managing Homebrew services.
 - [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
 - [CrabNebula DevTools](https://crabnebula.dev/devtools) - Visual tool for understanding your app. Optimize the development process with easy debugging and profiling.
