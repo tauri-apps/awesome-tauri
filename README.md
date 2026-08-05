@@ -352,6 +352,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Learning
 
 - [Japanese](https://github.com/meel-hd/japanese) - Learn Japanese Hiragana and Katakana. Memorize, write, pronounce, and test your knowledge.
+- [Origa](https://github.com/yurvon-screamo/origa) - Open source Japanese learning app. Built-in dictionaries, kanji with furigana, grammar guide, phrases, FSRS reviews. Russian and English UI. Offline-first. Cross-platform: desktop, Android, and web.
 - [Manjaro Starter](https://github.com/oguzkaganeren/manjaro-starter) - Documentation and support app for new Manjaro users.
 - [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Practice piano chords, scales, and more using your MIDI keyboard.
 - [Solars](https://github.com/hiltontj/solars) - Visualize the planets of our solar system.
