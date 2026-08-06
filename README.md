@@ -357,6 +357,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Solars](https://github.com/hiltontj/solars) - Visualize the planets of our solar system.
 - [Syre](https://github.com/syre-data/syre) - Scientific data assistant.
 - [Rosary](https://github.com/Roseblume/Rosary) - Study Christianity.
+- [SkillCoco](https://github.com/skillcoco/skillcoco) ![v2] - Open-source adaptive learning app with Bayesian Knowledge Tracing, spaced repetition, and AI-judged hands-on terminal labs.
 
 ### Networking
 
