@@ -197,6 +197,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![v2] - Speech-to-text app. Press shortcut → speak → get text. Supports local and cloud transcription with AI transformations.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
+- [YTAudioBar](https://github.com/ilyassan/ytaudiobar) - Turns YouTube into a Spotify-style music and podcast player with search, playlists, a queue, and offline downloads in MP3, M4A, or OGG.
 - [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
 
 ### ChatGPT clients
