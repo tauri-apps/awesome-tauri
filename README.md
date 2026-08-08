@@ -428,6 +428,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies meets Pomodoro.
 - [PasteBar](https://github.com/PasteBar/PasteBarApp) - Limitless, Free Clipboard Manager for Mac and Windows. Effortless management of everything you copy and paste.
 - [PicSharp](https://github.com/AkiraBit/PicSharp) ![v2] - With powerful and richly configured compression functions, it helps you easily optimize images, providing outstanding performance and a convenient operation experience.
+- [Pithflow](https://pithflow.com) ![closed source] ![paid] ![v2] - Windows-native AI voice dictation. Hold a hotkey, speak, and cleaned-up text is typed into the focused app - works over RDP/Citrix and handles bilingual English/Spanish.
 - [Pomodoro](https://github.com/g07cha/pomodoro) - Time management tool based on Pomodoro technique.
 - [Progressive](https://github.com/h8moss/progressive)![v2] - Todo app with progress tracking. Supports task weighting, percentage completion, and parent/child tasks.
 - [Qopy](https://github.com/0PandaDEV/Qopy) - The fixed Clipboard Manager for Windows and Mac.
