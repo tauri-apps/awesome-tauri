@@ -327,6 +327,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [HQ Launcher](https://github.com/p-asta/hq-launcher) - `lethal company` high quota launcher
 - [Modrinth App](https://github.com/modrinth/code/blob/main/apps/app) - Cross-platform launcher for `Minecraft` with mod management.
 - [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered PC ports of the Jak and Daxter series.
+- [OpenSpeedy](https://github.com/game1024/OpenSpeedy) - Open-source game speed controller for Windows.
 - [Outer Wilds Mod Manager](https://github.com/ow-mods/ow-mod-man) - Cross-platform mod manager for `Outer Wilds`.
 - [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
 - [Rai Pal](https://github.com/raicuparta/rai-pal) - Manager for universal mods such as `UEVR` and `UUVR`.
