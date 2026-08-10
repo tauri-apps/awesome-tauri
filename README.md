@@ -390,6 +390,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Inkwell](https://github.com/4worlds4w-svg/inkwell) - Portable, offline-first Markdown editor. Single exe, no install, zero telemetry.
 - [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application with built-in ChatGPT extension.
+- [SimpleMark](https://github.com/StevenRidder/simplemark) ![v2] - Calm local Markdown reader for AI/agent-written documents — always rendered, always your file (Mermaid, Vega, math, file watch).
 - [MD Viewer](https://github.com/kuyoonjo/md-viewer) - Cross-platform markdown viewer.
 - [MDX Notes](https://github.com/maqi1520/mdx-notes/tree/tauri-app) - Versatile WeChat typesetting editor and cross-platform Markdown note-taking software.
 - [Noor](https://noor.to/) ![closed source] - Chat app for high-performance teams. Designed for uninterrupted deep work and rapid collaboration.
