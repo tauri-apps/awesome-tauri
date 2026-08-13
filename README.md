@@ -368,6 +368,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [mDNS-Browser](https://github.com/hrzlgnm/mdns-browser) - Cross-platform mDNS browser app for discovering network services using mDNS.
 - [NetDia](https://github.com/shellrow/netdia) ![v2] - Cross-platform network diagnostic tool for inspecting, monitoring, and analyzing your network.
 - [Nhex](https://github.com/nhexirc/nhex) - Next-generation IRC client inspired by HexChat.
+- [Remota](https://github.com/privum-cloud/remota) ![v2] - Multi-protocol remote connection manager for Linux with SSH and RDP, an encrypted vault, and self-hosted access to machines behind NAT.
 - [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server for RustDesk, an open source remote desktop.
 - [RustDuck](https://github.com/thewh1teagle/RustDuck) - Cross platform dynamic DNS updater for duckdns.org.
 - [r-shell](https://github.com/GOODBOY008/r-shell) ![v2] - Modern SSH client featuring multi-session management, integrated file browser, system monitoring, and more.
