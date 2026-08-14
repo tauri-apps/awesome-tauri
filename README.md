@@ -208,6 +208,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Nexo](https://github.com/Nexo-Agent/nexo) - All-in-One Workspace AI
 - [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) ![v2] - Local LLM chat application with privacy-focused AI inference using `candle` and Rust backend.
+- [PrismOS-AI](https://github.com/mkbhardwas12/prismos-ai) ![v2] - Ask a local Ollama model about your own files, offline. Local knowledge graph, works with Wi-Fi off.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
 - [Yack](https://github.com/rajatkulkarni95/yack) - Spotlight like app for interfacing with GPT APIs.
 
