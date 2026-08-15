@@ -269,8 +269,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Worktree Status](https://github.com/sandercox/worktree-status/) - Get git repo status in your macOS MenuBar or Windows notification area.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 - [Yume](https://github.com/aofp/yume) ![v2] - Native desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
-- [MetaClean](https://github.com/Moresyl/metaclean) ![v2] - Offline privacy cleaner for image, Office, PDF, and text metadata.
-- [MetaClean](https://github.com/Moresyl/metaclean) ![v2] - Offline privacy cleaner for image, Office, PDF, and text metadata.
+
 ### Ebook readers
 
 - [Alexandria](https://github.com/btpf/Alexandria) - Minimalistic cross-platform eBook reader.
@@ -501,6 +500,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Locus](https://github.com/Sushants-Git/locus) - Intelligent activity tracker that helps you understand and improve your focus habits.
 - [MagicMirror](https://github.com/idootop/MagicMirror) - Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you!
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
+- [MetaClean](https://github.com/Moresyl/metaclean) ![v2] - Offline privacy cleaner for image, Office, PDF, and text metadata.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
 - [Mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller.
 - [NeoHtop](https://github.com/Abdenasser/neohtop) - Cross platform system monitoring tool with a model look and feel.
