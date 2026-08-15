@@ -271,6 +271,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Yume](https://github.com/aofp/yume) ![v2] - Native desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
 
 ### Ebook readers
+- [DeepSeek Harness Desktop](https://github.com/fendouai/deepseek-harness-desktop) - The plugin-native AI agent workspace, packaged as a real desktop app.
 
 - [Alexandria](https://github.com/btpf/Alexandria) - Minimalistic cross-platform eBook reader.
 - [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
