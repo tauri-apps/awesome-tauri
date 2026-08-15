@@ -243,6 +243,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities.
 - [Docker DB Manager](https://github.com/AbianS/docker-db-manager) ![v2] - Desktop app for managing Docker database containers with visual interface, data persistence, and one-click connection strings.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) ![v2] - Cross-platform desktop host for DeepSeek Harness with setup and lifecycle management.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
 - [GitButler](https://gitbutler.com) - GitButler is a new Source Code Management system.
 - [Github Security Alerts](https://github.com/stephanebouget/github-security-alerts) ![v2] - Monitors security vulnerabilities across your GitHub repositories in real-time.
