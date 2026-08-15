@@ -270,7 +270,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 - [Yume](https://github.com/aofp/yume) ![v2] - Native desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
 - [MetaClean](https://github.com/Moresyl/metaclean) ![v2] - Offline privacy cleaner for image, Office, PDF, and text metadata.
-
+- [MetaClean](https://github.com/Moresyl/metaclean) ![v2] - Offline privacy cleaner for image, Office, PDF, and text metadata.
 ### Ebook readers
 
 - [Alexandria](https://github.com/btpf/Alexandria) - Minimalistic cross-platform eBook reader.
