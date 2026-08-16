@@ -170,7 +170,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ## Applications
 
 ### Audio & Video
-
+- [Orchestro](https://github.com/Kryiocifer/Orchestro) - A modern Spotify-inspired desktop music player for local music libraries, playlists, and music downloads.
 - [Ascapes Mixer](https://github.com/ilyaly/ascapes-mixer) - Audio mixer with three dedicated players for music, ambience and SFX for TTRPG sessions.
 - [Cap](https://github.com/CapSoftware/cap) - The open-source Loom alternative. Beautiful, shareable screen recordings.
 - [Cardo](https://github.com/n0vella/cardo) - Podcast player with integrated search and management of subscriptions.
