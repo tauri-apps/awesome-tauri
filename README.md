@@ -531,6 +531,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 - [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
+- [Wandful](https://github.com/ostapondo/wandful) ![v2] - Magic wand for the desktop: draw a rune with the mouse and the keyboard shortcut bound to it is cast into the app you were in. macOS.
 - [WSL UI](https://github.com/octasoft-ltd/wsl-ui) ![v2] - A lightweight desktop application for managing WSL distributions on Windows.
 - [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
 - [Zapicon](https://zapicon.once.work/en) ![closed source] ![paid] ![v2] - Cross-platform icon generator with visual editing, iOS squircle, theme presets, design guidelines, and one-click multi-platform export.
