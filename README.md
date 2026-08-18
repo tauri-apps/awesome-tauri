@@ -275,6 +275,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Alexandria](https://github.com/btpf/Alexandria) - Minimalistic cross-platform eBook reader.
 - [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
 - [Readest](https://github.com/chrox/readest) - Modern and feature-rich ebook reader designed for avid readers.
+- [Shelfmark](https://github.com/infonality/shelfmark) ![v2] - Personal library and reader for ebooks and comics. Offline, local, no account.
 - [Cloak](https://github.com/Xav1erSue/cloak) - A see-through mini reader for slacking off at work.
 
 ### Email & Feeds
