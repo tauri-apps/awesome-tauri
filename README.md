@@ -376,6 +376,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for Linux, macOS, and Windows.
 - [Watcher](https://github.com/windht/watcher) - API manager built for a easier use to manage and collaborate.
 - [Wirefish](https://github.com/stefanodevenuto/wirefish) - Cross-platform packet sniffer and analyzer.
+- [Wrolp Terminal](https://github.com/wrolp/wrolp) ![v2] - Open-source desktop SSH terminal and server-ops tool — multi-tab, SFTP, remote editor, session recording, Docker analysis & AI assistant.
 
 ### Office & Writing
 
