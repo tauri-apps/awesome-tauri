@@ -57,6 +57,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular with Typescript, SASS, and Hot Reload.
 - [create-tauri-react](https://github.com/MrLightful/create-tauri-react) - Well-architected template for Vite, React, and Tailwind CSS.
 - [nuxtor](https://github.com/NicolaSpadari/nuxtor) - Nuxt 4 + Tauri 2 + TailwindCSS v4, a starter template for building desktop apps.
+- [oxide-dock](https://github.com/fridzema/oxide-dock) ![v2] - Vue 3 with Vite, Tailwind CSS, typed Rust bridge, Vitest, Playwright, coverage-gated Rust tests, and automated cross-platform releases via `release-please`.
 - [rust-full-stack-with-authentication-template](https://github.com/sollambert/rust-full-stack-with-auth-template) - Yew, Tailwind CSS, Tauri, Axum, Sqlx - Starter template for full stack applications with built-in authentication.
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
 - [tauri-astro-template](https://github.com/HuakunShen/tauri-astro-template) - Astro template
