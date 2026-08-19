@@ -269,6 +269,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Worktree Status](https://github.com/sandercox/worktree-status/) - Get git repo status in your macOS MenuBar or Windows notification area.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 - [Yume](https://github.com/aofp/yume) ![v2] - Native desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
+- [Rust Studio](https://github.com/pomagrenate/rust-studio) ![v2] - Fast, hackable Rust IDE with native `rust-analyzer` LSP diagnostics and AST quick-fixes.
 
 ### Ebook readers
 
