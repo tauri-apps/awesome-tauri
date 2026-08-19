@@ -440,6 +440,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
 - [Tranzit](https://github.com/kr5hn4/tranzit) ![v2] - Cross-platform app to securely share files with nearby devices over your local network.
 - [UniMe](https://github.com/impierce/identity-wallet) ![v2] - Identity Wallet for people to manage Decentralized Identities and Verifiable Credentials.
+- [Wandful](https://github.com/ostapondo/wandful) ![v2] - Draw a shape with the mouse and the shortcut you bound to it fires in the app you were using. macOS and Windows.
 - [WindowPet](https://github.com/SeakMengs/WindowPet) - Overlay app that lets you have adorable companions such as pets and anime characters on your screen.
 - [Zawee](https://zawee.net) ![closed source] - Experience the synergy of Kanban boards, note-taking, file sharing, and more, seamlessly integrated into one powerful application.
 - [Zenith](https://github.com/dewy01/Zenith) ![v1] - Whether you're looking to organize tasks, collaborate on projects, or keep track of important dates, Zenith has got you covered.
@@ -531,7 +532,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
 - [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
-- [Wandful](https://github.com/ostapondo/wandful) ![v2] - Magic wand for the desktop: draw a rune with the mouse and the keyboard shortcut bound to it is cast into the app you were in. macOS.
 - [WSL UI](https://github.com/octasoft-ltd/wsl-ui) ![v2] - A lightweight desktop application for managing WSL distributions on Windows.
 - [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
 - [Zapicon](https://zapicon.once.work/en) ![closed source] ![paid] ![v2] - Cross-platform icon generator with visual editing, iOS squircle, theme presets, design guidelines, and one-click multi-platform export.
