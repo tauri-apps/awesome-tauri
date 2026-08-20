@@ -74,6 +74,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Official Plugins](https://github.com/tauri-apps/plugins-workspace) ![officially maintained] - This repository contains all the plugins maintained by the Tauri team. This includes plugins for NFC, logging, notifications, and more.
 - [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ![officially maintained] - Make your windows vibrant (v1 only - added to Tauri in v2).
 - [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] - Add native shadows to your windows in Tauri (v1 only - added to Tauri in v2).
+- [connectrpc-tauri](https://github.com/mathematic-inc/connectrpc-tauri) ![v2] - Connect RPC transport over the IPC, supporting unary, server streaming, client streaming and bidi methods without an HTTP server.
 - [sentry-tauri](https://github.com/timfish/sentry-tauri) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
 - [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system that leverages WebSocket.
 - [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window to panel.
