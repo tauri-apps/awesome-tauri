@@ -83,6 +83,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-android-fs](https://github.com/aiueo13/tauri-plugin-android-fs) ![v2] - Access the file system on Android.
 - [tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase) - Privacy-first and minimalist analytics for desktop and mobile apps.
 - [tauri-plugin-auth](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-auth) - Auth plugin for iOS that uses ASWebAuthenticationSession for authentication, which allows keychain access
+- [tauri-plugin-biometry](https://github.com/Choochmeque/tauri-plugin-biometry) ![v2] - Biometric authentication plugin with secure data storage for Android, iOS, macOS, and Windows.
 - [tauri-plugin-blec](https://github.com/MnlPhlp/tauri-plugin-blec) - Cross platform Bluetooth Low Energy client based on `btleplug`.
 - [tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) - Advanced disk caching solution with memory layer, TTL management, compression support, and cross-platform compatibility for desktop and mobile.
 - [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - Clipboard plugin for reading/writing clipboard text/image/html/rtf/files, and monitoring clipboard update.
