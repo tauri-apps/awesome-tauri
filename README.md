@@ -121,6 +121,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) - UDP socket support.
 - [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
+- [tauri-plugin-webdriver-automation](https://github.com/danielraffel/tauri-webdriver) - W3C WebDriver plugin enabling automated e2e testing of Tauri apps on macOS.
 - [tauri-remote-ui](https://github.com/DraviaVemal/tauri-remote-ui) - Make you web app bundle available as web page for test and development.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 
@@ -132,6 +133,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Deno in Tauri](https://github.com/typed-sigterm/deno-in-tauri) - Run JS/TS code with Deno Core Engine, in Tauri apps.
 - [faynosync-update-server](https://github.com/ku9nov/faynoSync) - Self-hosted Dynamic Update Server with statistics, supporting Tauri and other platforms. Flexible features for seamless app updates and insights.
 - [kkrpc](https://github.com/kunkunsh/kkrpc) - Seamless RPC communication between a Tauri app and node/deno/bun processes, just like Electron.
+- [mcp-tauri-automation](https://github.com/danielraffel/mcp-tauri-automation) - MCP server for AI-driven automation and testing of Tauri apps via Claude Code, Codex, etc.
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
 - [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely typesafe Tauri commands.
