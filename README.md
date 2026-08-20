@@ -125,6 +125,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-widgets](https://github.com/s00d/tauri-plugin-widgets) ![v2] - Cross-platform home-screen widgets with WidgetKit, AppWidgetManager, Adaptive Cards, and desktop webviews.
 - [tauri-remote-ui](https://github.com/DraviaVemal/tauri-remote-ui) - Make you web app bundle available as web page for test and development.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
+- [Victauri](https://github.com/4DA-Systems/victauri) ![v2] - Full-stack testing and introspection: DOM, IPC, Rust backend, and database from one test or AI agent (MCP) - no WebDriver or CDP.
 
 ## Integrations
 
