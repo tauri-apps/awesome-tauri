@@ -38,13 +38,4 @@ This is the link to the project: [TITLE](URL)
 - [ ] The template provides enough information about how to get started and what's included.
 - [ ] The template is pretty different from the existing templates.
 
-### Apps
-
-<!-- Ignore unless you're contributing to Apps -->
-
-- [ ] The app is original and not too simple.
-- [ ] The README is in English.
-- [ ] The app makes a reasonable effort to be fast, lightweight and secure.
-- [ ] If the app is closed source, evidence of it being built with Tauri is included.
-
 ### Additional Context
