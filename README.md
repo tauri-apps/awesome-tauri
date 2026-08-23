@@ -149,3 +149,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 [youtube]: https://img.shields.io/badge/YouTube-FF0000
 [v1]: https://img.shields.io/badge/v1-white
 [v2]: https://img.shields.io/badge/v2-white
+## Applications
+
+### Utilities
+- [NeXDM](https://github.com/nexdm2026/NexDM) - Ultra-lightweight (3.5MB) 64-segment high-speed download manager built with Rust & Tauri.
