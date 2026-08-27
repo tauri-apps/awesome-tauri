@@ -102,6 +102,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) ![v2] - Support for checking and requesting macOS system permissions.
 - [tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) ![v2] - Handle mobile Share Intents with a FIFO queue
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) ![v2] - MQTT client support.
+- [tauri-plugin-multiline-menubar](https://github.com/lingyired/tauri-plugin-multiline-menubar) ![v2] - Two-line macOS menu bar label with per-line font family, weight, size, color and monospaced digits.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) ![v2] - Tools for reading network information and scanning network.
 - [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) ![v1] - Block the power save functionality in the OS.
 - [tauri-plugin-ota](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-ota) ![v2] - OTA plugin for applications that just want to continuously deliever new JavaScript code based on a manfiest.
