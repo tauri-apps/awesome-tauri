@@ -139,6 +139,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example)telemetry - Example macOS Menubar app project.
 - [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example)telemetry - Example macOS Spotlight app project.
 - [tauri-mcp-server](https://github.com/hypothesi/mcp-server-tauri) ![v2] - MCP server and plugin for rapid development and debugging.
+- [tauri-docs-mcp](https://github.com/fxckcode/tauri-docs-mcp) ![v2] - Read-only MCP server for searching a versioned Tauri 2 documentation corpus for AI coding agents.
+- [tauri-skills](https://github.com/fxckcode/tauri-skills) ![v2] - Community-maintained Agent Skills for building secure and maintainable Tauri 2 applications.
 - [tauri-update-cloudflare](https://github.com/mackenly/tauri-update-cloudflare) ![v2] - One-click deploy a Tauri Update Server to Cloudflare.
 - [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) ![v1] - Automatically interface the Tauri updater with git repository releases.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) ![v2] - Integrate Tauri in a Vite project to build cross-platform apps.
