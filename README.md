@@ -112,6 +112,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) ![v2] - Cross-compatible serialport communication tool.
 - [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) ![v2] - Cross-compatible serialport communication tool.
 - [tauri-plugin-sharesheet](https://github.com/buildyourwebapp/tauri-plugin-sharesheet) ![v2] - Share content to other apps via the Android Sharesheet or iOS Share Pane.
+- [tauri-plugin-snap-layout](https://github.com/Hyph-M/tauri-plugin-snap-layout) ![v2] - Enables native Windows 11 snap layouts for borderless windows.
 - [tauri-plugin-svelte](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-svelte) ![v2] - Persistent Svelte stores.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) ![v2] - Detailed system information.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) ![v2] - TCP socket support.
