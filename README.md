@@ -141,6 +141,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-mcp-server](https://github.com/hypothesi/mcp-server-tauri) ![v2] - MCP server and plugin for rapid development and debugging.
 - [tauri-update-cloudflare](https://github.com/mackenly/tauri-update-cloudflare) ![v2] - One-click deploy a Tauri Update Server to Cloudflare.
 - [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) ![v1] - Automatically interface the Tauri updater with git repository releases.
+- [TestDriver](https://testdriver.ai) ![v2] - AI code reviewer that runs your Tauri app in a real desktop sandbox on every pull request, finds bugs, and builds regression tests.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) ![v2] - Integrate Tauri in a Vite project to build cross-platform apps.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
