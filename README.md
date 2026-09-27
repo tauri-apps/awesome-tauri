@@ -118,6 +118,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-thermal-printer](https://github.com/luis3132/tauri-plugin-thermal-printer) ![v2] - Add support to handle thermal printers.
 - [tauri-plugin-tracing](https://github.com/fltsci/tauri-plugin-tracing) ![v2] - Structured logging with the tracing crate, featuring JS-to-Rust log bridging, file rotation, and flamegraph profiling.
 - [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) ![v2] - UDP socket support.
+- [tauri-plugin-updater-delta](https://github.com/Chahdane/tauri-updater) ![v2] - Delta updates: ship only what changed, falls back to full download.
 - [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) ![v2] - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) ![v2] - View and share files on mobile.
 - [tauri-plugin-widgets](https://github.com/s00d/tauri-plugin-widgets) ![v2] - Cross-platform home-screen widgets with WidgetKit, AppWidgetManager, Adaptive Cards, and desktop webviews.
