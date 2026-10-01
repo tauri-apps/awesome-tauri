@@ -116,6 +116,28 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) ![v2] - Detailed system information.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) ![v2] - TCP socket support.
 - [tauri-plugin-thermal-printer](https://github.com/luis3132/tauri-plugin-thermal-printer) ![v2] - Add support to handle thermal printers.
+- [tauri-plugin-tracing](https://github.com/fltsci/tauri-plugin-tracing) - Structured logging with the tracing crate, featuring JS-to-Rust log bridging, file rotation, and flamegraph profiling.
+- [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) - UDP socket support.
+- [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
+- [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
+- [tauri-remote-ui](https://github.com/DraviaVemal/tauri-remote-ui) - Make you web app bundle available as web page for test and development.
+- [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
+
+### Integrations
+
+- [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno.
+- [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
+- [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
+- [Deno in Tauri](https://github.com/typed-sigterm/deno-in-tauri) - Run JS/TS code with Deno Core Engine, in Tauri apps.
+- [faynosync-update-server](https://github.com/ku9nov/faynoSync) - Self-hosted Dynamic Update Server with statistics, supporting Tauri and other platforms. Flexible features for seamless app updates and insights.
+- [kkrpc](https://github.com/kunkunsh/kkrpc) - Seamless RPC communication between a Tauri app and node/deno/bun processes, just like Electron.
+- [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
+- [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
+- [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely typesafe Tauri commands.
+- [tauri-typegen](https://github.com/thwbh/tauri-typegen) ![v2] - Effortless typesafety and validation for your tauri commands, powered by Zod.
+- [tauri-htmx-extension](https://github.com/ChristianPavilonis/tauri-htmx-extension) - Extention for using htmx with Tauri apis.
+- [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) - Example macOS Menubar app project.
+- [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) - Example macOS Spotlight app project.
 - [tauri-plugin-tracing](https://github.com/fltsci/tauri-plugin-tracing) ![v2] - Structured logging with the tracing crate, featuring JS-to-Rust log bridging, file rotation, and flamegraph profiling.
 - [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) ![v2] - UDP socket support.
 - [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) ![v2] - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
