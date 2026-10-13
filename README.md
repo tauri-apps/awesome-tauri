@@ -113,6 +113,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) ![v2] - Cross-compatible serialport communication tool.
 - [tauri-plugin-sharesheet](https://github.com/buildyourwebapp/tauri-plugin-sharesheet) ![v2] - Share content to other apps via the Android Sharesheet or iOS Share Pane.
 - [tauri-plugin-svelte](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-svelte) ![v2] - Persistent Svelte stores.
+- [tauri-plugin-sync](https://github.com/karan5028ji/tauri-plugin-sync) ![v2] - Local-first SQLite replication engine with CDC shadow triggers, LWW conflict resolution, and offline queueing.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) ![v2] - Detailed system information.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) ![v2] - TCP socket support.
 - [tauri-plugin-thermal-printer](https://github.com/luis3132/tauri-plugin-thermal-printer) ![v2] - Add support to handle thermal printers.
