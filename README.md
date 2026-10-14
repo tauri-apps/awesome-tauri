@@ -100,6 +100,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) ![v2] - Disable screen timeout on Android and iOS.
 - [tauri-plugin-libsql](https://github.com/HuakunShen/tauri-plugin-libsql) ![v2] - libsql/Turso database support with encryption, embedded replicas, and Drizzle ORM integration.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) ![v2] - Support for checking and requesting macOS system permissions.
+- [tauri-plugin-medialibrary](https://github.com/universalappfactory/tauri-plugin-medialibrary) ![v2] - Access the system media library such as android mediastore or xdg_picture picture directory. 
 - [tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) ![v2] - Handle mobile Share Intents with a FIFO queue
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) ![v2] - MQTT client support.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) ![v2] - Tools for reading network information and scanning network.
