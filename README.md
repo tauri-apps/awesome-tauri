@@ -87,7 +87,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) ![v1] - Native context menu.
 - [tauri-plugin-desktop-underlay](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay) ![v2] - Attach a window to desktop, below icons and above wallpaper.
 - [tauri-plugin-device-info](https://github.com/edisdev/tauri-plugin-device-info) ![v2] - Access comprehensive device information including battery, network, storage, display, and system details across desktop and mobile.
-- [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) ![v2] - Native macOS drag-out (file promise) support.
+- [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) ![v2] - Drag files out of the webview to Finder, Mail or any app on macOS, including file promises written only on drop.
 - [tauri-plugin-drpc](https://github.com/smokingplaya/tauri-plugin-drpc) ![v2] - Discord RPC support.
 - [tauri-plugin-esc-pos](https://github.com/Kosadchiy/tauri-plugin-esc-pos) ![v2] - ESC/POS receipt printer support over USB and TCP.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) ![v2] - Extended with additional methods for files and directories.
