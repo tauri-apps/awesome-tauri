@@ -133,6 +133,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [faynosync-update-server](https://github.com/ku9nov/faynoSync) ![v2] - Self-hosted Dynamic Update Server with statistics, supporting Tauri and other platforms. Flexible features for seamless app updates and insights.
 - [kkrpc](https://github.com/kunkunsh/kkrpc) ![v2] - Seamless RPC communication between a Tauri app and node/deno/bun processes.
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) ![v1] - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
+- [orpc-tauri](https://github.com/sabryio/orpc-tauri/tree/main/packages/tauri-link) ![v2] - Type-safe RPC over IPC with `oRPC`, dual streaming transports via SSE events and native channels, plus typed plugin routing.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) ![v2] - File drop handling component for Svelte.
 - [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) ![v2] - Completely typesafe Tauri commands.
 - [tauri-htmx-extension](https://github.com/ChristianPavilonis/tauri-htmx-extension) ![v2] - Extention for using htmx with Tauri apis.
