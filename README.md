@@ -36,6 +36,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Managing State in Desktop Applications with Rust and Tauri](https://blog.moonguard.dev/manage-state-with-tauri) ![v1] - How to share and manage any kind of state globally in Tauri apps.
 - [Setting up Actix Web in a Tauri App](https://blog.moonguard.dev/setting-up-actix-in-tauri) ![v1] - How to setup a HTTP server with Tauri and Actix Web.
 - [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) ![v1] - Rob Donnelly dives deep into Async with Tauri.
+- [Why We Built a Local-First AI Knowledge Space with Tauri 2 + Vue 3 (Instead of Electron)](https://dev.to/zand/why-we-built-a-local-first-ai-knowledge-space-with-tauri-2-vue-3-instead-of-electron-35bi) ![v2] - In-depth architecture breakdown, memory benchmarks (45MB vs 800MB), embedded LanceDB vector search, and mutation-aware citation integrity in Tauri 2.
 
 ## Templates
 
