@@ -44,6 +44,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [nuxtor](https://github.com/NicolaSpadari/nuxtor) ![v2] - Nuxt 4 + Tauri 2 + TailwindCSS v4, a starter template for building desktop apps.
 - [oxide-dock](https://github.com/fridzema/oxide-dock) ![v2] - Vue 3 with Vite, Tailwind CSS, typed Rust bridge, Vitest, Playwright, coverage-gated Rust tests, and automated cross-platform releases via `release-please`.
 - [rust-full-stack-with-authentication-template](https://github.com/sollambert/rust-full-stack-with-auth-template) ![v1] - Yew, Tailwind CSS, Tauri, Axum, Sqlx - Starter template for full stack applications with built-in authentication.
+- [Supastack](https://supastack.dev/?ref=gh_awesometauri) ![v2] - Full SaaS kit shipping Tauri 2 desktop apps alongside Next.js 16 and TanStack Start web, Expo mobile, auth, billing and AI.
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) ![v1] - Angular template
 - [tauri-astro-template](https://github.com/HuakunShen/tauri-astro-template) ![v2] - Astro template
 - [tauri-bishop-template](https://github.com/RoseBlume/Bishop-Tauri-Template) ![v2] - Minimized vanilla template designed for highschool students.
