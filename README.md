@@ -79,6 +79,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-nspopover-plugin](https://github.com/freethinkel/tauri-nspopover-plugin) ![v2] - Native NSPopover view for use in the status bar in macOS.
 - [tauri-plugin-android-battery-optimization](https://github.com/NeoHuncho/tauri-plugin-android-battery-optimization) ![v2] - Check and request battery optimization exemptions on Android.
 - [tauri-plugin-android-fs](https://github.com/aiueo13/tauri-plugin-android-fs) ![v2] - Access the file system on Android.
+- [tauri-plugin-ad2mob](https://github.com/marrionesa/tauri-plugin-ad2mob) ![v2] - Google AdMob integration for Tauri v2 apps on Android and iOS.
 - [tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase) ![v2] - Privacy-first and minimalist analytics for desktop and mobile apps.
 - [tauri-plugin-auth](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-auth) ![v2] - Auth plugin for iOS that uses ASWebAuthenticationSession for authentication, which allows keychain access.
 - [tauri-plugin-blec](https://github.com/MnlPhlp/tauri-plugin-blec) ![v2] - Cross platform Bluetooth Low Energy client based on `btleplug`.
