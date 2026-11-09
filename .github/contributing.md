@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+**Application submissions are not accepted anymore!**
+
 Make sure your pull request follows the guidelines/checklists in this document. Please note that entries can be removed if they do not follow the guidelines. Thank you for your suggestion!
 
 All projects are assumed to be free and open source unless otherwise specified using the appropriate badges to indicate otherwise.
@@ -34,10 +36,3 @@ All projects are assumed to be free and open source unless otherwise specified u
 - Documentation is in English.
 - The template provides enough information about how to get started and what's included.
 - The template is pretty different from the existing templates.
-
-## Apps
-
-- The app is original and not too simple.
-- The README is in English.
-- The app makes a reasonable effort to be fast, lightweight and secure.
-- If the app is closed source, evidence of it being built with Tauri is included.

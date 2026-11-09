@@ -1,6 +1,7 @@
 This is the link to the project: [TITLE](URL)
 
 - [ ] **I have read the [contributing guidelines](https://github.com/tauri-apps/awesome-tauri/blob/dev/.github/contributing.md).**
+- [ ] **My project is not an Application.** <!-- Application submissions are not accepted anymore! -->
 - [ ] Use the following format: `[Title](link) - Description.`
 - [ ] If the project is closed source add the `![closed source]` badge after the `(link)` but before the `-`.
 - [ ] If the project/article is non-free or paywalled add the `![paid]` badge after the `(link)` but before the `-`.
@@ -37,14 +38,5 @@ This is the link to the project: [TITLE](URL)
 - [ ] Documentation is in English.
 - [ ] The template provides enough information about how to get started and what's included.
 - [ ] The template is pretty different from the existing templates.
-
-### Apps
-
-<!-- Ignore unless you're contributing to Apps -->
-
-- [ ] The app is original and not too simple.
-- [ ] The README is in English.
-- [ ] The app makes a reasonable effort to be fast, lightweight and secure.
-- [ ] If the app is closed source, evidence of it being built with Tauri is included.
 
 ### Additional Context
