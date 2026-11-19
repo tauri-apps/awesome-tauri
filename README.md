@@ -141,6 +141,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-mcp-server](https://github.com/hypothesi/mcp-server-tauri) ![v2] - MCP server and plugin for rapid development and debugging.
 - [tauri-update-cloudflare](https://github.com/mackenly/tauri-update-cloudflare) ![v2] - One-click deploy a Tauri Update Server to Cloudflare.
 - [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) ![v1] - Automatically interface the Tauri updater with git repository releases.
+- [to-be-continuous/tauri](https://gitlab.com/to-be-continuous/tauri) ![v2] - GitLab CI/CD component that builds, signs and publishes Linux, Windows, macOS, Android and iOS apps, entirely on Linux runners.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) ![v2] - Integrate Tauri in a Vite project to build cross-platform apps.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
