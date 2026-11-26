@@ -34,6 +34,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Getting Started Using Tauri Mobile](https://medium.com/p/6f90de5b098) ![paid] - Ed Rutherford outlines how to create a mobile app with Tauri.
 - [How to use local SQLite database with Tauri and Rust](https://blog.moonguard.dev/how-to-use-local-sqlite-database-with-tauri) ![v1] - Guide to setup and use SQLite database with Tauri and Rust.
 - [Managing State in Desktop Applications with Rust and Tauri](https://blog.moonguard.dev/manage-state-with-tauri) ![v1] - How to share and manage any kind of state globally in Tauri apps.
+- [One Tauri 2 codebase, two Mac apps: a notarized DMG and a Mac App Store build](https://dev.to/byteduster/one-tauri-2-codebase-two-mac-apps-a-notarized-dmg-and-a-mac-app-store-build-j3b) ![v2] - Shipping one Tauri app as a notarized DMG and a sandboxed Mac App Store build with Cargo features.
 - [Setting up Actix Web in a Tauri App](https://blog.moonguard.dev/setting-up-actix-in-tauri) ![v1] - How to setup a HTTP server with Tauri and Actix Web.
 - [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) ![v1] - Rob Donnelly dives deep into Async with Tauri.
 
