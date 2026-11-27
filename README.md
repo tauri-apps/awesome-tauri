@@ -150,3 +150,4 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 [youtube]: https://img.shields.io/badge/YouTube-FF0000
 [v1]: https://img.shields.io/badge/v1-white
 [v2]: https://img.shields.io/badge/v2-white
+- [How I Built NeXDM: A 5 MB Rust Download Manager with SSD Guard RAM Buffering](https://dev.to/nexdm2026/how-i-built-nexdm-a-5-mb-rust-download-manager-with-ssd-guard-ram-buffering-5eo2) ![v2] - Engineering notes on building a multi-segment download manager in Rust and Tauri 2.
